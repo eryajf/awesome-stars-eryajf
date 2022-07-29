@@ -1,6 +1,16 @@
-# eryajf Awesome List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
+<h1>awesome-stars-eryajf</h1>
 
-> :star: generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/eryajf)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?logo=Undertale)](https://github.com/eryajf/awesome-stars-eryajf/stargazers)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-stars-eryajf.svg)](https://github.com/eryajf/awesome-stars-eryajf)
+[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-stars-eryajf)](https://github.com/eryajf/awesome-stars-eryajf/blob/main/LICENSE)
+
+<p> 🤩 我的star列表 🤩</p>
+
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
+</div><br>
 
 ## Table of Contents
 
@@ -324,3 +334,5 @@
 ## Smarty
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
+
+
