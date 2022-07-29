@@ -7,7 +7,7 @@
 [![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-stars-eryajf.svg)](https://github.com/eryajf/awesome-stars-eryajf)
 [![GitHub license](https://img.shields.io/github/license/eryajf/awesome-stars-eryajf)](https://github.com/eryajf/awesome-stars-eryajf/blob/main/LICENSE)
 
-<p> 🤩 我的star列表 🤩</p>
+<p> 🤩 我的star列表，每天凌晨自动更新 🤩</p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
 </div><br>
