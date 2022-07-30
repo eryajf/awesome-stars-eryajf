@@ -120,7 +120,7 @@
 
 *   [eryajf/Gist](https://github.com/eryajf/Gist) -
 
-*   [eryajf/t](https://github.com/eryajf/t) -
+*   [eryajf/t](https://github.com/eryajf/t) - 个人图床
 
 *   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
 
