@@ -20,4 +20,3 @@ jobs:
           github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
           github-name: ${{ github.repository_owner }}
-          compact-by-topic: true
