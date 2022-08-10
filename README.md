@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [Shell](#shell)
+*   [Go](#go)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [C++](#c)
@@ -37,6 +37,24 @@
 *   [CSS](#css)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
+
+*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。
+
+*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
+
+*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
+
+*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
+
+*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
+
+*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
 
 ## Go
 
@@ -98,7 +116,7 @@
 
 *   [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 
-*   [kubegems/kubegems](https://github.com/kubegems/kubegems) - KubeGems is a Multi-tenant management platform based on Kubernetes, which has supported tens of thousands of containers in stable operation right now.
+*   [kubegems/kubegems](https://github.com/kubegems/kubegems) - Let cloudnative management more easily.
 
 *   [eryajf/ldapctl](https://github.com/eryajf/ldapctl) - OpenLDAP Controller
 
@@ -180,22 +198,6 @@
 
 *   [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 
-## Shell
-
-*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-
-*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。
-
-*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
-
-*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
-
-*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
-
-*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
-
-*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
-
 ## Vue
 
 *   [GXFG/newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - NewTab Page extension for Chrome and Edge 新标签页
@@ -225,8 +227,6 @@
 *   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
 *   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [MyButifullyLife/vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow) - vue版流程图简易编辑器、简单易上手
 
 *   [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 
