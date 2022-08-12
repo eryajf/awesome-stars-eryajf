@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [Shell](#shell)
+*   [Vue](#vue)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [C++](#c)
@@ -37,6 +37,26 @@
 *   [CSS](#css)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
+
+*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。
+
+*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
+
+*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
+
+*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
+
+*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
+
+*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
 
 ## Vue
 
@@ -57,8 +77,6 @@
 *   [qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x) - 🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉
 
 *   [qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work) - Vue3 和 NaiveUI 的完美结合—Admin Work，拥有漂亮、强大、完善的功能。采用 Vue3 Vite2 Typescript NaiveUI Pinia编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。持续更新，不断完善，一直在前进~~
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 
 *   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
 
@@ -81,26 +99,6 @@
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 
 *   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-## Shell
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-
-*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。
-
-*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
-
-*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
-
-*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
-
-*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
-
-*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
 
 ## Go
 
@@ -365,6 +363,8 @@
 *   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 
 *   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 
 *   [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 
