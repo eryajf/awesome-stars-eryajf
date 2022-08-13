@@ -102,7 +102,7 @@
 
 ## Go
 
-*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - A component library for developing interactive CLI(tui,terminal) programs.
+*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - 用于开发交互式 CLI(tui,terminal) 程序的组件库 | A component library for developing interactive CLI(tui,terminal) programs.
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
 
@@ -336,7 +336,7 @@
 
 *   [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
 
-*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。走过路过，如觉不错，麻烦点个赞👆🌟
+*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 
 *   [eryajf/Gist](https://github.com/eryajf/Gist) -
 
