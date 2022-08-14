@@ -102,7 +102,7 @@
 
 ## Go
 
-*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - 用于开发交互式 CLI(tui,terminal) 程序的组件库 | A component library for developing interactive CLI(tui,terminal) programs.
+*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - 用于开发交互式 CLI(tui,terminal) 程序的组件库,提供一系列开箱即用的组件 | A component library for developing interactive CLI(tui,terminal) programs.
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
 
@@ -188,7 +188,7 @@
 
 *   [heiyeluren/xmm](https://github.com/heiyeluren/xmm) - XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance.  XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。
 
-*   [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest file download client
+*   [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 
 *   [cilium/ebpf](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
