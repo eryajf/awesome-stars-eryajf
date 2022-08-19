@@ -347,7 +347,7 @@
 
 ## Go
 
-*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - A component library for developing interactive CLI(tui,terminal) programs.
+*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - ♾️ A component library for developing interactive CLI(tui,terminal) programs.
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
 
