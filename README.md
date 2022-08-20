@@ -347,7 +347,7 @@
 
 ## Go
 
-*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - ♾️ A component library for developing interactive CLI(tui,terminal) programs.
+*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - A component library for developing interactive CLI(tui,terminal) programs.
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis web端管理工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行等】
 
@@ -449,7 +449,7 @@
 
 *   [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture and Monitoring Toolkit
 
-*   [ehids/ebpfmanager](https://github.com/ehids/ebpfmanager) - A golang ebpf libary base on  cilium/ebpf and datadog/ebpf.
+*   [ehids/ebpfmanager](https://github.com/ehids/ebpfmanager) - A golang ebpf libary based on  cilium/ebpf and datadog/ebpf.
 
 *   [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 
@@ -609,7 +609,7 @@
 
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 7 stars and 11 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 7 stars and 12 forks 🌟
 
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
