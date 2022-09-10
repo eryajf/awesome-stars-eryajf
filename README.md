@@ -125,8 +125,6 @@
 
 *   [lulu-ls/cloud-uploader](https://github.com/lulu-ls/cloud-uploader) - 网易云音乐MAC云盘上传工具
 
-*   [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
-
 *   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
 
 *   [cumany/Blue-topaz-examples](https://github.com/cumany/Blue-topaz-examples) - Blue topaz  themes example vault for Obsidian
@@ -573,6 +571,8 @@
 
 *   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 
+*   [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
+
 *   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
 
 *   [uncarbon97/helio-admin-vue-vben-1.5.0-backup](https://github.com/uncarbon97/helio-admin-vue-vben-1.5.0-backup) - 【不再维护】后续更新在 helio-admin-vue-vben 仓库
@@ -633,7 +633,7 @@
 
 *   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 一站式日志采集平台
 
-*   [didi/LogiEM](https://github.com/didi/LogiEM) - 一站式 Elasticsearch 集群指标监控与运维管控平台
+*   [didi/LogiEM](https://github.com/didi/LogiEM) - 面向Elasticsearch研发运维人员，围绕索引模板构建的零侵入、插件化的Elasticsearch GUI管控平台
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
