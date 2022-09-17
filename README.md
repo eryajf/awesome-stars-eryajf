@@ -43,6 +43,8 @@
 
 ## Go
 
+*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+
 *   [blinkbean/dingtalk](https://github.com/blinkbean/dingtalk) - golang钉钉机器人客户端。支持文本、链接、Markdown、ActionCard、FeedCard类型消息的发送，Outgoing机器人消息的接收。通过钉钉机器人接口和不同消息的封装，达到简单快速发送不同类型消息的目的。
 
 *   [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -252,8 +254,6 @@
 *   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 
 *   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-
-*   [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 
 ## Python
 
@@ -521,7 +521,7 @@
 
 *   [eryajf/blog-image-bakup](https://github.com/eryajf/blog-image-bakup) -
 
-*   [xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) - 专注于网课系统，网校系统，在线教育系统，知识付费系统。不加密不阉割，名符其实的开源，可免费商用。docker容器化部署，极速搭建专属课程点播，课程直播学习平台。
+*   [xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) - 专注于网课系统，网校系统，在线教育系统，知识付费系统。名符其实的开源，可免费商用。docker容器化部署，极速搭建专属课程点播，课程直播学习平台。
 
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 
