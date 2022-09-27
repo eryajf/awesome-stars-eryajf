@@ -147,7 +147,7 @@
 
 *   [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 
-*   [cilium/ebpf](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+*   [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
 *   [DarthPestilane/easytcp](https://github.com/DarthPestilane/easytcp) - :sparkles: :rocket: EasyTCP is a light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.
 
