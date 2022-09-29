@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Swift](#swift)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -34,12 +35,21 @@
 *   [C++](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
-*   [CSS](#css)
 *   [AppleScript](#applescript)
 *   [Assembly](#assembly)
 *   [Groovy](#groovy)
 *   [Smarty](#smarty)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
+
+*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
+
+*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## Swift
 
@@ -286,8 +296,6 @@
 *   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
 
 *   [mritd/mmh](https://github.com/mritd/mmh) - Nothing, just a simple ssh tool.
-
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
 ## Vue
 
@@ -658,14 +666,6 @@
 *   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 
 *   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
-
-## CSS
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
-
-*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## AppleScript
 
