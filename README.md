@@ -55,8 +55,6 @@
 
 *   [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 
-*   [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) - Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.
-
 *   [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 
 *   [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -250,6 +248,8 @@
 *   [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
 
 *   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
+
+*   [mritd/mmh](https://github.com/mritd/mmh) - Nothing, just a simple ssh tool.
 
 ## JavaScript
 
