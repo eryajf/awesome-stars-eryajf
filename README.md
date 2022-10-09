@@ -38,10 +38,13 @@
 *   [AppleScript](#applescript)
 *   [Assembly](#assembly)
 *   [Groovy](#groovy)
-*   [Smarty](#smarty)
 *   [Thanks](#thanks)
 
 ## Go
+
+*   [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
+
+*   [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 
 *   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 
@@ -163,7 +166,7 @@
 
 *   [ehids/ebpfmanager](https://github.com/ehids/ebpfmanager) - A golang ebpf libary based on  cilium/ebpf and datadog/ebpf.
 
-*   [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
+*   [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 
 *   [qiniu/qmgo](https://github.com/qiniu/qmgo) - Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
 
@@ -248,8 +251,6 @@
 *   [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
 
 *   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
-
-*   [mritd/mmh](https://github.com/mritd/mmh) - Nothing, just a simple ssh tool.
 
 ## CSS
 
@@ -678,10 +679,6 @@
 ## Groovy
 
 *   [sunweisheng/jenkins-json-build](https://github.com/sunweisheng/jenkins-json-build) - This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .
-
-## Smarty
-
-*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
 ## Thanks
 
