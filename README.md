@@ -43,6 +43,8 @@
 
 ## Go
 
+*   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+
 *   [eryajf/ldapool](https://github.com/eryajf/ldapool) - Connection pooling encapsulated for go-ldap packets
 
 *   [eryajf/ldapPool](https://github.com/eryajf/ldapPool) - Connection pooling encapsulated for go-ldap packets
@@ -302,8 +304,6 @@
 *   [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 
 *   [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
-
-*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## miscellaneous
 
