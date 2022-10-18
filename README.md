@@ -673,7 +673,7 @@
 
 ## Astro
 
-*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流周刊，每周一早发布~
+*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 
 ## Assembly
 
