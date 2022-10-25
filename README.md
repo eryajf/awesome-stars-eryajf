@@ -415,7 +415,7 @@
 
 *   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in a easy way.
 
-*   [xjq7/runcode](https://github.com/xjq7/runcode) - 在线代码运行编辑器，支持C++、Go、Nodejs、Rust、Java、Python
+*   [xjq7/runcode](https://github.com/xjq7/runcode) - 在线代码运行编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python
 
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
