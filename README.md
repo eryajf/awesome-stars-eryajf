@@ -24,7 +24,6 @@
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [CSS](#css)
 *   [Swift](#swift)
 *   [C](#c)
 *   [Java](#java)
@@ -35,6 +34,7 @@
 *   [C++](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
+*   [CSS](#css)
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Assembly](#assembly)
@@ -43,7 +43,11 @@
 
 ## JavaScript
 
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
 
 *   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
 
@@ -149,7 +153,7 @@
 
 *   [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 
-*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - A component library for developing interactive CLI(tui,terminal) programs.
+*   [fzdwx/infinite](https://github.com/fzdwx/infinite) - ☄ A component library for developing interactive CLI(tui,terminal) programs.
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
 
@@ -203,7 +207,7 @@
 
 *   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
 
-*   [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A light weight log and data visual analytic platform  for clickhouse.
+*   [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
 *   [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 
@@ -415,7 +419,7 @@
 
 *   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in a easy way.
 
-*   [xjq7/runcode](https://github.com/xjq7/runcode) - 在线代码运行编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python
+*   [xjq7/runcode](https://github.com/xjq7/runcode) - 🚀在线代码运行编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python
 
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
@@ -499,8 +503,6 @@
 
 *   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 
-*   [eryajf/Gist](https://github.com/eryajf/Gist) -
-
 *   [eryajf/t](https://github.com/eryajf/t) - 个人图床
 
 *   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
@@ -518,16 +520,6 @@
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
 *   [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
-
-## CSS
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
-
-*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## Swift
 
@@ -666,6 +658,14 @@
 *   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 
 *   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
+
+## CSS
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
+
+*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
+
+*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## AppleScript
 
