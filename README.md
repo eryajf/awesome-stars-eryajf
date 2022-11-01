@@ -47,7 +47,7 @@
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单【速查表】
 
 *   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
 
@@ -615,7 +615,7 @@
 
 *   [ecnice/flow](https://github.com/ecnice/flow) - 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3\&Antd，Vben）
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 7 stars and 14 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 8 stars and 14 forks 🌟
 
 ## Shell
 
