@@ -47,7 +47,7 @@
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单【速查表】
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 *   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
 
@@ -141,7 +141,7 @@
 
 *   [ysicing/go-zentao](https://github.com/ysicing/go-zentao) -  ZenTao Go SDK
 
-*   [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个开箱即用的分布式微服务后端管理系统，基于go-zero开发，提供丰富的功能如服务发现，权限管理等。 该框架可以帮助您快速开发具有RPC服务的后台管理系统。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+*   [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于go-zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 
 *   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
@@ -615,7 +615,7 @@
 
 *   [ecnice/flow](https://github.com/ecnice/flow) - 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3\&Antd，Vben）
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 8 stars and 14 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 8 stars and 13 forks 🌟
 
 ## Shell
 
