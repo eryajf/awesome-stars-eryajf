@@ -24,6 +24,7 @@
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
+*   [CSS](#css)
 *   [Swift](#swift)
 *   [C](#c)
 *   [Java](#java)
@@ -34,7 +35,6 @@
 *   [C++](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
-*   [CSS](#css)
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Assembly](#assembly)
@@ -46,8 +46,6 @@
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 *   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
 
@@ -251,7 +249,7 @@
 
 *   [smallnest/gofer](https://github.com/smallnest/gofer) -
 
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform | 云原生多云应用管理平台
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform that make application management and delivery easier
 
 *   [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture and Monitoring Toolkit
 
@@ -375,7 +373,7 @@
 
 *   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件
 
-*   [starsliao/ConsulManager](https://github.com/starsliao/ConsulManager) - 🦄ConsulManager：基于Consul的运维平台：更优雅的Consul管理UI & 多云ECS等资源自动同步Prometheus/JumpServer & Blackbox站点监控维护 & 漏洞通知/资源到期余额告警...
+*   [starsliao/ConsulManager](https://github.com/starsliao/ConsulManager) - 🦄ConsulManager：基于Consul的运维平台：更优雅的Consul管理UI & 多云ECS/MySQL等资源自动同步Prometheus/JumpServer & Blackbox站点监控维护 & 漏洞通知/资源到期余额告警...
 
 *   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
 
@@ -435,7 +433,7 @@
 
 *   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 
-*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏OCR搜索翻译以图搜图贴图录屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
+*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
 
 *   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 
@@ -520,6 +518,16 @@
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
 *   [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
+
+## CSS
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
+
+*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
+
+*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## Swift
 
@@ -658,14 +666,6 @@
 *   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 
 *   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
-
-## CSS
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
-
-*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## AppleScript
 
