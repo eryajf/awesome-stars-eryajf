@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -26,13 +27,12 @@
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [Swift](#swift)
-*   [C](#c)
+*   [C](#c-1)
 *   [Java](#java)
 *   [Python](#python)
 *   [Objective-C](#objective-c)
 *   [HTML](#html)
 *   [Shell](#shell)
-*   [C++](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
 *   [AppleScript](#applescript)
@@ -40,6 +40,14 @@
 *   [Assembly](#assembly)
 *   [Groovy](#groovy)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [alibaba/higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
 
 ## JavaScript
 
@@ -332,8 +340,6 @@
 *   [nvwa-io/nvwa-io](https://github.com/nvwa-io/nvwa-io) - Nvwa-io is a open source DevOps CI/CD auto-build and auto-deploy system（女娲 - 开源 DevOps CI/CD 自动构建和自动部署系统).  http://nvwa-io.com
 
 *   [eryajf/xirang-old](https://github.com/eryajf/xirang-old) -
-
-*   [krilor/gossh](https://github.com/krilor/gossh) - Configuration management tool inspired by Ansible, but with no yaml - just Go
 
 ## Vue
 
@@ -648,12 +654,6 @@
 *   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
 *   [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
-
-## C++
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
 
 ## Dockerfile
 
