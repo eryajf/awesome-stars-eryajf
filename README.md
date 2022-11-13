@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [EJS](#ejs)
 *   [Objective-C](#objective-c)
 *   [Swift](#swift)
 *   [Go](#go)
@@ -40,6 +41,10 @@
 *   [Assembly](#assembly)
 *   [Thanks](#thanks)
 
+## EJS
+
+*   [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置卡片
+
 ## Objective-C
 
 *   [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -52,7 +57,7 @@
 
 *   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 
-*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS 客户端（Beta）
+*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS 客户端
 
 *   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
@@ -301,8 +306,6 @@
 *   [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward.
 
 *   [jonpulsifer/dnsmon-go](https://github.com/jonpulsifer/dnsmon-go) - A golang DNS monitor inspired by https://github.com/gamelinux/passivedns
-
-*   [romnn/ldap-manager](https://github.com/romnn/ldap-manager) - cloud-native LDAP web management interface.
 
 ## Vue
 
