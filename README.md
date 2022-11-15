@@ -489,7 +489,7 @@
 
 *   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 
-*   [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi is an API development tool. Eoapi integrates basic API management functions, and by better scaling your API development work, you can better extend your API.
+*   [eolinker/eoapi](https://github.com/eolinker/eoapi) - Eoapi is an API development tool. Eoapi integrates basic API management feature, and by better scaling your API development work, you can better extend your API.
 
 *   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible, Strest or JSON
 
