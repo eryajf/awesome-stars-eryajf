@@ -43,6 +43,8 @@
 
 ## Go
 
+*   [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+
 *   [eryajf/gojenkins](https://github.com/eryajf/gojenkins) - 这个仓库fork自: https://github.com/bndr/gojenkins ，原仓库基本处于不维护状态，因此fork在这里，单独维护，如果你对这个项目有兴趣，欢迎一起维护。
 
 *   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes. Build your own cloud with one click！
@@ -255,8 +257,6 @@
 
 *   [vimsucks/wxwork-bot-go](https://github.com/vimsucks/wxwork-bot-go) - 企业微信群机器人接口 Golang 封装
 
-*   [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward.
-
 ## EJS
 
 *   [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
@@ -459,7 +459,7 @@
 
 *   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in a easy way.
 
-*   [xjq7/runcode](https://github.com/xjq7/runcode) - 🚀在线代码运行编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python
+*   [xjq7/runcode](https://github.com/xjq7/runcode) - 🚀在线代码编辑器，支持C、C++、Go、Nodejs、Rust、Java、Python、C#、PHP
 
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
