@@ -73,7 +73,7 @@
 
 *   [ysicing/go-zentao](https://github.com/ysicing/go-zentao) -  ZenTao Go SDK
 
-*   [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于go-zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+*   [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于go zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 
 *   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
