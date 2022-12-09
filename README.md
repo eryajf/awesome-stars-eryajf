@@ -44,6 +44,10 @@
 
 ## Go
 
+*   [869413421/wechatbot](https://github.com/869413421/wechatbot) - 为个人微信接入ChatGPT
+
+*   [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) - Telescope DNS，简单易用的DNS分组/转发器
+
 *   [lyuangg/ylog](https://github.com/lyuangg/ylog) - go log
 
 *   [PullRequestInc/go-gpt3](https://github.com/PullRequestInc/go-gpt3) - An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs.
@@ -256,8 +260,6 @@
 
 *   [kubecube-io/KubeCube](https://github.com/kubecube-io/KubeCube) - KubeCube is an open source enterprise-level container platform
 
-*   [liushuochen/gotable](https://github.com/liushuochen/gotable) -
-
 ## Rust
 
 *   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -371,8 +373,6 @@
 *   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
 
 *   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
-
-*   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
 ## C\#
 
