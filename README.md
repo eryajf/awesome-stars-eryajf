@@ -56,7 +56,7 @@
 
 *   [869413421/wechatbot](https://github.com/869413421/wechatbot) - 为个人微信接入ChatGPT
 
-*   [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) - Telescope DNS，简单易用的DNS分组/转发器
+*   [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) - Telescope DNS，灵活快速的DNS分组转发器
 
 *   [lyuangg/ylog](https://github.com/lyuangg/ylog) - go log
 
