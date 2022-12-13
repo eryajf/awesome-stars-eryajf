@@ -44,6 +44,10 @@
 
 ## Go
 
+*   [bbdshow/qelog](https://github.com/bbdshow/qelog) - Lightweight, high performance, low cost logging service. Support alarm, metrics statistics, quick query, access and so on
+
+*   [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -402,11 +406,9 @@
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 
-*   [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
 ## JavaScript
 
-*   [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
+*   [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 
 *   [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment) - Comment plugin in vuepress vdoing theme, supports Gitalk, Valine, Artalk...
 
@@ -511,8 +513,6 @@
 *   [xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud) - 专注于网课系统，网校系统，在线教育系统，知识付费系统。名符其实的开源，可免费商用。docker容器化部署，极速搭建专属课程点播，课程直播学习平台。
 
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
 
 ## EJS
 
