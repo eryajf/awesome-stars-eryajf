@@ -46,7 +46,7 @@
 
 *   [bbdshow/qelog](https://github.com/bbdshow/qelog) - Lightweight, high performance, low cost logging service. Support alarm, metrics statistics, quick query, access and so on
 
-*   [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+*   [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 
 *   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
@@ -57,8 +57,6 @@
 *   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
 *   [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
-
-*   [869413421/wechatbot](https://github.com/869413421/wechatbot) - 为个人微信接入ChatGPT
 
 *   [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) - Telescope DNS，灵活快速的DNS分组转发器
 
@@ -118,7 +116,7 @@
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
 
-*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统
+*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统。An admin api library with gin,  JWT and RBAC.
 
 *   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 
@@ -405,6 +403,8 @@
 *   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
+
+*   [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
 ## JavaScript
 
