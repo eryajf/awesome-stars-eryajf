@@ -86,7 +86,7 @@
 
 *   [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 
-*   [noovertime7/kubemanage](https://github.com/noovertime7/kubemanage) - An easy-to-use kubernetes management system, perfect for newbies to practice, done with client-go
+*   [noovertime7/kubemanage](https://github.com/noovertime7/kubemanage) - kubemanage是使用go+vue3开发的一款云原生运维平台，功能包括但不限于Kubernetes多集群管理、CMDB、Devops，可作为企业二次开发的模板，新手入门的学习项目
 
 *   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
