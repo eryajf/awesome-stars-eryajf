@@ -118,7 +118,7 @@
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
 
-*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - 🔥lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统。An admin api library with gin,  JWT and RBAC.
+*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统。An admin api library with gin,  JWT and RBAC.
 
 *   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 
