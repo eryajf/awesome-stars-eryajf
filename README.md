@@ -23,6 +23,7 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Python](#python)
+*   [SCSS](#scss)
 *   [Shell](#shell)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -280,8 +281,6 @@
 
 *   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
-*   [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
-
 *   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | A Selfhosted Comment System
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -411,6 +410,10 @@
 *   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
 
 *   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny智能运维PAAS平台
+
+## SCSS
+
+*   [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 
 ## Shell
 
