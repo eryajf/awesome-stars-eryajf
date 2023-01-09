@@ -473,7 +473,7 @@
 
 ## Python
 
-*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
+*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
 
 *   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 
