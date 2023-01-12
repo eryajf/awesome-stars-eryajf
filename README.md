@@ -337,7 +337,7 @@
 
 *   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台
 
-*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发运维人员，围绕索引模板构建的零侵入、插件化的Elasticsearch GUI管控平台
+*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
