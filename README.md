@@ -45,6 +45,8 @@
 
 ## Go
 
+*   [cch123/elasticsql](https://github.com/cch123/elasticsql) - convert sql to elasticsearch DSL in golang(go)
+
 *   [helloxz/zdir](https://github.com/helloxz/zdir) - Golang + Vue3开发的目录列表程序。
 
 *   [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
@@ -270,8 +272,6 @@
 *   [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 
 *   [chanyipiaomiao/hltool](https://github.com/chanyipiaomiao/hltool) - Go 开发常用工具库, Google2步验证客户端,AES加密解密,RSA加密解密,钉钉机器人,邮件发送,JWT生成解析,Log,BoltDB操作,图片操作,json操作,struct序列化
-
-*   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 
 ## JavaScript
 
