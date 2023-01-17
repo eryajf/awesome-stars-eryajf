@@ -239,7 +239,7 @@
 
 *   [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture and Monitoring Toolkit
 
-*   [ehids/ebpfmanager](https://github.com/ehids/ebpfmanager) - A golang ebpf libary based on  cilium/ebpf and datadog/ebpf.
+*   [gojue/ebpfmanager](https://github.com/gojue/ebpfmanager) - A golang ebpf libary based on  cilium/ebpf and datadog/ebpf.
 
 *   [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 
