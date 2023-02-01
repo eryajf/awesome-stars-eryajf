@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
 *   [Vue](#vue)
+*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Go](#go)
@@ -45,17 +45,9 @@
 *   [Smarty](#smarty)
 *   [Thanks](#thanks)
 
-## CSS
-
-*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
-
-*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
-
 ## Vue
+
+*   [manchan4869/CoverView-CN](https://github.com/manchan4869/CoverView-CN) - 🛠快速为您的博客文章创建精彩的封面图像。
 
 *   [Rr210/blazeB2](https://github.com/Rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
 
@@ -122,6 +114,16 @@
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
 *   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+
+## CSS
+
+*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
+
+*   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
+
+*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## JavaScript
 
@@ -231,7 +233,7 @@
 
 *   [ecnice/flow](https://github.com/ecnice/flow) - 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3\&Antd，Vben）
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 12 stars and 18 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 11 stars and 18 forks 🌟
 
 *   [pzhen/gofox](https://github.com/pzhen/gofox) - golang web 通用后台框架,基于beego + layui + mysql开发.
 
@@ -549,7 +551,7 @@
 
 *   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 
-*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS 客户端
+*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/tvOS 客户端 (A V2ex macOS/tvOS client written in SwiftUI)
 
 *   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
@@ -838,8 +840,6 @@
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 
 *   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
-
-*   [Piplin/Piplin](https://github.com/Piplin/Piplin) - :outbox\_tray: An open source self-hosted continuous integration and deployment system - QQ群： 656868
 
 ## EJS
 
