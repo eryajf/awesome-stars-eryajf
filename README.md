@@ -852,7 +852,7 @@
 
 ## C++
 
-*   [alibaba/higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
+*   [alibaba/higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway | 下一代云原生网关
 
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
