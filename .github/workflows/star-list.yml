@@ -18,5 +18,6 @@ jobs:
         with:
           api-token: ${{ secrets.ACCESS_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
+          compact-by-topic: true
           template-path: "template/README.ejs"
           github-name: ${{ github.repository_owner }}
