@@ -47,6 +47,8 @@
 
 ## Go
 
+*   [sbzhu/weworkapi\_golang](https://github.com/sbzhu/weworkapi_golang) - official wework api demo for golang
+
 *   [eryajf/chatgpt](https://github.com/eryajf/chatgpt) - chartgpt client for golang
 
 *   [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 and DALL·E API wrapper for Go
@@ -432,8 +434,6 @@
 *   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) -
 
 *   [chujieyang/commonops](https://github.com/chujieyang/commonops) - 运维 Ops 平台，欢迎体验尝试~~
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## TypeScript
 
