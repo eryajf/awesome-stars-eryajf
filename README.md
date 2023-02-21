@@ -186,7 +186,7 @@
 
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
-*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Codify and deliver intentions to Kubernetes and Clouds
+*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Platform Engineering Engine: Deliver intentions to Kubernetes and Clouds
 
 *   [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 
