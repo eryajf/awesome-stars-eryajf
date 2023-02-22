@@ -19,6 +19,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Smarty](#smarty)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -45,6 +46,8 @@
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
@@ -130,7 +133,13 @@
 
 *   [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 
+## Smarty
+
+*   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
+
 ## Go
+
+*   [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 *   [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 
@@ -280,7 +289,7 @@
 
 *   [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 
 *   [CatchZeng/dingtalk](https://github.com/CatchZeng/dingtalk) - DingTalk(dingding) 是钉钉机器人的 go 实现。支持 Docker、Jenkinsfile、命令行模式，module 模式，加签安全设置，支持链式语法创建消息，支持文本、链接、Markdown、ActionCard、FeedCard消息类型; DingTalk (dingding) is the go implementation of the DingTalk robot. Support Docker, Jenkinsfile, command line mode, module mode, signature security settings, chain syntax to create messages, support text, link, markdown,ActionCard,FeedCard message types.
 
@@ -431,8 +440,6 @@
 *   [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward.
 
 *   [jonpulsifer/dnsmon-go](https://github.com/jonpulsifer/dnsmon-go) - A golang DNS monitor inspired by https://github.com/gamelinux/passivedns
-
-*   [romnn/ldap-manager](https://github.com/romnn/ldap-manager) - cloud-native LDAP web management interface.
 
 ## Vue
 
@@ -772,8 +779,6 @@
 
 *   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
-*   [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
-
 ## PHP
 
 *   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum是一个php开发的论坛程序,Multifunctional Forum Program，(原super-forum)
@@ -807,8 +812,6 @@
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
 *   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 ## C++
 
