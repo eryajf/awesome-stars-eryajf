@@ -49,6 +49,8 @@
 
 ## TypeScript
 
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
+
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
 
 *   [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
@@ -840,8 +842,6 @@
 *   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
-
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 
 ## C++
 
