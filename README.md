@@ -217,7 +217,7 @@
 
 *   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 
-*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥PandaX 是一个golang(go)语言快速开发框架, 基于go-restful/gin +gorm + Vue3 + TypeScript + vite2 + Element-plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，工作流，支付系统，报表系统，大屏系统）构建自己的中后台。
+*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥PandaX 是一个golang(go)语言快速开发框架, 基于go-restful/gin +gorm + Vue3 + TypeScript + vite2 + Element-plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，工作流（工单系统），支付系统，报表系统，大屏系统）构建自己的中后台。
 
 *   [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 
@@ -333,6 +333,8 @@
 
 *   [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 
+*   [chanyipiaomiao/hltool](https://github.com/chanyipiaomiao/hltool) - Go 开发常用工具库, Google2步验证客户端,AES加密解密,RSA加密解密,钉钉机器人,邮件发送,JWT生成解析,Log,BoltDB操作,图片操作,json操作,struct序列化
+
 ## TypeScript
 
 *   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
@@ -424,8 +426,6 @@
 *   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 
 *   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
-
-*   [uncarbon97/helio-admin-vue-vben-1.5.0-backup](https://github.com/uncarbon97/helio-admin-vue-vben-1.5.0-backup) - 【不再维护】后续更新在 helio-admin-vue-vben 仓库
 
 *   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
 
