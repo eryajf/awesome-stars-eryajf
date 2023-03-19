@@ -50,6 +50,8 @@
 
 ## Go
 
+*   [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+
 *   [golang-infrastructure/go-if-expression](https://github.com/golang-infrastructure/go-if-expression) - Golang中的三元表达式的折中实现，用于减少代码行数提高可读性
 
 *   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
@@ -444,7 +446,7 @@
 
 *   [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template) - Vdoing主题博客模板
 
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 📝 二丫讲梵博客全部源码
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 📝 二丫讲梵👇博客全部源码
 
 *   [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 
@@ -646,7 +648,7 @@
 
 ## miscellaneous
 
-*   [xx025/carrot](https://github.com/xx025/carrot) - 这儿收集了一些免费好用的ChatGPT镜像站  当前：60个站点
+*   [xx025/carrot](https://github.com/xx025/carrot) - 这儿收集了一些免费好用的ChatGPT镜像站和其他AI站点，当前：76个站点
 
 *   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
 
@@ -749,8 +751,6 @@
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [jenkinsci/rebuild-plugin](https://github.com/jenkinsci/rebuild-plugin) - Jenkins rebuild plugin
-
-*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
 ## PHP
 
