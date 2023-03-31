@@ -18,9 +18,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Go](#go)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -28,6 +27,7 @@
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Swift](#swift)
 *   [HTML](#html)
@@ -47,123 +47,15 @@
 *   [Assembly](#assembly)
 *   [Thanks](#thanks)
 
-## Python
+## TypeScript
 
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+*   [caidukai/brain-reply](https://github.com/caidukai/brain-reply) - 更优雅的ChatGPT客户端
 
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+*   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
 
-*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
-
-*   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
-
-*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-
-*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
-
-*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
-
-*   [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
-
-*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
-
-*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
-
-*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
-
-*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny智能运维PAAS平台
-
-## miscellaneous
+*   [microvoid/retro-avatar](https://github.com/microvoid/retro-avatar) - Create indenticon-like like Github and Gravatar (retro) avatars.
 
 *   [eryajf/ChatGPT-Next-Web](https://github.com/eryajf/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
-
-*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
-
-*   [eryajf/FreeSql.Wiki.VuePress](https://github.com/eryajf/FreeSql.Wiki.VuePress) - FreeSql wiki 文档采用 vuepress
-
-*   [eryajf/rfyiamcool](https://github.com/eryajf/rfyiamcool) -
-
-*   [eryajf/athul](https://github.com/eryajf/athul) - I write about myself Here 😁
-
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-
-*   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
-
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-
-*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
-
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-
-*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
-
-*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
-
-*   [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
-
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
-
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
-
-*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
-
-*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-
-*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
-
-*   [qianguyihao/brand-list](https://github.com/qianguyihao/brand-list) - 优质品牌推荐，品质生活选择
-
-*   [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
-
-*   [eryajf/t](https://github.com/eryajf/t) - 个人图床
-
-*   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
-
-*   [eryajf/learn-github](https://github.com/eryajf/learn-github) - 学习GitHub相关交互以及功能
-
-*   [eryajf/tu](https://github.com/eryajf/tu) - 图床
-
-*   [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
-
-*   [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 11 stars and 18 forks 🌟
-
-## TypeScript
 
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 
@@ -205,13 +97,15 @@
 
 *   [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 
-*   [Christopher-Hayes/vscode-chatgpt-reborn](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) - ChatGPT Reborn - Refactor, improve, and debug your code with GPT-4.
+*   [Christopher-Hayes/vscode-chatgpt-reborn](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux
+*   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
+
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
 
 *   [eryajf/chatgpt-vercel](https://github.com/eryajf/chatgpt-vercel) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 
@@ -299,6 +193,8 @@
 
 *   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 
+*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
+
 *   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 
 *   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
@@ -310,6 +206,42 @@
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+
+## Python
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
+
+*   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+
+*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+
+*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
+
+*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
+
+*   [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
+
+*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
+
+*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+
+*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
+
+*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny智能运维PAAS平台
 
 ## Go
 
@@ -669,8 +601,6 @@
 
 *   [liushuochen/gotable](https://github.com/liushuochen/gotable) -
 
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-
 ## PHP
 
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -773,8 +703,6 @@
 
 *   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
 
-*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
-
 *   [starsliao/ConsulManager](https://github.com/starsliao/ConsulManager) - 🦄ConsulManager：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
 *   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
@@ -833,15 +761,13 @@
 
 ## JavaScript
 
-*   [sailist/chatgpt-markdown-extension](https://github.com/sailist/chatgpt-markdown-extension) - Provide an option on the ChatGpt page to directly obtain the Markdown text.(Currently support freechatgpt.com and chat.openai.com)
+*   [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - To provide additional features to enhance the ChatGPT experience, including converting replies to markdown strings, uploading files, and automatically asking questions based on regular expressions.
 
 *   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
 
 *   [utags/utags](https://github.com/utags/utags) - Allow users to add custom tags to links.
-
-*   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
 
 *   [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
 
@@ -929,7 +855,83 @@
 
 *   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
 
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+## miscellaneous
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
+
+*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
+
+*   [eryajf/FreeSql.Wiki.VuePress](https://github.com/eryajf/FreeSql.Wiki.VuePress) - FreeSql wiki 文档采用 vuepress
+
+*   [eryajf/rfyiamcool](https://github.com/eryajf/rfyiamcool) -
+
+*   [eryajf/athul](https://github.com/eryajf/athul) - I write about myself Here 😁
+
+*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+
+*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
+
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
+
+*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
+
+*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
+
+*   [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
+
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
+
+*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
+
+*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+
+*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+
+*   [qianguyihao/brand-list](https://github.com/qianguyihao/brand-list) - 优质品牌推荐，品质生活选择
+
+*   [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
+
+*   [eryajf/t](https://github.com/eryajf/t) - 个人图床
+
+*   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
+
+*   [eryajf/learn-github](https://github.com/eryajf/learn-github) - 学习GitHub相关交互以及功能
+
+*   [eryajf/tu](https://github.com/eryajf/tu) - 图床
+
+*   [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
+
+*   [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 11 stars and 18 forks 🌟
 
 ## Java
 
@@ -1046,8 +1048,6 @@
 *   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 *   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## C++
 
