@@ -771,7 +771,7 @@
 
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。
 
-*   [utags/utags](https://github.com/utags/utags) - Allow users to add custom tags to links.
+*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 
 *   [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
 
