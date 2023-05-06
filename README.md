@@ -696,7 +696,7 @@
 
 *   [eryajf/gojenkins](https://github.com/eryajf/gojenkins) - 这个仓库fork自: https://github.com/bndr/gojenkins ，原仓库基本处于不维护状态，因此fork在这里，单独维护，如果你对这个项目有兴趣，欢迎一起维护。
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 
 *   [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 
@@ -1262,7 +1262,7 @@
 
 *   [alibaba/higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway | 下一代云原生网关
 
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
 
