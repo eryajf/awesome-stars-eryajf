@@ -160,7 +160,7 @@
 
 *   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 基于 vue-element-admin 升级的 Vue3 版本管理前端解决方案，技术栈： Vue3 + Vite4+ TypeScript  + Element Plus + Pinia 。
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥vue-element-admin 的 vue3 版本， 基于 Vue3 + Vite + TypeScript + Element-Plus + Pinia 等技术栈构建的后台管理系统前端模板（配套后端源码）。
 
 *   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
 
@@ -392,8 +392,6 @@
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [apicat/apicat](https://github.com/apicat/apicat) - ApiCat is an API development tool based on AI technology. It analyzes and identifies API requirements input by users, and automatically generates corresponding API documents and codes to help developers develop APIs more quickly and efficiently.
-
 *   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal UI for ChatGPT.
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
@@ -587,6 +585,8 @@
 *   [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 
 *   [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
+
+*   [apicat/apicat](https://github.com/apicat/apicat) - ApiCat is an API development tool based on AI technology. It analyzes and identifies API requirements input by users, and automatically generates corresponding API documents and codes to help developers develop APIs more quickly and efficiently.
 
 *   [go-zoox/fetch](https://github.com/go-zoox/fetch) - Go Fetch - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API
 
