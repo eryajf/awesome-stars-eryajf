@@ -384,7 +384,7 @@
 
 *   [fanchunke/chatgpt-wecom](https://github.com/fanchunke/chatgpt-wecom) - 企业微信接入 GPT3
 
-*   [CocaineCong/gin-mall](https://github.com/CocaineCong/gin-mall) - 基于 gin+gorm+redis+mysql 读写分离的电子商城，包括 JWT 鉴权，CORS跨域，AES 对称加密，引入ELK体系，使用docker容器化部署
+*   [CocaineCong/gin-mall](https://github.com/CocaineCong/gin-mall) - 基于 gin+gorm+redis+mysql 读写分离的电子商城，包括 JWT 鉴权，CORS跨域，AES 对称加密，引入ELK体系方便日志查看，jaeger进行trace查看，skywalking进行检测，使用docker容器化部署
 
 *   [electricbubble/feishu-bot-api](https://github.com/electricbubble/feishu-bot-api) - 飞书群机器人
 
