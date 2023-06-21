@@ -37,6 +37,7 @@
 *   [C](#c)
 *   [Dart](#dart)
 *   [Smarty](#smarty)
+*   [MDX](#mdx)
 *   [C++](#c-1)
 *   [Blade](#blade)
 *   [Objective-C](#objective-c)
@@ -120,8 +121,6 @@
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
 
 *   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
-
-*   [test-instructor/yangfan](https://github.com/test-instructor/yangfan) - 扬帆测试平台是一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本。该平台包括用例管理、定时任务、执行记录等功能模块，支持多种类型的测试用例，目前支持API(http和grpc协议)、性能，并且可定制化，灵活满足不同场景的需求。其中，用例管理模块支持上传、编辑、复制、删除等基础操作，同时支持批量执行、并发执行等高级功能。通过用例设置，可以设置用例的基本信息、运行配置、环境变量等，灵活控制用例的执行。而定时任务模块支持引用一个或多个用例，实现用例的自动执行，支持并发运行、任务标签等功能，后续支持CI/CD集成，实现全自动化的测试流程。扬帆测试平台还提供执行记录模块，记录测试用例的执行结果，支持查看测试报告、执行日志等详细信息，方便对测试结果进行分析和优化。
 
 *   [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 
@@ -929,6 +928,8 @@
 
 *   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 
+*   [test-instructor/yangfan](https://github.com/test-instructor/yangfan) - 扬帆测试平台是一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本。该平台包括用例管理、定时任务、执行记录等功能模块，支持多种类型的测试用例，目前支持API(http和grpc协议)、性能，并且可定制化，灵活满足不同场景的需求。其中，用例管理模块支持上传、编辑、复制、删除等基础操作，同时支持批量执行、并发执行等高级功能。通过用例设置，可以设置用例的基本信息、运行配置、环境变量等，灵活控制用例的执行。而定时任务模块支持引用一个或多个用例，实现用例的自动执行，支持并发运行、任务标签等功能，后续支持CI/CD集成，实现全自动化的测试流程。扬帆测试平台还提供执行记录模块，记录测试用例的执行结果，支持查看测试报告、执行日志等详细信息，方便对测试结果进行分析和优化。
+
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
@@ -1095,8 +1096,6 @@
 
 *   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
 
-*   [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
-
 *   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 
 *   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
@@ -1256,6 +1255,10 @@
 ## Smarty
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
+
+## MDX
+
+*   [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
 
 ## C++
 
