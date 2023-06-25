@@ -148,7 +148,7 @@
 
 *   [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
 
-*   [chenquan/diskusage](https://github.com/chenquan/diskusage) - 💥A tool for showing disk usage. (Linux, MacOS and Windows)
+*   [chenquan/diskusage](https://github.com/chenquan/diskusage) - 💥A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files.
 
 *   [heppu/gkill](https://github.com/heppu/gkill) - Interactice process killer for Linux and macOS
 
