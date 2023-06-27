@@ -50,6 +50,8 @@
 
 ## TypeScript
 
+*   [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+
 *   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - 支持中文手写效果和多画布能力的 Excalidraw。Support Chinese hand draw font and multi canvas based on Excalidraw.
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -225,8 +227,6 @@
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
-*   [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 
 ## Go
 
@@ -512,7 +512,7 @@
 
 *   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 
-*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥PandaX 是一个golang(go)语言快速开发框架, 基于go-restful/gin +gorm + Vue3 + TypeScript + vite2 + Element-plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，工作流（工单系统），规则链，报表系统，组态大屏系统）构建自己的中后台。
+*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥PandaX 是一个golang(go)语言快速开发框架, 基于go-restful/gin +gorm + Vue3 + TypeScript + vite + Element-plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，工作流（工单系统），规则链，报表系统，组态大屏系统）构建自己的中后台。
 
 *   [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 
