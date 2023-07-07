@@ -505,7 +505,7 @@
 
 *   [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 
-*   [liu-cn/json-filter](https://github.com/liu-cn/json-filter) - 基于n叉树实现的golang json字段过滤器，随意选择你想要输出为json的结构体字段，让go拥有动态语言般的json处理能力。json filter Golang's JSON filter randomly selects the structure fields you want to output as JSON，Let go have dynamic language like json processing capability
+*   [liu-cn/json-filter](https://github.com/liu-cn/json-filter) - golang json字段过滤器，随意选择你想要输出为json的结构体字段，让go拥有动态语言般的json处理能力。json filter Golang's JSON filter randomly selects the structure fields you want to output as JSON，Let go have dynamic language like json processing capability
 
 *   [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
 
@@ -793,7 +793,7 @@
 
 *   [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-*   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - 支持中文手写和多画布的 Excalidraw 白板工具。A whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
+*   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
