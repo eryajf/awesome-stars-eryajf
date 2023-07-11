@@ -18,16 +18,16 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
+*   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Dart](#dart)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [Swift](#swift)
 *   [HTML](#html)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
@@ -46,6 +46,72 @@
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
+
+*   [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [dshnkao/SpaceId](https://github.com/dshnkao/SpaceId) - macOS space indicator
+
+*   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
+
+*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
+
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+
+*   [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac) - Monitor for displaying process traffic on Mac Status bar
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac
+
+*   [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
+
+*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
+
+*   [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
+
+*   [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+## Dart
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
+
+*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 
 ## TypeScript
 
@@ -340,12 +406,6 @@
 *   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
 
 *   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
-
-## Dart
-
-*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 
 ## Go
 
@@ -783,8 +843,6 @@
 
 *   [liushuochen/gotable](https://github.com/liushuochen/gotable) -
 
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-
 ## Vue
 
 *   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
@@ -1087,62 +1145,6 @@
 
 *   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
-## Swift
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
-
-*   [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [dshnkao/SpaceId](https://github.com/dshnkao/SpaceId) - macOS space indicator
-
-*   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
-
-*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
-
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-
-*   [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac) - Monitor for displaying process traffic on Mac Status bar
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac
-
-*   [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
-
-*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
-
-*   [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
-
-*   [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-*   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-
 ## HTML
 
 *   [get-set/infra-docker-compose](https://github.com/get-set/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
@@ -1188,8 +1190,6 @@
 *   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 *   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A light theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## Rust
 
