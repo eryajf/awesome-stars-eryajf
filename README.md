@@ -49,6 +49,8 @@
 
 ## Go
 
+*   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+
 *   [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 
 *   [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
@@ -489,8 +491,6 @@
 
 *   [eryajf/xirang](https://github.com/eryajf/xirang) - 简单好用，直接上手的go-web框架
 
-*   [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-
 ## JavaScript
 
 *   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
@@ -613,7 +613,7 @@
 
 *   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥vue-element-admin 的 vue3 版本， 基于 Vue3 + Vite + TypeScript + Element-Plus + Pinia 等技术栈构建的后台管理系统前端模板（配套后端源码）。
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite4 + typescript + element-plus 构建的后台管理系统（配套接口文档和后端源码）。vue-element-admin 的 vue3 版本。
 
 *   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
 
