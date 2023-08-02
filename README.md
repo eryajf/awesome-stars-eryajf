@@ -49,6 +49,8 @@
 
 ## Vue
 
+*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
+
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 
 *   [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
@@ -237,7 +239,7 @@
 
 *   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 
 *   [eryajf/chatgpt-vercel](https://github.com/eryajf/chatgpt-vercel) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 
@@ -770,8 +772,6 @@
 *   [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 
 *   [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
-
-*   [fitv/min](https://github.com/fitv/min) - API skeleton based on Gin
 
 ## JavaScript
 
