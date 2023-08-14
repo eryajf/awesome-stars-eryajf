@@ -1271,7 +1271,7 @@
 
 ## Blade
 
-*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum是一个php开发的论坛程序,Multifunctional Forum Program，(原super-forum)
+*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum 是一个页面简洁且功能丰富的中文论坛程序
 
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 
