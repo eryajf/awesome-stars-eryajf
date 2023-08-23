@@ -104,7 +104,7 @@
 
 *   [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 
-*   [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others
+*   [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 
 *   [medcl/esm](https://github.com/medcl/esm) - An Elasticsearch Migration Tool.
 
@@ -374,7 +374,7 @@
 
 *   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 
-*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥PandaX 是一个golang(go)语言快速开发框架, 基于go-restful/gin +gorm + Vue3 + TypeScript + vite + Element-plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，工作流（工单系统），规则链，报表系统，组态大屏系统）构建自己的中后台。
+*   [XM-GO/PandaX](https://github.com/XM-GO/PandaX) - 🎉🔥Pandax是Go语言开源的企业级低代码物联网平台基座，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，代码生成器，监控视频接入等功能。能帮助你快速建立一整套的IOT相关的业务系统。
 
 *   [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 
@@ -1034,7 +1034,7 @@
 
 *   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
 
-*   [XM-GO/PandaUi](https://github.com/XM-GO/PandaUi) - 🎉🔥PandaUi 是PandaX的前端框架，PandaX 是golang(go)语言快速开发平台, 基于gin go-restful+ Vue3 + pinia + vite3 + Element-Plus的前后端分离企业级系统开发脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务，支付系统，报表系统，大屏系统）构建自己的中后台
+*   [XM-GO/PandaUi](https://github.com/XM-GO/PandaUi) - 🎉🔥Pandax是Go语言开源的企业级低代码物联网平台基座，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，代码生成器，监控视频接入等功能。能帮助你快速建立一整套的IOT相关的业务系统。
 
 *   [u2sb/vuepress-plugin-vssue-global](https://github.com/u2sb/vuepress-plugin-vssue-global) - Vuepress的Vssue全局评论插件
 
