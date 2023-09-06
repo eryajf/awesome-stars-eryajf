@@ -366,7 +366,7 @@
 
 *   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is an All-in-One observability solution which try to combine the advantages of both Prometheus and Grafana. It manage alert rules and visualize metrics, logs, traces in a beautiful web UI.
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is an all-in-one observability solution which aims to combine the advantages of both Prometheus and Grafana. It manages alert rules and visualize metrics, logs, traces in a beautiful web UI.
 
 *   [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 
