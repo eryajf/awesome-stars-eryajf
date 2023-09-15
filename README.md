@@ -50,6 +50,8 @@
 
 ## TypeScript
 
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+
 *   [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 
 *   [dromara/yft-design](https://github.com/dromara/yft-design) - 基于Canvas的开源版"创客贴"， Vue3+TypeScript+Fabric.js+Pinia+Element-Plus, supporting the most commonly used element types such as text, images, shapes, lines, QR codes, and barcodes. Each element has high editable capabilities, thumbnail display, templates
@@ -298,7 +300,7 @@
 
 *   [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 
-*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - sponge is a powerful golang productivity tool that integrates code generation, microservice framework, and basic development framework.
+*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - sponge is a powerful golang productivity tool that integrates code generation, web and microservice framework, basic development framework.
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 
@@ -775,8 +777,6 @@
 *   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 
 *   [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
-
-*   [yangwenmai/learning-golang](https://github.com/yangwenmai/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 
 ## PHP
 
