@@ -18,8 +18,12 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
+*   [Java](#java)
+*   [Shell](#shell)
+*   [JavaScript](#javascript)
 *   [Go](#go)
+*   [Dart](#dart)
+*   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -27,15 +31,11 @@
 *   [C](#c-1)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
-*   [JavaScript](#javascript)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Swift](#swift)
-*   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
-*   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -49,33 +49,223 @@
 *   [Groovy](#groovy)
 *   [Thanks](#thanks)
 
-## HTML
+## Java
 
-*   [lework/Ansible-roles](https://github.com/lework/Ansible-roles) - Ansible Roles
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 
-*   [get-set/infra-docker-compose](https://github.com/get-set/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
+*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 
-*   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
+*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 
-*   [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
+*   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
 
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要理解容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
 
-*   [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 
-*   [fc-game/fc-game.github.io](https://github.com/fc-game/fc-game.github.io) - FC Game Web Site
+*   [moxi624/mogu\_blog\_v2](https://github.com/moxi624/mogu_blog_v2) - 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
 
-*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。
 
-*   [ecnice/flow](https://github.com/ecnice/flow) - 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3\&Antd，Vben）
+*   [dromara/Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
 
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 
-*   [pzhen/gofox](https://github.com/pzhen/gofox) - golang web 通用后台框架,基于beego + layui + mysql开发.
+*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 
-*   [eryajf/video](https://github.com/eryajf/video) - 逸轩VIP视频解析网站HTML升级版
+*   [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
+
+*   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台
+
+*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
+
+*   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
+
+*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+## Shell
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+
+*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
+
+*   [Runner-Go-Team/RunnerGo](https://github.com/Runner-Go-Team/RunnerGo) - RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。
+
+*   [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
+
+*   [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
+
+*   [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action) - GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow
+
+*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+
+*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
+
+*   [tal-tech/alarm-dog](https://github.com/tal-tech/alarm-dog) - 哮天犬是一个通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能，实现统一输入、不同输出。可以对接Grafana、阿里云Arms、实时计算等监控能力，各业务也可以直接在代码中埋点上报告警，也可以定制化开发，实现监控告警全场景覆盖。https://tal-tech.github.io/alarm-dog-docs
+
+*   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
+
+*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
+
+*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
+
+*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
+
+*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
+
+*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
+
+*   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
+
+*   [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
+
+## JavaScript
+
+*   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+*   [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
+
+*   [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[WIP]
+
+*   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
+
+*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
+
+*   [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
+
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+
+*   [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
+
+*   [sunner/ChatALL](https://github.com/sunner/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+
+*   [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
+
+*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
+
+*   [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+
+*   [ConnectAI-E/WeWork-OpenAI-Node](https://github.com/ConnectAI-E/WeWork-OpenAI-Node) - 🎒 企业微信 ×OpenAI NodeJs版本
+
+*   [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
+
+*   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
+
+*   [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
+
+*   [Rabithua/memos\_wmp](https://github.com/Rabithua/memos_wmp) - 开源项目usememos/memos的微信小程序版
+
+*   [webmasterish/vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
+
+*   [eryajf/emotion\_generate](https://github.com/eryajf/emotion_generate) - artalk专用的表情包。
+
+*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+
+*   [ayuanlmo/lmo-data-visualization](https://github.com/ayuanlmo/lmo-data-visualization) - ✨lmo-DataVisualization，一款開源可視化數據製作工具。可將各種輕量級業務數據轉換為視頻動畫、使數據更加形象、生動。
+
+*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+
+*   [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
+
+*   [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) - CDN & WAF集群管理系统。
+
+*   [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template) - Vdoing主题博客模板
+
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
+
+*   [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
+
+*   [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment) - Comment plugin in vuepress vdoing theme, supports Gitalk, Valine, Artalk...
+
+*   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
+
+*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+
+*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+*   [eryajf/vue-learn-code](https://github.com/eryajf/vue-learn-code) - vue学习笔记
+
+*   [cosyer/jelly](https://github.com/cosyer/jelly) - 💎 放一些练习和收藏的网页凸(☎ω☎)凸
+
+*   [Cloudtq/bilibili-banner](https://github.com/Cloudtq/bilibili-banner) -
+
+*   [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
+
+*   [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
+
+*   [Leecason/netease-music-box](https://github.com/Leecason/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist
+
+*   [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action) - A github action to automate a contributors section in readme.
+
+*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 59 stars 7 forks.
+
+*   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+
+*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
+
+*   [pinple/douban-movie-extension](https://github.com/pinple/douban-movie-extension) - 🎬豆瓣电影传送门
+
+*   [wangmeijian/auto\_clipboard](https://github.com/wangmeijian/auto_clipboard) - 选中文字自动复制到剪切板的chrome插件
+
+*   [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
+
+*   [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
+
+*   [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+
+*   [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
+*   [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
+
+*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
+
+*   [lulu-ls/cloud-uploader](https://github.com/lulu-ls/cloud-uploader) - 网易云音乐MAC云盘上传工具
+
+*   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
+
+*   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
+
+*   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
+
+*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+
+*   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) -
+
+*   [chujieyang/commonops](https://github.com/chujieyang/commonops) - 运维 Ops 平台，欢迎体验尝试~~
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
+
+*   [Qihoo360/doraemon](https://github.com/Qihoo360/doraemon) - Doraemon is a Prometheus based monitor system
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
 ## Go
+
+*   [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+
+*   [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) - KubePi 是一个现代化的 K8s 面板。
 
 *   [holdno/gopherCron](https://github.com/holdno/gopherCron) - golang 开箱即用的秒级分布式定时任务系统
 
@@ -593,9 +783,41 @@
 
 *   [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
 
-*   [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
+## Dart
 
-*   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+
+*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+
+## HTML
+
+*   [lework/Ansible-roles](https://github.com/lework/Ansible-roles) - Ansible Roles
+
+*   [get-set/infra-docker-compose](https://github.com/get-set/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
+
+*   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
+
+*   [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+*   [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
+
+*   [fc-game/fc-game.github.io](https://github.com/fc-game/fc-game.github.io) - FC Game Web Site
+
+*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+
+*   [ecnice/flow](https://github.com/ecnice/flow) - 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3\&Antd，Vben）
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [pzhen/gofox](https://github.com/pzhen/gofox) - golang web 通用后台框架,基于beego + layui + mysql开发.
+
+*   [eryajf/video](https://github.com/eryajf/video) - 逸轩VIP视频解析网站HTML升级版
 
 ## Ruby
 
@@ -715,7 +937,7 @@
 
 ## TypeScript
 
-*   [data-observe/datav](https://github.com/data-observe/datav) - A modern data visualization  platform for APM and Observability. View metrics, traces and logs in one place and  correlate them deeply.  An alternative to Grafana in Observability scenario.
+*   [data-observe/datav](https://github.com/data-observe/datav) - Datav is an observability platform with native support for OpenTelemetry, Prometheus and Jaeger.  :unicorn: You can conveniently view metrics, traces, and logs all in one place and correlate them seamlessly. 📈It is fully customizable and very friendly for developers.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
@@ -911,10 +1133,6 @@
 
 *   [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 
-*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
 ## C++
 
 *   [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
@@ -972,142 +1190,6 @@
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 
 *   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
-
-## JavaScript
-
-*   [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
-
-*   [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[WIP]
-
-*   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
-
-*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
-
-*   [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
-
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
-
-*   [sunner/ChatALL](https://github.com/sunner/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-
-*   [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
-
-*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
-
-*   [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
-
-*   [ConnectAI-E/WeWork-OpenAI-Node](https://github.com/ConnectAI-E/WeWork-OpenAI-Node) - 🎒 企业微信 ×OpenAI NodeJs版本
-
-*   [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-
-*   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
-
-*   [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your notes.
-
-*   [Rabithua/memos\_wmp](https://github.com/Rabithua/memos_wmp) - 开源项目usememos/memos的微信小程序版
-
-*   [webmasterish/vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress 1.x
-
-*   [eryajf/emotion\_generate](https://github.com/eryajf/emotion_generate) - artalk专用的表情包。
-
-*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-
-*   [ayuanlmo/lmo-data-visualization](https://github.com/ayuanlmo/lmo-data-visualization) - ✨lmo-DataVisualization，一款開源可視化數據製作工具。可將各種輕量級業務數據轉換為視頻動畫、使數據更加形象、生動。
-
-*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-*   [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
-
-*   [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) - CDN & WAF集群管理系统。
-
-*   [eryajf/vdoing-template](https://github.com/eryajf/vdoing-template) - Vdoing主题博客模板
-
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
-
-*   [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
-
-*   [terwer/vuepress-plugin-vdoing-comment](https://github.com/terwer/vuepress-plugin-vdoing-comment) - Comment plugin in vuepress vdoing theme, supports Gitalk, Valine, Artalk...
-
-*   [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
-
-*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-*   [eryajf/vue-learn-code](https://github.com/eryajf/vue-learn-code) - vue学习笔记
-
-*   [cosyer/jelly](https://github.com/cosyer/jelly) - 💎 放一些练习和收藏的网页凸(☎ω☎)凸
-
-*   [Cloudtq/bilibili-banner](https://github.com/Cloudtq/bilibili-banner) -
-
-*   [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-
-*   [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box) - ⚡️📌 Update a pinned gist to contain the latest activity of a user
-
-*   [Leecason/netease-music-box](https://github.com/Leecason/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist
-
-*   [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action) - A github action to automate a contributors section in readme.
-
-*   [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 59 stars 7 forks.
-
-*   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-
-*   [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
-
-*   [pinple/douban-movie-extension](https://github.com/pinple/douban-movie-extension) - 🎬豆瓣电影传送门
-
-*   [wangmeijian/auto\_clipboard](https://github.com/wangmeijian/auto_clipboard) - 选中文字自动复制到剪切板的chrome插件
-
-*   [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
-
-*   [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
-
-*   [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
-
-*   [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-
-*   [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
-
-*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
-
-*   [lulu-ls/cloud-uploader](https://github.com/lulu-ls/cloud-uploader) - 网易云音乐MAC云盘上传工具
-
-*   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-
-*   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
-
-*   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
-
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-*   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) -
-
-*   [chujieyang/commonops](https://github.com/chujieyang/commonops) - 运维 Ops 平台，欢迎体验尝试~~
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-
-*   [Qihoo360/doraemon](https://github.com/Qihoo360/doraemon) - Doraemon is a Prometheus based monitor system
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
 
 ## Objective-C
 
@@ -1259,14 +1341,6 @@
 
 *   [yichengchen/clashX](https://github.com/yichengchen/clashX) -
 
-## Dart
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
-
-*   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta是一个 PC 平台的剪贴板记录工具
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-
 ## miscellaneous
 
 *   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -1366,80 +1440,6 @@
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
 *   [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
-
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-
-## Java
-
-*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
-
-*   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
-
-*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要理解容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
-
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
-
-*   [moxi624/mogu\_blog\_v2](https://github.com/moxi624/mogu_blog_v2) - 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
-
-*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。
-
-*   [dromara/Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
-
-*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
-
-*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-
-*   [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
-
-*   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台
-
-*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
-
-*   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
-
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-## Shell
-
-*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
-
-*   [Runner-Go-Team/RunnerGo](https://github.com/Runner-Go-Team/RunnerGo) - RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。
-
-*   [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
-
-*   [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
-
-*   [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action) - GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow
-
-*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-
-*   [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
-
-*   [tal-tech/alarm-dog](https://github.com/tal-tech/alarm-dog) - 哮天犬是一个通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能，实现统一输入、不同输出。可以对接Grafana、阿里云Arms、实时计算等监控能力，各业务也可以直接在代码中埋点上报告警，也可以定制化开发，实现监控告警全场景覆盖。https://tal-tech.github.io/alarm-dog-docs
-
-*   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-*   [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-
-*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
-
-*   [eryajf/wiki](https://github.com/eryajf/wiki) - Typora同步点，个人wiki大合集
-
-*   [eryajf/wiki-eryajf](https://github.com/eryajf/wiki-eryajf) -
-
-*   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
-
-*   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
-
-*   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
-
-*   [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
 
 ## Dockerfile
 
