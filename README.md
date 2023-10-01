@@ -937,7 +937,7 @@
 
 ## TypeScript
 
-*   [data-observe/datav](https://github.com/data-observe/datav) - Datav is an fully customizable and programmable observability platform, it has  native support for OpenTelemetry, Prometheus and Jaeger.  :unicorn: You can conveniently view metrics, traces, and logs all in one place and correlate them seamlessly.
+*   [data-observe/datav](https://github.com/data-observe/datav) - A fully customizable and programmable observability platform with native support for OpenTelemetry.  :unicorn: You can view metrics, traces, and logs in one place and correlate them seamlessly. Datav is also an alternative to Grafana in Observability scenario,
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
