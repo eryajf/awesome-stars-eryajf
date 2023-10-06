@@ -1165,7 +1165,7 @@
 
 *   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem 📦
 
-*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic and opinionated RSS Reader available on Android, iOS and macOS.
+*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS and macOS.
 
 *   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
