@@ -51,9 +51,11 @@
 
 ## TypeScript
 
+*   [yesmore/inke](https://github.com/yesmore/inke) - A markdown-like web editor with AI-powered, store data locally.
+
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
 
-*   [data-observe/datav](https://github.com/data-observe/datav) - A fully customizable and programmable observability platform with native support for OpenTelemetry.  :unicorn: You can view metrics, traces, and logs in one place and correlate them seamlessly. Datav is also an alternative to Grafana in Observability scenario,
+*   [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Fully Customizable and programmable observability platform.  :unicorn: Monitor any applications using OpenTelemetry, eBPF and clickhouse.  🚀 Aggregate metrics on traces and logs to get a relevant view into business.  :chart: An alternative to Grafana in data visulization scenario
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
@@ -246,8 +248,6 @@
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
 *   [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
-
-*   [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 
 ## Vue
 
@@ -921,7 +921,7 @@
 
 *   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
 
-*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统。An admin api system with gin,  JWT and RBAC.
+*   [deatil/lakego-admin](https://github.com/deatil/lakego-admin) - lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理系统。An admin api system with gin,  JWT and RBAC.
 
 *   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 
@@ -1193,7 +1193,7 @@
 
 ## Objective-C
 
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统词典，🍎苹果系统翻译，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
 *   [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
