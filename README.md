@@ -229,7 +229,7 @@
 
 *   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 
 *   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 
@@ -1437,7 +1437,7 @@
 
 *   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 15 stars and 23 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 15 stars and 24 forks 🌟
 
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
