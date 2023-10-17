@@ -727,7 +727,7 @@
 
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 
-*   [acmenlei/codecv](https://github.com/acmenlei/codecv) - Resume builder based on markdown syntax（在线简历制作工具 https://wuxiancv.com）
+*   [acmenlei/codecv](https://github.com/acmenlei/codecv) - Resume builder based on markdown syntax（在线简历制作工具 https://codecv.top）
 
 *   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
