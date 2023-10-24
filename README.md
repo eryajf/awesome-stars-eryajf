@@ -53,7 +53,7 @@
 
 *   [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
+*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered.
 
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
 
