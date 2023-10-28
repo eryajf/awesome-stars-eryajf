@@ -197,7 +197,7 @@
 
 *   [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 
-*   [dromara/yft-design](https://github.com/dromara/yft-design) - 基于Canvas的开源版"创客贴"， Vue3+TypeScript+Fabric.js+Pinia+Element-Plus, supporting the most commonly used element types such as text, images, shapes, lines, QR codes, and barcodes. Each element has high editable capabilities, thumbnail display, templates
+*   [dromara/yft-design](https://github.com/dromara/yft-design) - 基于Canvas的开源版"创客贴", fabric.js and vue3 and typescript and element-plus, supporting the most commonly used element types such as text, images, shapes, lines, QR codes, and barcodes. Each element has high editable capabilities, thumbnail display, templates
 
 *   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
@@ -693,7 +693,7 @@
 
 *   [eryajf/gojenkins](https://github.com/eryajf/gojenkins) - 这个仓库fork自: https://github.com/bndr/gojenkins ，原仓库基本处于不维护状态，因此fork在这里，单独维护，如果你对这个项目有兴趣，欢迎一起维护。
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 
 *   [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 
