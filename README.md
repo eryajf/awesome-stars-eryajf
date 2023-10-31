@@ -50,7 +50,9 @@
 
 ## Go
 
-*   [xuxihai123/go-gwk](https://github.com/xuxihai123/go-gwk) - gwk implement with golang
+*   [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for go framework \[gin/iris]
+
+*   [xuxihai123/go-gwk](https://github.com/xuxihai123/go-gwk) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 *   [ncruces/zenity](https://github.com/ncruces/zenity) - Zenity dialogs for Golang, Windows, macOS
 
@@ -290,7 +292,7 @@
 
 *   [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [net-byte/vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
 
@@ -357,8 +359,6 @@
 *   [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 
 *   [eryajf/gojenkins](https://github.com/eryajf/gojenkins) - 这个仓库fork自: https://github.com/bndr/gojenkins ，原仓库基本处于不维护状态，因此fork在这里，单独维护，如果你对这个项目有兴趣，欢迎一起维护。
-
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 
 *   [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 
@@ -567,8 +567,6 @@
 *   [jonpulsifer/dnsmon-go](https://github.com/jonpulsifer/dnsmon-go) - A golang DNS monitor inspired by https://github.com/gamelinux/passivedns
 
 *   [romnn/ldap-manager](https://github.com/romnn/ldap-manager) - cloud-native LDAP web management interface.
-
-*   [nvwa-io/nvwa-io](https://github.com/nvwa-io/nvwa-io) - Nvwa-io is a open source DevOps CI/CD auto-build and auto-deploy system（女娲 - 开源 DevOps CI/CD 自动构建和自动部署系统).  http://nvwa-io.com
 
 ## JavaScript
 
@@ -857,6 +855,8 @@
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
 *   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
