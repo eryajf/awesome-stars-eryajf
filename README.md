@@ -46,6 +46,7 @@
 *   [EJS](#ejs)
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
+*   [Groovy](#groovy)
 *   [Thanks](#thanks)
 
 ## Go
@@ -293,8 +294,6 @@
 *   [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
 
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-
-*   [net-byte/vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
 
 *   [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 
@@ -567,6 +566,8 @@
 *   [jonpulsifer/dnsmon-go](https://github.com/jonpulsifer/dnsmon-go) - A golang DNS monitor inspired by https://github.com/gamelinux/passivedns
 
 *   [romnn/ldap-manager](https://github.com/romnn/ldap-manager) - cloud-native LDAP web management interface.
+
+*   [nvwa-io/nvwa-io](https://github.com/nvwa-io/nvwa-io) - Nvwa-io is a open source DevOps CI/CD auto-build and auto-deploy system（女娲 - 开源 DevOps CI/CD 自动构建和自动部署系统).  http://nvwa-io.com
 
 ## JavaScript
 
@@ -1340,8 +1341,6 @@
 
 *   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
-*   [yichengchen/clashX](https://github.com/yichengchen/clashX) -
-
 ## miscellaneous
 
 *   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
@@ -1503,6 +1502,10 @@
 ## Astro
 
 *   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
+
+## Groovy
+
+*   [sunweisheng/jenkins-json-build](https://github.com/sunweisheng/jenkins-json-build) - This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .
 
 ## Thanks
 
