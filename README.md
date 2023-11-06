@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -33,7 +34,6 @@
 *   [PHP](#php)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [Dockerfile](#dockerfile)
@@ -46,8 +46,29 @@
 *   [EJS](#ejs)
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
-*   [Groovy](#groovy)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
+
+*   [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
+
+*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
+
+*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 
 ## Go
 
@@ -711,7 +732,7 @@
 
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
 
-*   [data-observe/datav](https://github.com/data-observe/datav) - 🦄 Fully Customizable and programmable observability platform.  🦄 Monitor your services using OpenTelemetry, eBPF and clickhouse. 🚀 Aggregate metrics on traces and logs to get a relevant view into business.  💹 Alternative to the native UI of Prometheus, Jaeger and VitoriaMetrics.  💹 Alternative to Grafana in data visulization scenario.
+*   [observexio/observex](https://github.com/observexio/observex) - 🚀 Observe anything you want in your business and never miss any X factors .  🚀 One stop observability with powerful Grafana like UI, correlate deep into data. 💹 Get traces, logs and metrics from variaous places and view in one place. 💹 Open soure observability alternative to Datadog,Prometheus UI and Jaeger.🦄 Opentelemetry, eBPF and clickhouse
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
@@ -1033,7 +1054,7 @@
 
 *   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
 
-*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用的轻量级的云应用管理平台，不需要理解容器和k8s的概念，具有多云和多环境管理、应用管理和部署、服务治理等功能。
+*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。
 
 *   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 
@@ -1259,26 +1280,6 @@
 
 *   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
 
-## Rust
-
-*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
-
-*   [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
-
-*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
-
-*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
-
 ## Swift
 
 *   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
@@ -1502,10 +1503,6 @@
 ## Astro
 
 *   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
-
-## Groovy
-
-*   [sunweisheng/jenkins-json-build](https://github.com/sunweisheng/jenkins-json-build) - This project relies on the Jenkins Shared Libraries mechanism and uses JSON configuration files to drive the build process, so that developers do not have to write a large number of Jenkins build scripts and abstract and reuse the execution process of Jenkins build scripts in many projects. The class library is very suitable for managing the large number of construction projects and the construction of various work scenarios. It can rely on one or several construction templates to cooperate with the json construction configuration file in each project to realize a unified management and flexible software project construction management plan .
 
 ## Thanks
 
