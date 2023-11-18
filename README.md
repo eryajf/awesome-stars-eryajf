@@ -1443,7 +1443,7 @@
 
 *   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 16 stars and 25 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 16 stars and 26 forks 🌟
 
 ## Dockerfile
 
