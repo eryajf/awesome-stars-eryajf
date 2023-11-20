@@ -749,7 +749,7 @@
 
 *   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, vision supported, extensible, high-performance chat client. It supports one-click free deployment of your private ChatGPT/LLM web application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 
 *   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
