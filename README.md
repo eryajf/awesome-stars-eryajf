@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Erlang](#erlang)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -48,6 +49,10 @@
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Erlang
+
+*   [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
 
 ## Go
 
@@ -578,8 +583,6 @@
 *   [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot) - 给我一个URL，我能将你关心的元素截图发给机器人🤖
 
 *   [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
-
-*   [kubecube-io/KubeCube](https://github.com/kubecube-io/KubeCube) - KubeCube is an open source enterprise-level container platform
 
 ## Vue
 
