@@ -368,7 +368,7 @@
 
 *   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
 
-*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
+*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
