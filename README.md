@@ -326,7 +326,7 @@
 
 *   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
@@ -818,7 +818,7 @@
 
 *   [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 
-*   [liu-cn/json-filter](https://github.com/liu-cn/json-filter) - golang json字段过滤器，随意选择你想要输出为json的结构体字段，让go拥有动态语言般的json处理能力。json filter Golang's JSON filter randomly selects the structure fields you want to output as JSON，Let go have dynamic language like json processing capability
+*   [liu-cn/json-filter](https://github.com/liu-cn/json-filter) - golang json字段过滤，复用struct 随意选择你想要输出为json的结构体字段。 json filter Golang's JSON filter randomly selects the structure fields you want to output as JSON，Let go have dynamic language like json processing capability
 
 *   [bjdgyc/anylink](https://github.com/bjdgyc/anylink) - AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。
 
