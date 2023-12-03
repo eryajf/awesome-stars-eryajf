@@ -154,7 +154,7 @@
 
 *   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
