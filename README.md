@@ -156,7 +156,7 @@
 
 *   [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
+*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。(作者是23届应届生，然12月被裁，故此项目暂停维护，有缘再见)
 
 *   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
 
@@ -210,7 +210,7 @@
 
 *   [microvoid/retro-avatar](https://github.com/microvoid/retro-avatar) - Create indenticon like Github and Gravatar (retro) avatars.
 
-*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+*   [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
 *   [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 
@@ -1038,8 +1038,6 @@
 
 *   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
-
 *   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 
 *   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite4 + typescript + element-plus 构建的后台管理系统（配套接口文档和后端源码）。vue-element-admin 的 vue3 版本。
@@ -1229,6 +1227,8 @@
 *   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+
+*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 
 *   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
 
