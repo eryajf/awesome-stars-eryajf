@@ -1473,7 +1473,7 @@
 
 ## Makefile
 
-*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) -
+*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might) detailed Kubernetes tutorials in Chinese.
 
 ## Erlang
 
