@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -55,6 +56,10 @@
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Batchfile
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Go
 
@@ -736,8 +741,6 @@
 
 *   [eryajf/xirang-old](https://github.com/eryajf/xirang-old) -
 
-*   [krilor/gossh](https://github.com/krilor/gossh) - Configuration management tool inspired by Ansible, but with no yaml - just Go
-
 ## JavaScript
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -754,7 +757,7 @@
 
 *   [GrantBirki/json-yaml-validate](https://github.com/GrantBirki/json-yaml-validate) - A GitHub Action to quickly validate JSON and YAML files in a repository
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【待出版书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 
 *   [dushixiang/kafka-map](https://github.com/dushixiang/kafka-map) - A beautiful, concise and powerful kafka web management tool. 一个美观简洁且强大的kafka web管理工具。
 
@@ -1508,7 +1511,7 @@
 
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 444 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 452 个。
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
