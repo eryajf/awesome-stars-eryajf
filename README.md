@@ -285,7 +285,7 @@
 
 *   [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 
-*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - sponge is a powerful golang productivity tool that integrates code generation, web and microservice framework, basic development framework.
+*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - Sponge is a basic development framework for the Go, it is also a Go microservices framework.
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 
@@ -1123,7 +1123,7 @@
 
 *   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/Gemini/LLM application.
 
 *   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
