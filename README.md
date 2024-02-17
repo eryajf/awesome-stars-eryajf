@@ -759,7 +759,7 @@
 
 *   [GrantBirki/json-yaml-validate](https://github.com/GrantBirki/json-yaml-validate) - A GitHub Action to quickly validate JSON and YAML files in a repository
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【待出版书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 
 *   [dushixiang/kafka-map](https://github.com/dushixiang/kafka-map) - A beautiful, concise and powerful kafka web management tool. 一个美观简洁且强大的kafka web管理工具。
 
