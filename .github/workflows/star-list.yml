@@ -17,6 +17,6 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.ACCESS_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
+          github-name: "github-actions[bot]"
+          github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
-          github-name: ${{ github.repository_owner }}
