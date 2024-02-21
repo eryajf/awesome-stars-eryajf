@@ -1015,8 +1015,6 @@
 
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
-
 *   [CH563/shot-easy-website](https://github.com/CH563/shot-easy-website) - image editor online
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1366,6 +1364,8 @@
 ## HTML
 
 *   [AutoMeter/AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) - AutoMeter-API是一款专门为测试人员准备的针对分布式服务，微服务API，接口，功能和性能一体的自动化测试平台，一站式解决项目管理，微服务，API接口，环境管理，测试用例，前置条件，变量管理，测试集合，测试计划，测试报告，支持分布式多机执行功能/性能测试兼容的一体化测试工作平台
+
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 
 *   [lework/Ansible-roles](https://github.com/lework/Ansible-roles) - Ansible Roles
 
