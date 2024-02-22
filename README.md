@@ -805,7 +805,7 @@
 
 *   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 
 *   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
@@ -1465,7 +1465,7 @@
 
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 
 *   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 
@@ -1515,7 +1515,7 @@
 
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 456 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 457 个。
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
