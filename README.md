@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Objective-C++](#objective-c)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -45,7 +46,7 @@
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Ruby](#ruby)
-*   [Objective-C](#objective-c)
+*   [Objective-C](#objective-c-1)
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
@@ -57,6 +58,10 @@
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Objective-C++
+
+*   [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
 ## miscellaneous
 
@@ -1759,8 +1764,6 @@
 *   [z3by/vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch) - Next-Generation full text search library for Vuepress
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
 
 ## Svelte
 
