@@ -18,11 +18,12 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Go](#go)
+*   [Svelte](#svelte)
 *   [Java](#java)
 *   [Vue](#vue)
-*   [Go](#go)
 *   [C++](#c)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Objective-C++](#objective-c)
 *   [miscellaneous](#miscellaneous)
@@ -39,7 +40,6 @@
 *   [Lua](#lua)
 *   [Smarty](#smarty)
 *   [Groovy](#groovy)
-*   [Svelte](#svelte)
 *   [Makefile](#makefile)
 *   [Erlang](#erlang)
 *   [Gherkin](#gherkin)
@@ -59,221 +59,269 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
-## Java
+## TypeScript
 
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
-*   [TDuckCloud/tduck-platform](https://github.com/TDuckCloud/tduck-platform) - A questionnaire system that can be privatized and deployed - 填鸭表单问卷系统（tduck-survey-form）
+*   [6174/comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 
-*   [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 
-*   [TongchengOpenSource/ckibana](https://github.com/TongchengOpenSource/ckibana) - Visualizing data in ClickHouse using native Kibana.
+*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 
-*   [Charles7c/continew-admin](https://github.com/Charles7c/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
+*   [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 
-*   [zmops/ArgusDBM](https://github.com/zmops/ArgusDBM) - Argus 开源数据库一体化监控平台。致力于监控所有数据库。
+*   [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 
-*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+*   [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
-*   [seagull1985/LuckyFrameWeb](https://github.com/seagull1985/LuckyFrameWeb) - LuckyFrame测试平台是一款免费开源的测试平台，最大的特点是全纬度覆盖了接口自动化、WEB UI自动化、APP自动化，并且支持分布式测试，测试关键字驱动也很大程度上解决了测试同学代码基础弱的问题。同时也集成了质量管理相关的一些功能，解决QA的日常工作中，项目过程数据的收集问题，并能展示一些简单质量报表。更多功能可以关注公众号或是访问官网了解哦。
+*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 
-*   [dromara/cubic](https://github.com/dromara/cubic) - 一站式问题定位平台，分布式实例监控、线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题
+*   [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
-*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
-*   [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
+*   [Simon-He95/vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
 
-*   [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
+*   [xiaopujun/light-chaser](https://github.com/xiaopujun/light-chaser) - light chaser is a lightweight data visualization designer tool
 
-*   [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
-*   [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+*   [richhost/pixzip](https://github.com/richhost/pixzip) - 面向现代 Web 应用的开源图片压缩软件，支持 macOS、Windows 系统
 
-*   [sohutv/mqcloud](https://github.com/sohutv/mqcloud) - RocketMQ企业级一站式服务平台
+*   [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 
-*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
+*   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 
-*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
+*   [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 
-*   [joggle-cn/joggle](https://github.com/joggle-cn/joggle) - Joggle是基于Ngrok二开的开源内网穿透项目，多节点、私有部署、云服务。
+*   [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 
-*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+*   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
-*   [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+*   [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+*   [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser
 
-*   [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+*   [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+*   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
-*   [vivo/MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+*   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
 
-*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+*   [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
 
-*   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
+*   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
 
-*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。
+*   [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer !
 
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 
-*   [moxi624/mogu\_blog\_v2](https://github.com/moxi624/mogu_blog_v2) - 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
+*   [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 
-*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。
+*   [dromara/yft-design](https://github.com/dromara/yft-design) - 一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能，基于Canvas的开源版【稿定设计】。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
 
-*   [dromara/Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+*   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 
-*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+*   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
-*   [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 
-*   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台
+*   [acmenlei/codecv](https://github.com/acmenlei/codecv) - Resume builder based on markdown syntax（在线简历制作工具 https://codecv.top）
 
-*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
+*   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
-*   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
+*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-## Vue
+*   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
 
-*   [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
+*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
 
-*   [WhiteCosmos/Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client) - The open-source, cross-platform API test and design tool.
+*   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
 
-*   [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) - CMDB from WeBank
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
-*   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+*   [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
 
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - 一个frpc桌面客户端
+*   [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
 
-*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+*   [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 
-*   [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+*   [hellovigoss/ChatGIF](https://github.com/hellovigoss/ChatGIF) - search GIFs with AI
 
-*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please star ⭐️.
+*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
 
-*   [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 
-*   [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
+*   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+*   [caidukai/brain-reply](https://github.com/caidukai/brain-reply) - 更优雅的ChatGPT客户端
 
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+*   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 
-*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🍁采用Vite4、Vue3、Pinia 、Naive UI 构建，构建企业npm依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性
+*   [microvoid/retro-avatar](https://github.com/microvoid/retro-avatar) - Create indenticon like Github and Gravatar (retro) avatars.
 
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 
-*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
+*   [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+*   [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 
-*   [xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui) - 一款快捷易用的轻量级kafka可视化管理平台
+*   [lxfater/Portal](https://github.com/lxfater/Portal) -
 
-*   [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 
-*   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
+*   [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+*   [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 
-*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 
-*   [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
+*   [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 
-*   [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
-*   [pljhonglu/ChatGPT-T](https://github.com/pljhonglu/ChatGPT-T) - chatgpt-tauri base on chatgpt-web
+*   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT
 
-*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Netease Cloud Disk Music Upload 网易云盘音乐上传管理 Chrome 插件（解决Mac版本网易云音乐不能上传音乐的痛点）
+*   [aircloud/sync-to-github](https://github.com/aircloud/sync-to-github) - Sync your web content into a github repository, e.g. a conversation with ChatGPT.
 
-*   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+*   [PBK-B/gpt-zmide-server](https://github.com/PBK-B/gpt-zmide-server) - 💡 zmide ChatGPT 应用服务，用于管理应用程序对接和集成 ChatGPT API 的服务应用
 
-*   [QYueWang/vuepress-plugin-flexsearch-pro](https://github.com/QYueWang/vuepress-plugin-flexsearch-pro) - 支持多种语言（包括中文）全局搜索
+*   [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 
-*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
+*   [Christopher-Hayes/vscode-chatgpt-reborn](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
 
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
-*   [manchan4869/CoverVue](https://github.com/manchan4869/CoverVue) - 🛠快速为您的博客文章创建精彩的封面图像。
+*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
-*   [rr210/blazeB2](https://github.com/rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
+*   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
 
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 
-*   [noovertime7/gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak) - 一款分布式高性能的备份系统，支持mysql、ElasticSearch备份，多集群任务统一，数据集中存储
+*   [eryajf/chatgpt-vercel](https://github.com/eryajf/chatgpt-vercel) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 
-*   [xfy520/vue3-menus](https://github.com/xfy520/vue3-menus) - Vue3.0 自定义右键菜单
+*   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、redis(单机 哨兵 集群)、mongo统一管理操作平台。
+*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 
-*   [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 
-*   [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui) - 🐉 简单好用，不缠不绕，直接上手的go-web框架
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [hunter-ji/RedisFish](https://github.com/hunter-ji/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
+*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [GXFG/newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - NaiveTab - newtab extension for browser｜一款简洁高效的浏览器新标签页扩展，可以高度自定义你的新标签页
+*   [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where needed. Works great utility CSS frameworks such as Tailwindcss.
 
-*   [quietdw/animated-banner](https://github.com/quietdw/animated-banner) - Bilibili 首页的动态Banner，感觉很炫酷，个人抽空实现了一波。
+*   [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 
-*   [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) - 一款基于VUE的在线绘制流程图工具
+*   [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
 
-*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
-*   [u2sb/vuepress-plugin-vssue-global](https://github.com/u2sb/vuepress-plugin-vssue-global) - Vuepress的Vssue全局评论插件
+*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 
-*   [qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x) - 🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 
-*   [qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work) - Vue3 和 NaiveUI 的完美结合—Admin Work，拥有漂亮、强大、完善的功能。采用 Vue3 Vite2 Typescript NaiveUI Pinia编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。持续更新，不断完善，一直在前进~~
+*   [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
 
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 
-*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
+*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
-*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
+*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
-*   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
+*   [apptools-lab/AppWorks](https://github.com/apptools-lab/AppWorks) - 🐻  基于 VS Code 插件的前端研发工具集，站点国内镜像：https://apptools.gitee.io
 
-*   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+*   [jd-opensource/drip-table](https://github.com/jd-opensource/drip-table) - A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。
 
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+*   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
 
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [stateful/vscode-server-action](https://github.com/stateful/vscode-server-action) - A GitHub Action that allows to debug GitHub workflows using VS Code.
 
-*   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
+*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 
-*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
-*   [z3by/vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch) - Next-Generation full text search library for Vuepress
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+*   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in an easy way.
+
+*   [xjq7/runcode](https://github.com/xjq7/runcode) - 🚀在线编辑器, 支持在线编写,运行代码，支持C、C++、Go、Nodejs、Rust、Java、Python、C#、PHP多种语言，在线 js-challenge
+
+*   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
+
+*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+
+*   [AttoJS/vue-request](https://github.com/AttoJS/vue-request) - ⚡️ This is a library that can easily help you manage request states, supporting common features such as SWR, polling, error retry, caching, and pagination, etc. ⚡️ 这是一个能够轻松帮助你管理请求状态的库，支持 SWR、轮询、错误重试、缓存、分页等常用功能。
+
+*   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+
+*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
+
+*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
+
+*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+
+*   [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
+
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+
+*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+
+*   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
+
+*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+
+*   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
+
+*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
 ## Go
+
+*   [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+
+*   [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+
+*   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 
@@ -941,9 +989,223 @@
 
 *   [kubecube-io/KubeCube](https://github.com/kubecube-io/KubeCube) - KubeCube is an open source enterprise-level container platform
 
-*   [liushuochen/gotable](https://github.com/liushuochen/gotable) -
+## Svelte
 
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+*   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - Ollama WebUI Stripped 🦙
+
+*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
+## Java
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+*   [TDuckCloud/tduck-platform](https://github.com/TDuckCloud/tduck-platform) - A questionnaire system that can be privatized and deployed - 填鸭表单问卷系统（tduck-survey-form）
+
+*   [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
+
+*   [TongchengOpenSource/ckibana](https://github.com/TongchengOpenSource/ckibana) - Visualizing data in ClickHouse using native Kibana.
+
+*   [Charles7c/continew-admin](https://github.com/Charles7c/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
+
+*   [zmops/ArgusDBM](https://github.com/zmops/ArgusDBM) - Argus 开源数据库一体化监控平台。致力于监控所有数据库。
+
+*   [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+
+*   [seagull1985/LuckyFrameWeb](https://github.com/seagull1985/LuckyFrameWeb) - LuckyFrame测试平台是一款免费开源的测试平台，最大的特点是全纬度覆盖了接口自动化、WEB UI自动化、APP自动化，并且支持分布式测试，测试关键字驱动也很大程度上解决了测试同学代码基础弱的问题。同时也集成了质量管理相关的一些功能，解决QA的日常工作中，项目过程数据的收集问题，并能展示一些简单质量报表。更多功能可以关注公众号或是访问官网了解哦。
+
+*   [dromara/cubic](https://github.com/dromara/cubic) - 一站式问题定位平台，分布式实例监控、线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题
+
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+*   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+
+*   [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
+
+*   [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
+
+*   [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+
+*   [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+
+*   [sohutv/mqcloud](https://github.com/sohutv/mqcloud) - RocketMQ企业级一站式服务平台
+
+*   [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
+
+*   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
+
+*   [joggle-cn/joggle](https://github.com/joggle-cn/joggle) - Joggle是基于Ngrok二开的开源内网穿透项目，多节点、私有部署、云服务。
+
+*   [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+
+*   [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+
+*   [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [vivo/MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+
+*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+
+*   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
+
+*   [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。
+
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
+
+*   [moxi624/mogu\_blog\_v2](https://github.com/moxi624/mogu_blog_v2) - 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
+
+*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product，业界领先的IAM-IDaas身份管理和认证产品,支持OAuth2.x、OpenID Connect、SAML2.0、JWT、CAS、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、自主可控。
+
+*   [dromara/Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+
+*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+
+*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+
+*   [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
+
+*   [didi/KnowAgent](https://github.com/didi/KnowAgent) - 基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台
+
+*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
+
+*   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
+
+*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+
+## Vue
+
+*   [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [WhiteCosmos/Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client) - The open-source, cross-platform API test and design tool.
+
+*   [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) - CMDB from WeBank
+
+*   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - 一个frpc桌面客户端
+
+*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+
+*   [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+
+*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please star ⭐️.
+
+*   [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
+
+*   [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+
+*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🍁采用Vite4、Vue3、Pinia 、Naive UI 构建，构建企业npm依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+
+*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+
+*   [xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui) - 一款快捷易用的轻量级kafka可视化管理平台
+
+*   [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+
+*   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
+
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+
+*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
+
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+
+*   [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
+
+*   [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
+
+*   [pljhonglu/ChatGPT-T](https://github.com/pljhonglu/ChatGPT-T) - chatgpt-tauri base on chatgpt-web
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Netease Cloud Disk Music Upload 网易云盘音乐上传管理 Chrome 插件（解决Mac版本网易云音乐不能上传音乐的痛点）
+
+*   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [QYueWang/vuepress-plugin-flexsearch-pro](https://github.com/QYueWang/vuepress-plugin-flexsearch-pro) - 支持多种语言（包括中文）全局搜索
+
+*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
+
+*   [manchan4869/CoverVue](https://github.com/manchan4869/CoverVue) - 🛠快速为您的博客文章创建精彩的封面图像。
+
+*   [rr210/blazeB2](https://github.com/rr210/blazeB2) - 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [noovertime7/gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak) - 一款分布式高性能的备份系统，支持mysql、ElasticSearch备份，多集群任务统一，数据集中存储
+
+*   [xfy520/vue3-menus](https://github.com/xfy520/vue3-menus) - Vue3.0 自定义右键菜单
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、redis(单机 哨兵 集群)、mongo统一管理操作平台。
+
+*   [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
+
+*   [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui) - 🐉 简单好用，不缠不绕，直接上手的go-web框架
+
+*   [hunter-ji/RedisFish](https://github.com/hunter-ji/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
+
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+
+*   [GXFG/newtab-naivetab](https://github.com/GXFG/newtab-naivetab) - NaiveTab - newtab extension for browser｜一款简洁高效的浏览器新标签页扩展，可以高度自定义你的新标签页
+
+*   [quietdw/animated-banner](https://github.com/quietdw/animated-banner) - Bilibili 首页的动态Banner，感觉很炫酷，个人抽空实现了一波。
+
+*   [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) - 一款基于VUE的在线绘制流程图工具
+
+*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
+
+*   [u2sb/vuepress-plugin-vssue-global](https://github.com/u2sb/vuepress-plugin-vssue-global) - Vuepress的Vssue全局评论插件
+
+*   [qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x) - 🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉
+
+*   [qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work) - Vue3 和 NaiveUI 的完美结合—Admin Work，拥有漂亮、强大、完善的功能。采用 Vue3 Vite2 Typescript NaiveUI Pinia编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。持续更新，不断完善，一直在前进~~
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
+
+*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
+
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+
+*   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
+
+*   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
+
+*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
+
+*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [z3by/vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch) - Next-Generation full text search library for Vuepress
 
 ## C++
 
@@ -972,258 +1234,6 @@
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-## TypeScript
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
-
-*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-
-*   [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
-
-*   [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
-
-*   [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
-
-*   [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-
-*   [Simon-He95/vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
-
-*   [xiaopujun/light-chaser](https://github.com/xiaopujun/light-chaser) - light chaser is a lightweight data visualization designer tool
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-
-*   [richhost/pixzip](https://github.com/richhost/pixzip) - 面向现代 Web 应用的开源图片压缩软件，支持 macOS、Windows 系统
-
-*   [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
-
-*   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-
-*   [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
-
-*   [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
-
-*   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-
-*   [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
-
-*   [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser
-
-*   [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-
-*   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-
-*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
-
-*   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
-
-*   [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
-
-*   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
-
-*   [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer !
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
-
-*   [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
-
-*   [dromara/yft-design](https://github.com/dromara/yft-design) - 一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能，基于Canvas的开源版【稿定设计】。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
-
-*   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
-
-*   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-
-*   [acmenlei/codecv](https://github.com/acmenlei/codecv) - Resume builder based on markdown syntax（在线简历制作工具 https://codecv.top）
-
-*   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
-
-*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-*   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
-
-*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
-
-*   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
-*   [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
-
-*   [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
-
-*   [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-
-*   [hellovigoss/ChatGIF](https://github.com/hellovigoss/ChatGIF) - search GIFs with AI
-
-*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
-
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
-
-*   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-
-*   [caidukai/brain-reply](https://github.com/caidukai/brain-reply) - 更优雅的ChatGPT客户端
-
-*   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
-
-*   [microvoid/retro-avatar](https://github.com/microvoid/retro-avatar) - Create indenticon like Github and Gravatar (retro) avatars.
-
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-
-*   [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
-
-*   [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
-
-*   [lxfater/Portal](https://github.com/lxfater/Portal) -
-
-*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
-
-*   [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
-
-*   [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
-
-*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
-
-*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
-
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-
-*   [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
-
-*   [barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT
-
-*   [aircloud/sync-to-github](https://github.com/aircloud/sync-to-github) - Sync your web content into a github repository, e.g. a conversation with ChatGPT.
-
-*   [PBK-B/gpt-zmide-server](https://github.com/PBK-B/gpt-zmide-server) - 💡 zmide ChatGPT 应用服务，用于管理应用程序对接和集成 ChatGPT API 的服务应用
-
-*   [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
-
-*   [Christopher-Hayes/vscode-chatgpt-reborn](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-
-*   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
-
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
-
-*   [eryajf/chatgpt-vercel](https://github.com/eryajf/chatgpt-vercel) - A demo repo based on OpenAI API (gpt-3.5-turbo)
-
-*   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-
-*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
-
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-
-*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where needed. Works great utility CSS frameworks such as Tailwindcss.
-
-*   [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
-
-*   [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
-
-*   [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
-
-*   [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
-
-*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-
-*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ meilisearch admin dashboard UI for managing your meilisearch instances 🕹
-
-*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-
-*   [apptools-lab/AppWorks](https://github.com/apptools-lab/AppWorks) - 🐻  基于 VS Code 插件的前端研发工具集，站点国内镜像：https://apptools.gitee.io
-
-*   [jd-opensource/drip-table](https://github.com/jd-opensource/drip-table) - A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。
-
-*   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
-
-*   [stateful/vscode-server-action](https://github.com/stateful/vscode-server-action) - A GitHub Action that allows to debug GitHub workflows using VS Code.
-
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-
-*   [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) - This is a plugin of obsidian for users writing in an easy way.
-
-*   [xjq7/runcode](https://github.com/xjq7/runcode) - 🚀在线编辑器, 支持在线编写,运行代码，支持C、C++、Go、Nodejs、Rust、Java、Python、C#、PHP多种语言，在线 js-challenge
-
-*   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
-
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-
-*   [AttoJS/vue-request](https://github.com/AttoJS/vue-request) - ⚡️ This is a library that can easily help you manage request states, supporting common features such as SWR, polling, error retry, caching, and pagination, etc. ⚡️ 这是一个能够轻松帮助你管理请求状态的库，支持 SWR、轮询、错误重试、缓存、分页等常用功能。
-
-*   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
-
-*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-
-*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
-
-*   [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder
-
-*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-
-*   [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-
-*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-
-*   [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
-
-*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
-
-*   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
-
-*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
 ## Python
 
@@ -1611,8 +1621,6 @@
 
 *   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
 
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-
 ## Shell
 
 *   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
@@ -1662,8 +1670,6 @@
 *   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
 
 *   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
-
-*   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
 ## HTML
 
@@ -1764,10 +1770,6 @@
 *   [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 
 *   [eryajf/share-library](https://github.com/eryajf/share-library) -
-
-## Svelte
-
-*   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## Makefile
 
@@ -1900,8 +1902,6 @@
 *   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 *   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## MDX
 
