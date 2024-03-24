@@ -19,13 +19,14 @@
 ## Table of Contents
 
 *   [Go](#go)
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [Svelte](#svelte)
 *   [Vue](#vue)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Python](#python)
 *   [Objective-C++](#objective-c)
 *   [miscellaneous](#miscellaneous)
@@ -38,7 +39,6 @@
 *   [PHP](#php)
 *   [Mustache](#mustache)
 *   [Jinja](#jinja)
-*   [C](#c-1)
 *   [Lua](#lua)
 *   [Smarty](#smarty)
 *   [Groovy](#groovy)
@@ -62,6 +62,8 @@
 
 ## Go
 
+*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥🔥🔥 A general version manager for programming languages and tools.
+
 *   [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 
 *   [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
@@ -71,6 +73,8 @@
 *   [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 
 *   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 
 *   [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
@@ -722,11 +726,33 @@
 
 *   [weiwei2012holy/short\_url](https://github.com/weiwei2012holy/short_url) - 开箱即用的短网址服务——GO语言部署版本
 
-*   [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
+## C
 
-*   [eryajf/xirang](https://github.com/eryajf/xirang) - 简单好用，直接上手的go-web框架
+*   [zhwaaaaaa/nginx-nacos-upstream](https://github.com/zhwaaaaaa/nginx-nacos-upstream) - nginx nacos module. subscribe service and configuration from nacos instead of modifying and reloading nginx.conf
+
+*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+
+*   [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
+
+*   [DNSPod/dnspod-sr](https://github.com/DNSPod/dnspod-sr) - A faster recursive dns server from DNSPod
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
+
+*   [renkeeee/hamnet](https://github.com/renkeeee/hamnet) -
+
+*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
+
+*   [rock-app/fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## TypeScript
+
+*   [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 
 *   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 
@@ -1160,8 +1186,6 @@
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
 
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-
 ## Svelte
 
 *   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - Ollama WebUI Stripped 🦙
@@ -1293,8 +1317,6 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## C++
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 
 *   [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 
@@ -1805,28 +1827,6 @@
 ## Jinja
 
 *   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
-
-## C
-
-*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-
-*   [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
-
-*   [DNSPod/dnspod-sr](https://github.com/DNSPod/dnspod-sr) - A faster recursive dns server from DNSPod
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
-
-*   [renkeeee/hamnet](https://github.com/renkeeee/hamnet) -
-
-*   [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-
-*   [rock-app/fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## Lua
 
