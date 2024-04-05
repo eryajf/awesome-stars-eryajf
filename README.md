@@ -658,7 +658,7 @@
 
 *   [harryzcy/mailbox](https://github.com/harryzcy/mailbox) - Versatile email infrastructure on AWS serverless
 
-*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥🔥🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PHP, Rust, Kotlin, Scala, Flutter, Julia, Zig, V, Typst. A much better choice than vfox, fnm, gvm, etc.
+*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥🔥🔥 A general version manager for multiple sdks, such as Java, Go, Node.js, Deno, Bun, .Net, Python, PyPy, PHP, Rust, Kotlin, Scala, Flutter, Julia, Zig, V, Typst. A much better choice than vfox, fnm, gvm, etc.
 
 *   [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 
