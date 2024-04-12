@@ -632,7 +632,7 @@
 
 *   [zhaoyunxing92/dingtalk](https://github.com/zhaoyunxing92/dingtalk) - go版本的钉钉开发api
 
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
 *   [chyroc/lark](https://github.com/chyroc/lark) - Feishu(飞书)/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 
@@ -1254,7 +1254,7 @@
 
 *   [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
 
-*   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.
+*   [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.  ProComponents in vue.
 
 *   [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become problems.
 
