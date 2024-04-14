@@ -18,14 +18,14 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Objective-C](#objective-c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Svelte](#svelte)
-*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -59,6 +59,134 @@
 *   [Astro](#astro)
 *   [Assembly](#assembly)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+
+*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
+
+*   [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
+
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+
+*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+
+*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+
+*   [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+
+*   [acl-dev/open-coroutine](https://github.com/acl-dev/open-coroutine) - The open-coroutine is a simple, efficient and generic stackful-coroutine library.
+
+*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+
+*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
+
+*   [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+
+*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
+
+*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
+
+*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
+
+## Python
+
+*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+
+*   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
+
+*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+
+*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
+
+*   [mouday/domain-admin](https://github.com/mouday/domain-admin) - Domain and SSL Cert monitor System. 域名SSL证书监测平台
+
+*   [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
+
+*   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+
+*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+
+*   [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
+
+*   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+
+*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
+
+*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
+
+*   [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
+
+*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
+
+*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+
+*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
+
+*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
+
+*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny智能运维PAAS平台
+
+*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
+
+*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
 
 ## TypeScript
 
@@ -134,7 +262,7 @@
 
 *   [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 
-*   [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
+*   [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 
 *   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
@@ -358,87 +486,11 @@
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
-*   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
-
-## Python
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
-
-*   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
-
-*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-
-*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
-
-*   [mouday/domain-admin](https://github.com/mouday/domain-admin) - Domain and SSL Cert monitor System. 域名SSL证书监测平台
-
-*   [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
-
-*   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-
-*   [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
-
-*   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-
-*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
-
-*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
-
-*   [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
-
-*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
-
-*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
-
-*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
-
-*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
-
-*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny智能运维PAAS平台
-
-*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
-
-*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
-
 ## Go
 
 *   [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 
 *   [ssup2/kpexec](https://github.com/ssup2/kpexec) -  kpexec is a kubernetes cli that runs commands in a container with high privileges.
-
-*   [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 
 *   [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 
@@ -1322,8 +1374,6 @@
 
 *   [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 
-*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
-
 *   [lulu-ls/cloud-uploader](https://github.com/lulu-ls/cloud-uploader) - 网易云音乐MAC云盘上传工具
 
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
@@ -1430,7 +1480,7 @@
 
 *   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 
-*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
+*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 童欧巴的技术周刊，每周发布。🌰
 
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -1466,69 +1516,17 @@
 
 *   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
 ## Svelte
 
 *   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
+
+*   [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 
 *   [LynanBreeze/simple-resume](https://github.com/LynanBreeze/simple-resume) - Generate your own responsive resume page.
 
 *   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - Ollama WebUI Stripped 🦙
 
 *   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-
-## Rust
-
-*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
-
-*   [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-
-*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-
-*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-
-*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-
-*   [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
-
-*   [acl-dev/open-coroutine](https://github.com/acl-dev/open-coroutine) - The open-coroutine is a simple, efficient and generic stackful-coroutine library.
-
-*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-*   [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-
-*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
-
-*   [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-
-*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
-
-*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
-
-*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 
 ## Shell
 
@@ -1648,7 +1646,7 @@
 
 *   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Netease Cloud Disk Music Upload 网易云盘音乐上传管理 Chrome 插件（解决Mac版本网易云音乐不能上传音乐的痛点）
 
-*   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+*   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
 *   [QYueWang/vuepress-plugin-flexsearch-pro](https://github.com/QYueWang/vuepress-plugin-flexsearch-pro) - 支持多种语言（包括中文）全局搜索
 
@@ -1699,6 +1697,8 @@
 *   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
 *   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
+
+*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
 
 *   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
