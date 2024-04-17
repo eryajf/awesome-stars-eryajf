@@ -62,6 +62,8 @@
 
 ## JavaScript
 
+*   [mumuy/relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機\_Chinese kinship system.
+
 *   [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
 
 *   [leibnizli/hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
@@ -209,6 +211,8 @@
 *   [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 *   [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
+
+*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
 
 *   [lulu-ls/cloud-uploader](https://github.com/lulu-ls/cloud-uploader) - 网易云音乐MAC云盘上传工具
 
@@ -962,8 +966,6 @@
 
 *   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-
 ## Rust
 
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
@@ -1112,7 +1114,7 @@
 
 *   [sleepy-zone/fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 👻 A creative editor based on fabricjs. 一款基于 fabricjs 的开源创意图片编辑器，旨在让开发者快速构建属于自己的图片编辑器。可应用于海报设计、小红书公众号封面设计、banner 设计等场景。
 
-*   [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+*   [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
 
 *   [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 
@@ -1699,8 +1701,6 @@
 *   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
 *   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
-
-*   [eryajf/go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) - go-ldap-admin项目官方文档
 
 *   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
