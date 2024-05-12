@@ -64,6 +64,8 @@
 
 ## JavaScript
 
+*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON.
+
 *   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 
 *   [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
@@ -760,7 +762,7 @@
 
 *   [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 
-*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 
 *   [glebarez/sqlite](https://github.com/glebarez/sqlite) - The pure-Go SQLite driver for GORM
 
@@ -1943,8 +1945,6 @@
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-*   [eryajf/rpmbuild](https://github.com/eryajf/rpmbuild) - 整理工作中常用的RPM构建spec
 
 ## Objective-C
 
