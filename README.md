@@ -566,7 +566,7 @@
 
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
-*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator
+*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform(IDP).
 
 *   [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 
@@ -2268,7 +2268,7 @@
 
 ## Makefile
 
-*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网最（可能）详细的Kubernetes中文教程。
+*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
 
 ## Erlang
 
