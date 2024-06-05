@@ -314,7 +314,7 @@
 
 *   [harryzcy/mailbox](https://github.com/harryzcy/mailbox) - Versatile email infrastructure on AWS serverless
 
-*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 60+ SDKs with TUI inspired by lazygit.
+*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 60+ SDKs with TUI inspired by lazygit. No need to remember any commands. 支持各种语言，无需插件，无需记忆命令，最好用的SDK版本管理器。
 
 *   [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 
@@ -1258,7 +1258,7 @@
 
 *   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite2 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 
 *   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
 
