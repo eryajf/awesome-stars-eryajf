@@ -986,7 +986,7 @@
 
 *   [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot) - 给我一个URL，我能将你关心的元素截图发给机器人🤖
 
-*   [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+*   [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 
 *   [kubecube-io/KubeCube](https://github.com/kubecube-io/KubeCube) - KubeCube is an open source enterprise-level container platform
 
@@ -1616,7 +1616,7 @@
 
 *   [lework/Ansible-roles](https://github.com/lework/Ansible-roles) - Ansible Roles
 
-*   [liukango/infra-docker-compose](https://github.com/liukango/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
+*   [kangeek/infra-docker-compose](https://github.com/kangeek/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
 
 *   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 
@@ -1656,7 +1656,7 @@
 
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具. Change Source for every software on every platform from the command line.
 
 *   [renkeeee/hamnet](https://github.com/renkeeee/hamnet) -
 
