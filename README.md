@@ -1716,7 +1716,7 @@
 
 ## HTML
 
-*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - 用于管理多场景、多版本、多适用模型的 Prompt 模板集合
+*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
