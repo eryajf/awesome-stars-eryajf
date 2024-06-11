@@ -570,7 +570,7 @@
 
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
-*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform(IDP).
+*   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 
 *   [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
 
@@ -1564,6 +1564,8 @@
 
 *   [LuRenJiasWorld/WP-Editor.md](https://github.com/LuRenJiasWorld/WP-Editor.md) - 或许这是一个WordPress中最好，最完美的Markdown编辑器
 
+*   [eryajf/shellabout](https://github.com/eryajf/shellabout) - 一些值得长久珍藏的shell相关文件
+
 ## Vue
 
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -1692,8 +1694,6 @@
 
 *   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
-*   [eryajf/xirang-web](https://github.com/eryajf/xirang-web) -
-
 *   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
 *   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
@@ -1764,7 +1764,7 @@
 
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具. Change Source for every software on every platform from the command line.
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具. Change Source for every software on every platform from the command line.
 
 *   [renkeeee/hamnet](https://github.com/renkeeee/hamnet) -
 
