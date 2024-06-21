@@ -1006,7 +1006,7 @@
 
 *   [prometheus/client\_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 
-*   [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+*   [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 
 *   [vimsucks/wxwork-bot-go](https://github.com/vimsucks/wxwork-bot-go) - 企业微信群机器人接口 Golang 封装
 
