@@ -47,7 +47,6 @@
 *   [Smarty](#smarty)
 *   [Groovy](#groovy)
 *   [Makefile](#makefile)
-*   [Erlang](#erlang)
 *   [Gherkin](#gherkin)
 *   [Ruby](#ruby)
 *   [Dockerfile](#dockerfile)
@@ -1790,6 +1789,8 @@
 
 *   [AutoMeter/AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) - AutoMeter-API是一款专门为测试人员准备的针对分布式服务，微服务API，接口，功能和性能一体的自动化测试平台，一站式解决项目管理，微服务，API接口，环境管理，测试用例，前置条件，变量管理，测试集合，测试计划，测试报告，支持分布式多机执行功能/性能测试兼容的一体化测试工作平台
 
+*   [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
+
 *   [lework/Ansible-roles](https://github.com/lework/Ansible-roles) - Ansible Roles
 
 *   [kangeek/infra-docker-compose](https://github.com/kangeek/infra-docker-compose) - 研发内网可能用到的组件，如Gerrit、GitLab、Jira、Confluence、DNS、Proxy、Nexus、Jenkins、Ldap等。
@@ -2269,10 +2270,6 @@
 ## Makefile
 
 *   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
-
-## Erlang
-
-*   [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
 
 ## Gherkin
 
