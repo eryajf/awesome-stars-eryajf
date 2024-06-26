@@ -207,6 +207,8 @@
 
 *   [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 
+*   [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
+
 *   [dromara/yft-design](https://github.com/dromara/yft-design) - 一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能，基于fabric.js的开源版【稿定设计】。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编辑等 。A beautiful and powerful online design tool
 
 *   [strivelen/fine-admin](https://github.com/strivelen/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
@@ -899,7 +901,7 @@
 
 *   [cch123/elasticsql](https://github.com/cch123/elasticsql) - convert sql to elasticsearch DSL in golang(go)
 
-*   [helloxz/zdir](https://github.com/helloxz/zdir) - Golang + Vue3开发的目录列表程序。
+*   [helloxz/zdir](https://github.com/helloxz/zdir) - 一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持WebDAV和离线下载（即将）。
 
 *   [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
@@ -1252,8 +1254,6 @@
 *   [quick123official/quick\_redis\_blog](https://github.com/quick123official/quick_redis_blog) - QuickRedis is a free forever Redis Desktop manager. It supports direct connection, sentinel, and cluster mode, supports multiple languages, supports hundreds of millions of keys, and has an amazing UI. Supports both Windows, Mac OS X and Linux platform.
 
 *   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-
-*   [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 🎨 This is the repo for vuepress-theme-reco 2.
 
 *   [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[WIP]
 
@@ -2005,7 +2005,7 @@
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 *   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 
