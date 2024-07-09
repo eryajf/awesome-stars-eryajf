@@ -147,7 +147,7 @@
 
 *   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - GO 开发的轻量 Linux 面板
+*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 现代化、开源的轻量服务器管理面板
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
@@ -1073,7 +1073,7 @@
 
 *   [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.x、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 
-*   [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
+*   [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 
 *   [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR Code Generator
 
@@ -1120,8 +1120,6 @@
 *   [sprout2000/leafview](https://github.com/sprout2000/leafview) - Minimalist image viewer based on Leaflet.js and Electron.
 
 *   [sprout2000/tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer based on Leaflet.js and Tauri.
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
@@ -1552,6 +1550,8 @@
 *   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 
 *   [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 *   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 
@@ -2241,7 +2241,7 @@
 
 ## Mustache
 
-*   [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
+*   [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for LKE (and any other conformant K8s)
 
 ## Jinja
 
