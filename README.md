@@ -1995,7 +1995,7 @@
 
 *   [wuchangming/chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 
 *   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
