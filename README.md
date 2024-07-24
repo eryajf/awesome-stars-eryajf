@@ -601,7 +601,7 @@
 
 *   [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) - 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀
 
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
 
 *   [google/dnsmasq\_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 
@@ -1161,7 +1161,7 @@
 
 ## TypeScript
 
-*   [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - 一款开源的跨平台剪切板管理工具。
+*   [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for all  platforms.
 
 *   [raqibnur/quick-waitlist](https://github.com/raqibnur/quick-waitlist) - Quick Waitlist is an open-source "coming soon" and waiting list page for SaaS platforms and websites.
 
