@@ -1621,7 +1621,7 @@
 
 *   [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
 
-*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities
+*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
 
 *   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 
@@ -2199,7 +2199,7 @@
 
 *   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - Ollama WebUI Stripped 🦙 This repo is no longer maintained, please use our main Open WebUI repo.
 
-*   [richhost/pixzip](https://github.com/richhost/pixzip) - 面向现代 Web 应用的开源图片压缩软件，支持 macOS、Windows 系统
+*   [richhost/pixzip](https://github.com/richhost/pixzip) - Easy to use batch image compression software. Powered by Svelte 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte、Electron 构建。
 
 *   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
