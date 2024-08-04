@@ -63,7 +63,7 @@
 
 ## Go
 
-*   [w8t-io/WatchAlert](https://github.com/w8t-io/WatchAlert) - 一款云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger;
+*   [w8t-io/WatchAlert](https://github.com/w8t-io/WatchAlert) - 一款云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent;
 
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 
@@ -957,7 +957,7 @@
 
 *   [qiaolin-li/dubbo-desktop-manager](https://github.com/qiaolin-li/dubbo-desktop-manager) - 一个Dubbo管理客户端
 
-*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
 *   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 
