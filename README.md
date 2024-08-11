@@ -1119,7 +1119,7 @@
 
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
-*   [Simon-He95/vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
+*   [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
 
 *   [xiaopujun/light-chaser](https://github.com/xiaopujun/light-chaser) - light chaser is a lightweight data visualization designer tool
 
