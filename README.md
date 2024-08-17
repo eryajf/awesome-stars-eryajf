@@ -249,7 +249,7 @@
 
 *   [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
-*   [w8t-io/WatchAlert](https://github.com/w8t-io/WatchAlert) - 🚀一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent;
+*   [w8t-io/WatchAlert](https://github.com/w8t-io/WatchAlert) - 🚀一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent、ElasticSearch;
 
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 
