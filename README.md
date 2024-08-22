@@ -491,7 +491,7 @@
 
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
-*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Netease Cloud Disk Music Upload 网易云盘音乐上传管理 Chrome 插件（解决Mac版本网易云音乐不能上传音乐的痛点）
+*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Update : 网易云音乐Mac版 3.x 已经原生支持上传了，此插件没有意义了，江湖再见～
 
 *   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
@@ -2199,7 +2199,7 @@
 
 *   [LynanBreeze/simple-resume](https://github.com/LynanBreeze/simple-resume) - Generate your own responsive resume page.
 
-*   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - Ollama WebUI Stripped 🦙 This repo is no longer maintained, please use our main Open WebUI repo.
+*   [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - This repo is no longer maintained, please use our main Open WebUI repo.
 
 *   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
 
