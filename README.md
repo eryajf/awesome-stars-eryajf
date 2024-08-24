@@ -63,6 +63,10 @@
 
 ## Go
 
+*   [itang/gohttp](https://github.com/itang/gohttp) - Alternatives for “python -m SimpleHTTPServer”, using golang
+
+*   [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+
 *   [WhizardTelemetry/whizard](https://github.com/WhizardTelemetry/whizard) -
 
 *   [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
@@ -845,8 +849,6 @@
 
 *   [prometheus/client\_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 
-*   [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-
 ## TypeScript
 
 *   [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
@@ -1188,8 +1190,6 @@
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
-*   [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 
 ## Vue
 
@@ -1789,7 +1789,7 @@
 
 *   [tony2y/RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) - 基RuoYi-vue  + flowable 6.7.2 的工作流管理  右上角点个 star 🌟 持续关注更新哟
 
-*   [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 *   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 
