@@ -63,6 +63,10 @@
 
 ## Go
 
+*   [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
+
+*   [TencentCloud/tencentcloud-sdk-go](https://github.com/TencentCloud/tencentcloud-sdk-go) - Tencent Cloud API 3.0 SDK for Golang
+
 *   [itang/gohttp](https://github.com/itang/gohttp) - Alternatives for “python -m SimpleHTTPServer”, using golang
 
 *   [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -845,10 +849,6 @@
 
 *   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
 
-*   [tkestack/kvass](https://github.com/tkestack/kvass) - Kvass is a Prometheus horizontal auto-scaling solution , which uses Sidecar to generate special config file only containes part of targets assigned from Coordinator for every Prometheus shard.
-
-*   [prometheus/client\_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
-
 ## TypeScript
 
 *   [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
@@ -985,7 +985,7 @@
 
 *   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
-*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
 *   [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
 
