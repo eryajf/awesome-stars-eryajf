@@ -63,6 +63,8 @@
 
 ## Go
 
+*   [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
+
 *   [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 
 *   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -851,8 +853,6 @@
 
 *   [liushuochen/gotable](https://github.com/liushuochen/gotable) -
 
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
-
 ## Java
 
 *   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Big data computing platform based on Spark <至轻云-打造大数据计算平台/数据中台>
@@ -1403,7 +1403,7 @@
 
 *   [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 
-*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please star ⭐️.
+*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please give the author a star to encourage them.
 
 *   [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 
@@ -2247,7 +2247,7 @@
 
 ## Mustache
 
-*   [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (and any other conformant K8s)
+*   [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Jinja
 
