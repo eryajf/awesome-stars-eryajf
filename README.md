@@ -448,7 +448,7 @@
 
 *   [bigwhite/gopherdaily](https://github.com/bigwhite/gopherdaily) - the archive of gopher daily articles
 
-*   [eryajf/cloud\_dns\_exporter](https://github.com/eryajf/cloud_dns_exporter) - 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy
+*   [eryajf/cloud\_dns\_exporter](https://github.com/eryajf/cloud_dns_exporter) - 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，DNSLA，Amazon
 
 *   [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 
