@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -30,7 +31,6 @@
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
 *   [JavaScript](#javascript)
-*   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [Python](#python)
 *   [C](#c-1)
@@ -61,6 +61,22 @@
 *   [Astro](#astro)
 *   [Assembly](#assembly)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [sunny-chung/hello-http](https://github.com/sunny-chung/hello-http) - A cross-platform HTTP client desktop application for testing HTTP and REST APIs, WebSocket, GraphQL (including subscriptions) and gRPC endpoints.
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem 📦
+
+*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS and macOS. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
 ## Rust
 
@@ -1742,8 +1758,6 @@
 
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 
-*   [lanyulei/fiy](https://github.com/lanyulei/fiy) - 配置管理数据库，即CMDB。
-
 ## Swift
 
 *   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
@@ -2024,20 +2038,6 @@
 
 *   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
 
-## Kotlin
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [sunny-chung/hello-http](https://github.com/sunny-chung/hello-http) - A cross-platform HTTP client desktop application for testing HTTP and REST APIs, WebSocket, GraphQL (including subscriptions) and gRPC endpoints.
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem 📦
-
-*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS and macOS. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
 ## HTML
 
 *   [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
@@ -2162,7 +2162,7 @@
 
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
 *   [renkeeee/hamnet](https://github.com/renkeeee/hamnet) -
 
