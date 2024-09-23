@@ -270,7 +270,7 @@
 
 *   [pddzl/td27-admin](https://github.com/pddzl/td27-admin) - 基于Goalng、Gin、Casbin & Vue3、TypeScript、Element Plus、Pinia 的前后端分离的动态路由权限管理系统
 
-*   [openGemini/openGemini](https://github.com/openGemini/openGemini) - An open source distributed time-series database with high concurrency, high performance, and high scalability
+*   [openGemini/openGemini](https://github.com/openGemini/openGemini) - CNCF sandbox project, an open source distributed time-series database with high concurrency, high performance, and high scalability
 
 *   [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 
@@ -306,7 +306,7 @@
 
 *   [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 
-*   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
+*   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON or YAML objects.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 
@@ -1504,7 +1504,7 @@
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
-*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 🍁采用Vite4、Vue3、Pinia 、Naive UI 构建，构建企业npm依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性
+*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - vue-bag-admin，采用Vue3、Vite5、Naive UI、JavaScript、Gulp、Pinia以及周边的优秀的插件搭建，通过npm命令安装引入主程序包开发，插件式开发，它允许开发者在不修改原有代码基础上扩展功能、增加新的处理逻辑，使得应用更加模块化和易于维护，响应式中后台管理系统，满足现有业务各种扩展...
 
 *   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 
