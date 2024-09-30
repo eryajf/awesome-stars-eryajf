@@ -1760,7 +1760,7 @@
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
-*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - vue-bag-admin，采用Vue3、Vite5、Naive UI、Pinia以及周边的优秀的插件搭建，开源仓库首个npm包管理后台开发
+*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 采用Vue3、Vite5、Naive UI、JavaScript、Gulp、Pinia以及周边的优秀的插件搭建，通过npm命令安装引入主程序包开发，插件式开发，它允许开发者在不修改原有代码基础上扩展功能、增加新的处理逻辑，使得应用更加模块化和易于维护，响应式中后台管理系统，满足现有业务各种扩展...
 
 *   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 
