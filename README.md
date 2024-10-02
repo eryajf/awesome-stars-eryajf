@@ -636,7 +636,7 @@
 
 ## Kotlin
 
-*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) -
+*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 
 *   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 
@@ -1260,7 +1260,7 @@
 
 *   [harryzcy/mailbox](https://github.com/harryzcy/mailbox) - Versatile email infrastructure on AWS serverless
 
-*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 
 *   [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 
