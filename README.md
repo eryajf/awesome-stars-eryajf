@@ -64,6 +64,8 @@
 
 ## Go
 
+*   [eryajf/go-alimail](https://github.com/eryajf/go-alimail) - 🧰 阿里企业邮箱 GO 语言 SDK
+
 *   [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 
 *   [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) - Domain name parser for Go based on the Public Suffix List.
@@ -1860,8 +1862,6 @@
 
 *   [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) - 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
 
-*   [rfjer/autoAdmin](https://github.com/rfjer/autoAdmin) - 开源运维平台
-
 ## Rust
 
 *   [kairyou/jenkins-cli](https://github.com/kairyou/jenkins-cli) - A powerful CLI tool written in Rust for triggering Jenkins builds and monitoring job status.
@@ -2456,7 +2456,7 @@
 
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 523 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
