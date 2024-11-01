@@ -67,7 +67,7 @@
 
 *   [go-webtools/knife4go](https://github.com/go-webtools/knife4go) - simply Assembled knife4j + gin-swagger, it means an enhanced version of gin-swagger with nice UI.  Also, it can be  called knife4go
 
-*   [ZiRunHua/LeapLedger](https://github.com/ZiRunHua/LeapLedger) -
+*   [ZiRunHua/LeapLedger](https://github.com/ZiRunHua/LeapLedger) - The back-end part of an accounting tool based on Flutter and Gin's front-end separation
 
 *   [caoyingjunz/pixiu](https://github.com/caoyingjunz/pixiu) - Pixiu is an open source container platform for cloud-native application management.
 
@@ -1497,7 +1497,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 MaxKB 是一款基于大语言模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
