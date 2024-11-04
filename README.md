@@ -63,6 +63,8 @@
 
 ## Go
 
+*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
 *   [go-webtools/knife4go](https://github.com/go-webtools/knife4go) - simply Assembled knife4j + gin-swagger, it means an enhanced version of gin-swagger with nice UI.  Also, it can be  called knife4go
@@ -910,8 +912,6 @@
 *   [jlaffaye/ftp](https://github.com/jlaffaye/ftp) - FTP client package for Go
 
 *   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
-
-*   [mritd/mmh](https://github.com/mritd/mmh) - Nothing, just a simple ssh tool.
 
 ## CSS
 
