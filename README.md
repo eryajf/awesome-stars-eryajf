@@ -1331,7 +1331,7 @@
 
 *   [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
 
-*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单好用的数据源管理平台，目前官方插件支持ElasticSearch6，7，8版本的管理
+*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - This is a simple and user-friendly data source management platform. Currently, the official plugin supports management of ElasticSearch versions 6, 7, and 8
 
 *   [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
