@@ -87,7 +87,7 @@
 
 *   [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not use it for commercial purposes.
 
-*   [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+*   [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
 *   [eryajf/go-enterprise-email-sdk](https://github.com/eryajf/go-enterprise-email-sdk) - 💌 阿里企业邮箱 GO 语言 SDK 📬
 
@@ -99,7 +99,7 @@
 
 *   [bigwhite/gopherdaily](https://github.com/bigwhite/gopherdaily) - the archive of gopher daily articles
 
-*   [eryajf/cloud\_dns\_exporter](https://github.com/eryajf/cloud_dns_exporter) - 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，DNSLA，Amazon，Cloudflare
+*   [opsre/cloud\_dns\_exporter](https://github.com/opsre/cloud_dns_exporter) - 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，DNSLA，Amazon，Cloudflare
 
 *   [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 
@@ -1301,9 +1301,9 @@
 
 *   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
 
-*   [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client | 一个现代、实用的kafka界面客户端。
+*   [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client | 一个现代、实用的kafka本地客户端
 
-*   [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES界面客户端。
+*   [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端
 
 *   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 
@@ -1443,7 +1443,7 @@
 
 *   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
-*   [eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+*   [opsre/go-ldap-admin-ui](https://github.com/opsre/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
 *   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
 
@@ -1581,7 +1581,7 @@
 
 *   [eryajf/rfyiamcool](https://github.com/eryajf/rfyiamcool) -
 
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 
 *   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
 
@@ -2465,7 +2465,7 @@
 
 *   [linode/apl-core](https://github.com/linode/apl-core) - Akamai App Platform for LKE
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
