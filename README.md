@@ -63,6 +63,8 @@
 
 ## Go
 
+*   [yuyan075500/ops-api](https://github.com/yuyan075500/ops-api) - 项目主要提供系统用户统一认证服务（SSO），采用前后端分离的架构模式，支持CAS 3.0、OAuth 2.0、SAML2和OIDC协议。后端项目基于Gin + Gorm + Casbin实现，前端项目基于 Vue Admin Template 进行二次开发。
+
 *   [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang crypto package
 
 *   [aide-family/moon](https://github.com/aide-family/moon) - 云原生监控系统
@@ -1828,8 +1830,6 @@
 *   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny开源智能运维平台
 
 *   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
 ## Objective-C
 
