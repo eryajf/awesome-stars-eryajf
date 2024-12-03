@@ -35,7 +35,6 @@
 *   [Ruby](#ruby)
 *   [Shell](#shell)
 *   [C++](#c)
-*   [Awk](#awk)
 *   [C](#c-1)
 *   [SVG](#svg)
 *   [Clojure](#clojure)
@@ -1379,6 +1378,8 @@
 
 *   [xxd763795151/rocketmq-monitor](https://github.com/xxd763795151/rocketmq-monitor) - 拿来即用的rocketmq监控、告警配置
 
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
+
 *   [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 
 *   [HuangRunHua/FilerApp](https://github.com/HuangRunHua/FilerApp) - A Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system
@@ -1471,7 +1472,7 @@
 
 *   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
-*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 
 *   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 童欧巴的技术周刊，每周发布。🌰
 
@@ -2368,10 +2369,6 @@
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-## Awk
-
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 
 ## C
 
