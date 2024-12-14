@@ -376,7 +376,7 @@
 
 *   [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 *   [sleepy-zone/fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 👻 A creative editor based on fabricjs. 一款基于 fabricjs 的开源创意图片编辑器，旨在让开发者快速构建属于自己的图片编辑器。可应用于海报设计、小红书公众号封面设计、banner 设计等场景。
 
@@ -656,7 +656,7 @@
 
 *   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 
-*   [yuyan075500/ops-api](https://github.com/yuyan075500/ops-api) - 项目主要提供系统用户统一认证服务（SSO），采用前后端分离的架构模式，支持CAS 3.0、OAuth 2.0、SAML2和OIDC协议。后端项目基于Gin + Gorm + Casbin实现，前端项目基于 Vue Admin Template 进行二次开发。
+*   [yuyan075500/ops-api](https://github.com/yuyan075500/ops-api) - 项目采用前后端分离的架构模式，后端项目基于Gin + Gorm + Casbin实现，前端项目基于 Vue Admin Template 进行二次开发。提供系统用户统一认证服务（SSO），支持CAS 3.0、OAuth 2.0、SAML2和OIDC协议。支持企业级账号管理功能，支持账号分享、账号移交。
 
 *   [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang crypto package
 
@@ -740,7 +740,7 @@
 
 *   [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
-*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent、ElasticSearch;
+*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生多数据源监控告警引擎，快来用它升级你们的监控系统架构吧！
 
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 
@@ -836,7 +836,7 @@
 
 *   [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
 
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 
@@ -2042,7 +2042,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use RAG Chatbot. MaxKB 是一款基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use, flexible RAG Chatbot. MaxKB 是基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
