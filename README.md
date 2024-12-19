@@ -464,7 +464,7 @@
 
 *   [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 
-*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - Sponge is a powerful Go development framework, it's easy to develop web, gRPC and microservice projects, it supports generating the necessary code for your project based on custom templates.
+*   [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - Sponge is a powerful Go development framework, it's easy to develop web, gRPC and microservice projects, it supports generating the necessary code for your project based on custom templates.
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 
