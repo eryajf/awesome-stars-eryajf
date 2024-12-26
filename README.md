@@ -68,7 +68,7 @@
 
 *   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 
-*   [yuyan075500/ops-api](https://github.com/yuyan075500/ops-api) - 项目采用前后端分离的架构模式，后端项目基于Gin + Gorm + Casbin实现，前端项目基于 Vue Admin Template 进行二次开发。提供系统用户统一认证服务（SSO），支持CAS 3.0、OAuth 2.0、SAML2和OIDC协议。支持企业级账号管理功能，支持账号分享、账号移交。
+*   [yuyan075500/idsphere](https://github.com/yuyan075500/idsphere) - 项目采用前后端分离的架构模式，后端项目基于Gin + Gorm + Casbin实现，前端项目基于 Vue Admin Template 进行二次开发。提供系统用户统一认证服务（SSO），支持CAS 3.0、OAuth 2.0、SAML2和OIDC协议。支持企业级账号管理功能，支持账号分享、账号移交。
 
 *   [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang crypto package
 
