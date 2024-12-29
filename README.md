@@ -1500,7 +1500,7 @@
 
 *   [microvoid/retro-avatar](https://github.com/microvoid/retro-avatar) - Create indenticon like Github and Gravatar (retro) avatars.
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 *   [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 
