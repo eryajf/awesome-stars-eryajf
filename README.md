@@ -264,7 +264,7 @@
 
 *   [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly golang crypto package
 
-*   [aide-family/moon](https://github.com/aide-family/moon) - 一站式云原生监控系统， 专为简化云原生监控的运维工作而设计， 旨在帮助企业快速部署云原生监控系统
+*   [aide-family/moon](https://github.com/aide-family/moon) - Moon是一款适用于多个领域的监控告警平台，支持云原生、物联网（IoT）和人工智能（AI）等多种应用场景。它不仅简化了云原生监控的运维工作，还具备强大的物联网和 AI 支持能力，能够满足不同行业和领域的多样化监控需求。通过实时数据监控、智能告警和故障响应，能够满足不同领域的监控需求。
 
 *   [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 
@@ -1648,7 +1648,7 @@
 
 *   [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 
-*   [kairyou/jenkins-cli](https://github.com/kairyou/jenkins-cli) - A powerful CLI tool written in Rust for triggering Jenkins builds and monitoring job status.
+*   [kairyou/jenkins-cli](https://github.com/kairyou/jenkins-cli) - Cross-platform CLI tool for triggering Jenkins builds. Written in Rust for high performance.
 
 *   [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 
