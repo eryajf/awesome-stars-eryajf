@@ -142,7 +142,7 @@
 
 *   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny开源智能运维平台
 
-*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
+*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee和GitLab之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee and GitLab).
 
 ## Shell
 
@@ -918,7 +918,7 @@
 
 *   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
-*   [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[WIP]
+*   [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo
 
 *   [cskefu/cskefu](https://github.com/cskefu/cskefu) - 🌲 春松客服，开源客服系统
 
