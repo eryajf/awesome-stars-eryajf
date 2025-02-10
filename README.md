@@ -806,7 +806,7 @@
 
 *   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代全能服务器运维管理面板。简单轻量，高效运维。
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
