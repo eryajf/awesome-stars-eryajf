@@ -62,6 +62,8 @@
 
 ## Vue
 
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
+
 *   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
 
 *   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
@@ -100,7 +102,7 @@
 
 *   [Chanzhaoyu/admin-one-vue](https://github.com/Chanzhaoyu/admin-one-vue) - Free Vue 3.x Tailwind 3.x Vite 4.x TypeScript 4.x Admin Dashboard with dark mode
 
-*   [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」
+*   [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted admin template / vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板
 
 *   [continew-org/continew-admin-ui-arco](https://github.com/continew-org/continew-admin-ui-arco) - 基于 Arco Design Pro 前端模板开发的 ContiNew Admin 前端适配项目。
 
@@ -324,7 +326,7 @@
 
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 
@@ -402,7 +404,7 @@
 
 *   [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 
-*   [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
+*   [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 
 *   [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 
@@ -2037,8 +2039,6 @@
 *   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 *   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
-
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
 
 ## HTML
 
