@@ -998,7 +998,7 @@
 
 *   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue3 + vite6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 
 *   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
 
@@ -1602,7 +1602,7 @@
 
 *   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
-*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
+*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
@@ -1682,7 +1682,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, OpenAI, and more.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI, and more.
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
