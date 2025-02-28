@@ -2477,7 +2477,7 @@
 
 ## Lua
 
-*   [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+*   [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 
 ## Groovy
 
