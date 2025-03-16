@@ -85,8 +85,6 @@
 
 *   [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 
-*   [CassInfra/KubeDoor](https://github.com/CassInfra/KubeDoor) - 基于K8S准入控制机制的微服务资源管控平台，多K8S统一监控、告警、展示最佳实践
-
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
 *   [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
@@ -476,6 +474,8 @@
 *   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
 
 *   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
+
+*   [CassInfra/KubeDoor](https://github.com/CassInfra/KubeDoor) - 基于K8S准入控制机制的微服务资源管控平台，多K8S统一监控、告警、展示最佳实践
 
 *   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
 
