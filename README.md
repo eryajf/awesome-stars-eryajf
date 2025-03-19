@@ -2207,7 +2207,7 @@
 
 *   [aizuda/snail-job](https://github.com/aizuda/snail-job) - 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台
 
-*   [wgzhao/Addax](https://github.com/wgzhao/Addax) - A versatile ETL tool that can transfer data between RDBMS and NoSQL databases seamlessly
+*   [wgzhao/Addax](https://github.com/wgzhao/Addax) - A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
 
 *   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Big data computing platform based on Spark <至轻云-超轻量级大数据计算平台/数据中台>
 
