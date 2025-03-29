@@ -203,7 +203,7 @@
 
 *   [webp-sh/webp\_server\_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 
-*   [zhangdi168/VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
+*   [dicoder-cn/VitePressSimple](https://github.com/dicoder-cn/VitePressSimple) - VitePress Visual Configuration Tool
 
 *   [oakmound/oak](https://github.com/oakmound/oak) - A pure Go game engine
 
