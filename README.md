@@ -231,7 +231,7 @@
 
 *   [ssup2/kpexec](https://github.com/ssup2/kpexec) -  kpexec is a kubernetes cli that runs commands in a container with high privileges.
 
-*   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
+*   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 
 *   [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 
