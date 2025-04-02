@@ -24,6 +24,7 @@
 *   [Python](#python)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
+*   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
@@ -47,7 +48,6 @@
 *   [Jinja](#jinja)
 *   [Lua](#lua)
 *   [Groovy](#groovy)
-*   [Makefile](#makefile)
 *   [Gherkin](#gherkin)
 *   [Dockerfile](#dockerfile)
 *   [MDX](#mdx)
@@ -257,7 +257,7 @@
 
 *   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
@@ -1085,7 +1085,7 @@
 
 *   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
-*   [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+*   [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
@@ -1505,7 +1505,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use RAG chatbot that features robust workflow and MCP tool-use capabilities. It supports a wide range of mainstream large language models (LLMs), including DeepSeek-R1, Llama 3.3, OpenAI, among others.
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
@@ -1859,9 +1859,13 @@
 
 *   [wecatch/china\_regions](https://github.com/wecatch/china_regions) - 最全最新中国省，市，地区json及sql数据
 
-## Shell
+## Makefile
 
 *   [opsre/JenkinsGuide](https://github.com/opsre/JenkinsGuide) - Jenkins全知全解
+
+*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
+
+## Shell
 
 *   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
 
@@ -2484,10 +2488,6 @@
 *   [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 
 *   [eryajf/share-library](https://github.com/eryajf/share-library) -
-
-## Makefile
-
-*   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
 
 ## Gherkin
 
