@@ -983,8 +983,6 @@
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
-
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -1003,7 +1001,7 @@
 
 *   [rhua-ai/rhua-chatgpt-web](https://github.com/rhua-ai/rhua-chatgpt-web) - 一个基于react + semi ui + tauri开发的LLM对话工具，通过此工具可以快速构建你的专属人工智能助手。
 
-*   [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 *   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
@@ -1680,6 +1678,8 @@
 *   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 *   [MrViolets/Deep-Tab-Search](https://github.com/MrViolets/Deep-Tab-Search) - Chrome extension that lets you search the content of all your open tabs.
 
