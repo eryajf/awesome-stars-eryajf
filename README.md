@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
@@ -29,7 +30,6 @@
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Svelte](#svelte)
-*   [CSS](#css)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Java](#java)
@@ -59,7 +59,25 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
+## CSS
+
+*   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
+
+*   [lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas) - 极简多租户管理系统是一个多租户管理系统，多租户功能同时支持字段隔离和数据源隔离，项目基于SpringBoot3+Vue3的前后端分离的后台开发脚手架，具备一些常用的基础功能。
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+
+*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
+
 ## Go
+
+*   [Duke1616/ecmdb](https://github.com/Duke1616/ecmdb) - CMDB、工单一体化平台
+
+*   [eryajf/doge-cdn-refresh](https://github.com/eryajf/doge-cdn-refresh) - 一个刷新多吉云CDN的插件。
 
 *   [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) - Go-MCP is a Go(Golang) SDK library for the Model Context Protocol (MCP), enabling seamless communication between applications and AI models. With comprehensive APIs, multiple transport methods, and flexible architecture, it's ideal for edge AI and microservices. Leverages Go's performance and concurrency with clean, idiomatic APIs.
 
@@ -909,10 +927,6 @@
 
 *   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 
-*   [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-
-*   [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
-
 ## TypeScript
 
 *   [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
@@ -1337,7 +1351,7 @@
 
 *   [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
 
-*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，可在Windows/macOS/Linux系统上使用
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
 
 *   [moreKing/web-firewall](https://github.com/moreKing/web-firewall) -
 
@@ -1482,8 +1496,6 @@
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 *   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## Python
 
@@ -2132,18 +2144,6 @@
 *   [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite) - Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
 
 *   [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-
-## CSS
-
-*   [lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas) - 极简多租户管理系统是一个多租户管理系统，多租户功能同时支持字段隔离和数据源隔离，项目基于SpringBoot3+Vue3的前后端分离的后台开发脚手架，具备一些常用的基础功能。
-
-*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-
-*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 ## HTML
 
