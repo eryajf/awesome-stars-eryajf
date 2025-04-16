@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
 *   [Go](#go)
+*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -59,27 +59,17 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
-## CSS
-
-*   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
-
-*   [lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas) - 极简多租户管理系统是一个多租户管理系统，多租户功能同时支持字段隔离和数据源隔离，项目基于SpringBoot3+Vue3的前后端分离的后台开发脚手架，具备一些常用的基础功能。
-
-*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-
-*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
-
-*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
-
 ## Go
+
+*   [pressly/sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
+
+*   [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 
 *   [Duke1616/ecmdb](https://github.com/Duke1616/ecmdb) - CMDB、工单一体化平台
 
 *   [eryajf/doge-cdn-refresh](https://github.com/eryajf/doge-cdn-refresh) - 一个刷新多吉云CDN的插件。
 
-*   [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) - Go-MCP is a Go(Golang) SDK library for the Model Context Protocol (MCP), enabling seamless communication between applications and AI models. With comprehensive APIs, multiple transport methods, and flexible architecture, it's ideal for edge AI and microservices. Leverages Go's performance and concurrency with clean, idiomatic APIs.
+*   [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) - Go-MCP is a powerful Go(Golang) version of the MCP SDK that implements the Model Context Protocol (MCP) to facilitate seamless communication between external systems and AI applications.
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -507,7 +497,7 @@
 
 *   [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 
-*   [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful Go development framework for developing RESTful APIs, gRPC, and microservices projects in a "low-code" approach, deeply integrated with an AI assistant to generate and merge business logic code into the project.
+*   [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful Go development framework for developing RESTful APIs, gRPC, and microservices projects in a "low-code" approach, deeply integrated with AI assistants to generate and merge business logic code into the project.
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 
@@ -925,7 +915,19 @@
 
 *   [chanyipiaomiao/hltool](https://github.com/chanyipiaomiao/hltool) - Go 开发常用工具库, Google2步验证客户端,AES加密解密,RSA加密解密,钉钉机器人,邮件发送,JWT生成解析,Log,BoltDB操作,图片操作,json操作,struct序列化
 
-*   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
+## CSS
+
+*   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
+
+*   [lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas) - 极简多租户管理系统是一个多租户管理系统，多租户功能同时支持字段隔离和数据源隔离，项目基于SpringBoot3+Vue3的前后端分离的后台开发脚手架，具备一些常用的基础功能。
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+
+*   [gd4Ark/css-carousel](https://github.com/gd4Ark/css-carousel) - 纯HTML+CSS实现CSS轮播图功能
+
+*   [CrazyMelody/v2ex\_style](https://github.com/CrazyMelody/v2ex_style) - V2EX自用美化css
 
 ## TypeScript
 
@@ -1495,8 +1497,6 @@
 
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
-*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
-
 ## Python
 
 *   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
@@ -1515,7 +1515,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use AI chatbot that integrates Retrieval-Augmented Generation (RAG) pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
