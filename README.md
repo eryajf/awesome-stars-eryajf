@@ -955,7 +955,7 @@
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
-*   [codexu/note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记应用。
+*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 
 *   [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 
@@ -998,6 +998,8 @@
 *   [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
@@ -1515,7 +1517,7 @@
 
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 
 *   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
@@ -1690,8 +1692,6 @@
 *   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 *   [MrViolets/Deep-Tab-Search](https://github.com/MrViolets/Deep-Tab-Search) - Chrome extension that lets you search the content of all your open tabs.
 
@@ -2291,7 +2291,7 @@
 
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。
+*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 *   [vctgo/vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥 官方推荐 🔥  🎉 基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 目标在于精简脚手架，致力于中小企业的快速开发项目搭建，让大家不必再耗费精力于各种开源框架里集成的复杂功能如何抉择保留
 
