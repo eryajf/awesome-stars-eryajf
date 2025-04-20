@@ -531,11 +531,11 @@
 
 *   [eryajf/cloudctl](https://github.com/eryajf/cloudctl) - 与公有云等交互的命令行工具
 
-*   [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) - 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰
+*   [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) - 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰 本项目同时展示了Go项目打包构建的最佳实践。
 
 *   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
 *   [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 
@@ -2471,7 +2471,7 @@
 
 *   [linode/apl-core](https://github.com/linode/apl-core) - Akamai App Platform for LKE
 
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 528 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
