@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eryajf-awesome-stars-eryajf-badge.png)](https://mseep.ai/app/eryajf-awesome-stars-eryajf)
+
 <div align="center">
 
 # awesome-stars-eryajf
