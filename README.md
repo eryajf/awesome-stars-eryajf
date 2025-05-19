@@ -1453,7 +1453,7 @@
 
 *   [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 
-*   [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful Go development framework for developing RESTful APIs, gRPC, and microservices projects in a "low-code" approach, deeply integrated with AI assistants to generate and merge business logic code into the project.
+*   [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build high-performance, highly available backend service systems through a "low-code" approach.
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 
