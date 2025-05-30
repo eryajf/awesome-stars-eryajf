@@ -1065,7 +1065,7 @@
 
 *   [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, and scale apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
 
 *   [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture and Monitoring Toolkit
 
@@ -1499,7 +1499,7 @@
 
 *   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
