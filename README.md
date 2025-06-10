@@ -63,7 +63,7 @@
 
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
-*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A simple, efficient and flexible cross-platform desktop image compression application.
+*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A feature-rich, efficient and flexible cross-platform desktop image compression application.
 
 *   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) -
 
