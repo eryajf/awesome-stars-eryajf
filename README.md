@@ -61,7 +61,7 @@
 
 ## Python
 
-*   [hukdoesn/LiteOps](https://github.com/hukdoesn/LiteOps) -
+*   [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
 
 *   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
 
@@ -1229,7 +1229,7 @@
 
 *   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) -
 
-*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 以简洁优雅作为理念设计的工具软件
+*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
 
 *   [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted open-source alternative to UptimeRobot, PagerDuty, Better Stack, and more — offering real-time server & service uptime monitoring, incident, multi-channel alerting.
 
