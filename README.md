@@ -1131,7 +1131,7 @@
 
 *   [wuchangming/chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+*   [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 
 *   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
@@ -1465,7 +1465,7 @@
 
 *   [codence-x/fine-admin](https://github.com/codence-x/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 *   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
