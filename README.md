@@ -1545,7 +1545,7 @@
 
 *   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
 
-*   [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring for full-stack systems, applications and infrastructure. Real-time uptime, distributed checks, incident tracking, and alerts—deploy anywhere.
+*   [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 
 *   [allinssl/allinssl](https://github.com/allinssl/allinssl) - AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
 
@@ -2219,7 +2219,7 @@
 
 *   [Furinai/OASys](https://github.com/Furinai/OASys) - 基于 SpringCloud 和 Vue3 的OA系统
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
 
 *   [tony2y/RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) - 基RuoYi-vue  + flowable 6.7.2 的工作流管理  右上角点个 star 🌟 持续关注更新哟
 
