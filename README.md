@@ -939,7 +939,7 @@
 
 *   [ntt360/pmon2](https://github.com/ntt360/pmon2) - golang进程管理工具(golang process manager)
 
-*   [lenye/pmsg](https://github.com/lenye/pmsg) - 多平台消息推送SDK/API：轻松实现微信、企业微信、钉钉、飞书消息自动化
+*   [lenye/pmsg](https://github.com/lenye/pmsg) - 多平台消息推送SDK/API：轻松实现微信公众号、微信小程序、企业微信、钉钉、飞书、Slack消息自动化
 
 *   [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 
