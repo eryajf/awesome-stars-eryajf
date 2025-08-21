@@ -1299,7 +1299,7 @@
 
 *   [vprix/vncproxy](https://github.com/vprix/vncproxy) - This is a VNC proxy program, fully resolved the RFB protocol, support VNC proxy, record playback video, record operations as a log file, and support log file playback.
 
-*   [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
+*   [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 
 *   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
 
@@ -1513,7 +1513,7 @@
 
 *   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
-*   [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.
+*   [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.
 
 *   [xen0n/go-workwx](https://github.com/xen0n/go-workwx) - a sensible WeCom (企业微信, Wechat Work, Work Weixin) SDK for Go
 
