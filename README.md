@@ -857,7 +857,7 @@
 
 *   [lanyulei/fiy](https://github.com/lanyulei/fiy) - 配置管理数据库，即CMDB。
 
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 23 stars and 27 forks 🌟
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 24 stars and 27 forks 🌟
 
 *   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
 
@@ -1283,7 +1283,7 @@
 
 *   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）是新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
@@ -2241,7 +2241,7 @@
 
 *   [wgzhao/Addax](https://github.com/wgzhao/Addax) - A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
 
-*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心
+*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
 
 *   [jenkinsci/database-plugin](https://github.com/jenkinsci/database-plugin) -
 
