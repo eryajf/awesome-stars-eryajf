@@ -93,7 +93,7 @@
 
 *   [FastbuildAI/FastbuildAI](https://github.com/FastbuildAI/FastbuildAI) - An open-source AI framework for developers and entrepreneurs. Deploy in minutes. Use its visual DIY interface to build native AI apps with full monetization (marketing, billing, payment) — zero code needed. User-friendly for non-tech users.
 
-*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - 🚀🚀🚀 一个基于Vue3 + Element-Plus 开箱即用的企业级AI组件库前端解决方案 --- Element-Plus-X
+*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution
 
 *   [Kele-Bingtang/teek-design-vue3](https://github.com/Kele-Bingtang/teek-design-vue3) - Teek 是一个基于 Vue3、TypeScript、Vite、ElementPlus 构建的颜值强大、功能丰富、开箱即用的中后台管理系统解决方案。
 
@@ -1313,7 +1313,7 @@
 
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
-*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application / 现代化、功能齐全、高性能、跨平台的图像压缩应用程序
+*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐全、高性能、跨平台的图像压缩工具
 
 *   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) -
 
@@ -1345,7 +1345,7 @@
 
 *   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *   [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
 
