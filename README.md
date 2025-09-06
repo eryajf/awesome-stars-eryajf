@@ -593,7 +593,7 @@
 
 *   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）是新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）- 简单轻量，高效运维
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
@@ -1149,7 +1149,7 @@
 
 *   [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
 
-*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - This is a simple and user-friendly plugin management platform. Currently, the official plugin supports management of ElasticSearch versions 6, 7, and 8. 这是一个简单易用的插件管理平台。目前，官方插件支持ElasticSearch版本6、7和8的管理
+*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单易用的数据治理平台。目前，官方插件支持ElasticSearch，mysql，mongodb,redis,json管理
 
 *   [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 
