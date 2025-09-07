@@ -93,7 +93,7 @@
 
 *   [FastbuildAI/FastbuildAI](https://github.com/FastbuildAI/FastbuildAI) - An open-source AI framework for developers and entrepreneurs. Deploy in minutes. Use its visual DIY interface to build native AI apps with full monetization (marketing, billing, payment) — zero code needed. User-friendly for non-tech users.
 
-*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution
+*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution ✨
 
 *   [Kele-Bingtang/teek-design-vue3](https://github.com/Kele-Bingtang/teek-design-vue3) - Teek 是一个基于 Vue3、TypeScript、Vite、ElementPlus 构建的颜值强大、功能丰富、开箱即用的中后台管理系统解决方案。
 
@@ -222,8 +222,6 @@
 *   [noovertime7/gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak) - 一款分布式高性能的备份系统，支持mysql、ElasticSearch备份，多集群任务统一，数据集中存储
 
 *   [xfy520/vue3-menus](https://github.com/xfy520/vue3-menus) - Vue3.0 自定义右键菜单
-
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
 
 *   [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
 
@@ -1088,6 +1086,8 @@
 *   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 
 *   [easysoft/go-zentao](https://github.com/easysoft/go-zentao) -  ZenTao Go SDK
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
 
 *   [suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 
@@ -1979,7 +1979,7 @@
 
 *   [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) - 面向网络小白的基础网络和容器网络的科普
 
-*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension that lets you preview, search, and save pages to read later.
+*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
 
 *   [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 
