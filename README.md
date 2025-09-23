@@ -375,7 +375,7 @@
 
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
-*   [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+*   [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 
 *   [ConnectAI-E/WeWork-OpenAI-Node](https://github.com/ConnectAI-E/WeWork-OpenAI-Node) - 🎒 企业微信 ×OpenAI NodeJs版本
 
@@ -1297,7 +1297,7 @@
 
 *   [PandaXGO/PandaX](https://github.com/PandaXGO/PandaX) - 🎉🔥PandaX是Go语言开源的企业级物联网平台低代码开发基座，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，表单设计器，代码生成器等功能。能帮助你快速建立IOT物联网平台等相关业务系统。
 
-*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 
 *   [pddzl/td27-admin](https://github.com/pddzl/td27-admin) - 基于Goalng、Gin、Casbin & Vue3、TypeScript、Element Plus、Pinia 的前后端分离的动态路由权限管理系统
 
