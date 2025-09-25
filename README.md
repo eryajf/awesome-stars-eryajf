@@ -2685,7 +2685,7 @@
 
 ## Smarty
 
-*   [linode/apl-core](https://github.com/linode/apl-core) - Akamai App Platform for LKE
+*   [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
 
 *   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
 
