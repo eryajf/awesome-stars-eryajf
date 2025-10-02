@@ -183,7 +183,7 @@
 
 *   [Kele-Bingtang/teek-design-vue3](https://github.com/Kele-Bingtang/teek-design-vue3) - Teek 是一个基于 Vue3、TypeScript、Vite、ElementPlus 构建的颜值强大、功能丰富、开箱即用的中后台管理系统解决方案。
 
-*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+*   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、面向个人、专注思想流动的轻量级发布平台
 
 *   [wocwin/t-ui-plus](https://github.com/wocwin/t-ui-plus) - 基于vue3+ts+Element-plus二次封装基础组件文档；vue3基础组件文档
 
@@ -359,7 +359,7 @@
 
 *   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure, all-in-one acceleration engine for developer resource access. Its performance far exceeds that of traditional accelerators, providing you with a unified and efficient acceleration experience across multiple platforms
+*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure acceleration engine for developer resources. It far outperforms traditional accelerators and delivers a unified high-speed experience
 
 *   [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 
