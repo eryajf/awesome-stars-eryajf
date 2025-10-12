@@ -391,7 +391,7 @@
 
 *   [WangFan-io/SnowAdmin](https://github.com/WangFan-io/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite6、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
-*   [FastbuildAI/FastbuildAI](https://github.com/FastbuildAI/FastbuildAI) - An open-source AI framework for developers and entrepreneurs. Deploy in minutes. Use its visual DIY interface to build native AI apps with full monetization (marketing, billing, payment) — zero code needed. User-friendly for non-tech users.
+*   [BidingCC/BuildingAI](https://github.com/BidingCC/BuildingAI) - An open-source AI framework for developers and entrepreneurs. Deploy in minutes. Use its visual DIY interface to build native AI apps with full monetization (marketing, billing, payment) — zero code needed. User-friendly for non-tech users.
 
 *   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
 
