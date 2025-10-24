@@ -814,7 +814,7 @@
 
 *   [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
 
-*   [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 
 *   [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 
@@ -1313,8 +1313,6 @@
 *   [wocwin/t-ui-plus](https://github.com/wocwin/t-ui-plus) - 基于vue3+ts+Element-plus二次封装基础组件文档；vue3基础组件文档
 
 *   [NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS) - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free & Open Source
-
-*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 
 *   [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 
@@ -2283,6 +2281,8 @@
 *   [opsre/version\_manager](https://github.com/opsre/version_manager) - 一站式版本管理、文件存储与权限控制解决方案
 
 *   [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
+
+*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 
 *   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
 
