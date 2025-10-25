@@ -102,6 +102,8 @@
 
 *   [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
 *   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 
 *   [ZzzM/CalendarX](https://github.com/ZzzM/CalendarX) - A lightweight macOS app for displaying calendar and time
@@ -1092,8 +1094,6 @@
 
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
-*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，由芝麻小客服官方推出。
-
 *   [PengChen96/ajax-tools](https://github.com/PengChen96/ajax-tools) - An extension plugin for Chrome that modifies the response of AJAX requests.  一个修改Ajax请求响应结果的Chrome扩展插件
 
 *   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
@@ -1316,6 +1316,8 @@
 
 *   [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 
+*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，由芝麻小客服官方推出。
+
 *   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
 
 *   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
@@ -1334,7 +1336,7 @@
 
 *   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 
-*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) -
+*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 
 *   [z3by/vuepress-tools](https://github.com/z3by/vuepress-tools) - A curated collection of Awesome vuepress themes and plugins
 
@@ -1523,8 +1525,6 @@
 *   [star7th/coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等
 
 *   [yy0931/sqlite3-editor](https://github.com/yy0931/sqlite3-editor) -
-
-*   [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
 
 *   [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 
@@ -2144,6 +2144,8 @@
 
 *   [Kele-Bingtang/vitepress-theme-teek-docs-template](https://github.com/Kele-Bingtang/vitepress-theme-teek-docs-template) - vitepress theme teek 文档模板，可以快速搭建与官网一样的文档项目
 
+*   [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
+
 *   [xxjwxc/uber\_go\_guide\_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 
 *   [opsre/.github](https://github.com/opsre/.github) - 全世界运维人员联合起来 | The Operations Personnel Of The World Unite
@@ -2551,8 +2553,6 @@
 *   [dteoh/SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
 *   [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 
