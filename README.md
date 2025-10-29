@@ -1512,7 +1512,7 @@
 
 *   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) -
 
-*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
+*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 
 *   [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 
