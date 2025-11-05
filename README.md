@@ -462,7 +462,7 @@
 
 *   [jeessy2/backup-x](https://github.com/jeessy2/backup-x) - 带Web界面的数据库/文件备份增强工具. A database/file backup tool with web interfaces
 
-*   [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
+*   [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Valkey/Redis data processing and migration tool.
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
@@ -2084,7 +2084,7 @@
 
 *   [acl-dev/open-coroutine](https://github.com/acl-dev/open-coroutine) - The open-coroutine is a simple, efficient and generic stackfull-coroutine library.
 
-*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 
 *   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
