@@ -88,7 +88,7 @@
 
 *   [actiontech/sqle](https://github.com/actiontech/sqle) - 一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台
 
-*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View your logs in a terminal or a browser, run on your desktop or in your cluster.
+*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View your logs in a terminal or a browser with Kubetail running on your desktop or in your cluster.
 
 *   [ciliverse/cilikube](https://github.com/ciliverse/cilikube) - cilikube is a k8s admin mutli cluster manage platform, ideal for learning Vue.js, Go, and Kubernetes | cilikube 支持k8s多集群管理的 Kubernetes 资源管理平台，适合学习 Vue.js、Go 和 Kubernetes
 
@@ -1870,7 +1870,7 @@
 
 *   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
-*   [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
+*   [eyeix/meilisearch-ui](https://github.com/eyeix/meilisearch-ui) - 😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 
 *   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 
@@ -1952,7 +1952,7 @@
 
 *   [ben1234560/k8s\_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
 
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 *   [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) - Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养
 
@@ -2178,7 +2178,7 @@
 
 *   [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
 
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 
 *   [AdoptOpenJDK/openjdk8-binaries](https://github.com/AdoptOpenJDK/openjdk8-binaries) - The new home for releases and nightlies for all OpenJDK8 variants and platforms
 
