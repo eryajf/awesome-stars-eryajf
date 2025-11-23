@@ -88,7 +88,7 @@
 
 *   [actiontech/sqle](https://github.com/actiontech/sqle) - 一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台
 
-*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser, with Kubetail running on your desktop or in your cluster.
+*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster.
 
 *   [ciliverse/cilikube](https://github.com/ciliverse/cilikube) - cilikube is a k8s admin mutli cluster manage platform, ideal for learning Vue.js, Go, and Kubernetes | cilikube 支持k8s多集群管理的 Kubernetes 资源管理平台，适合学习 Vue.js、Go 和 Kubernetes
 
@@ -1754,7 +1754,7 @@
 
 *   [acmenlei/codecv](https://github.com/acmenlei/codecv) - Resume builder based on markdown syntax（在线简历制作工具 https://www.codecvcv.com）
 
-*   [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
+*   [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
