@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
@@ -37,7 +38,6 @@
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Dart](#dart)
-*   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
 *   [C](#c-1)
 *   [SVG](#svg)
@@ -57,6 +57,26 @@
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
+
+*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
+
+*   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [sunny-chung/hello-http](https://github.com/sunny-chung/hello-http) - A cross-platform HTTP client desktop application for testing HTTP and REST APIs, WebSocket, GraphQL (including subscriptions) and gRPC endpoints.
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
+
+*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
+
+*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 
 ## Go
 
@@ -168,7 +188,7 @@
 
 *   [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, and renewal visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。
 
 *   [bigwhite/gopherdaily](https://github.com/bigwhite/gopherdaily) - the archive of gopher daily articles
 
@@ -994,7 +1014,7 @@
 
 *   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 
 *   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 
@@ -1282,8 +1302,6 @@
 
 *   [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
 
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-
 ## Dockerfile
 
 *   [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
@@ -1312,7 +1330,7 @@
 
 *   [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
 
-*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - ChatWiki 是一个专注微信生态的工作流自动化平台。全面集成公众号平台的开放能力，拖拽即可搭建微信生态AI智能体，实现公众号推文一键改稿、留言AI精选回复等能力。通过私有AI知识库，可5分钟快速构建客服机器人。致力于成为垂直领域的coze、n8n。
+*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。
 
 *   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
 
@@ -1632,7 +1650,7 @@
 
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 
-*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
@@ -1834,7 +1852,7 @@
 
 *   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
 
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
 *   [eryajf/chatgpt-vercel](https://github.com/eryajf/chatgpt-vercel) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 
@@ -2585,24 +2603,6 @@
 *   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta is a cross-platform clipboard manager that saves your copy history and simplifies access with shortcuts.
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## Kotlin
-
-*   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
-
-*   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [sunny-chung/hello-http](https://github.com/sunny-chung/hello-http) - A cross-platform HTTP client desktop application for testing HTTP and REST APIs, WebSocket, GraphQL (including subscriptions) and gRPC endpoints.
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
-
-*   [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
-
-*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 
 ## Ruby
 
