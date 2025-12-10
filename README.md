@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [Swift](#swift)
@@ -26,7 +27,7 @@
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
@@ -39,7 +40,7 @@
 *   [Objective-C](#objective-c)
 *   [Dart](#dart)
 *   [Ruby](#ruby)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [SVG](#svg)
 *   [Clojure](#clojure)
 *   [Objective-C++](#objective-c-1)
@@ -52,11 +53,16 @@
 *   [Gherkin](#gherkin)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Blade](#blade)
-*   [C#](#c-2)
 *   [EJS](#ejs)
 *   [AppleScript](#applescript)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 
 ## Kotlin
 
@@ -160,7 +166,7 @@
 
 *   [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 
-*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+*   [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
@@ -1512,7 +1518,7 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month. Follow us: kilo.ai/social
 
 *   [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 
@@ -1964,6 +1970,8 @@
 
 *   [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 
+*   [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
+
 *   [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
 
 *   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -2152,15 +2160,11 @@
 
 *   [ZekunC/Obsidian-Typora-Vue-Theme](https://github.com/ZekunC/Obsidian-Typora-Vue-Theme) - A theme for Obsidian(https://obsidian.md/), inspired by typora-vue.
 
-*   [boopathikumar018/docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - A Dark and Light theme with switch for your docsify site
-
 ## miscellaneous
 
 *   [eryajf/awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) - 🦄 汇集优秀的uTools开源插件
 
 *   [Kele-Bingtang/vitepress-theme-teek-docs-template](https://github.com/Kele-Bingtang/vitepress-theme-teek-docs-template) - vitepress theme teek 文档模板，可以快速搭建与官网一样的文档项目
-
-*   [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
 
 *   [xxjwxc/uber\_go\_guide\_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 
@@ -2717,10 +2721,6 @@
 ## Blade
 
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
-
-## C\#
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 
 ## EJS
 
