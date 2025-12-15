@@ -60,6 +60,8 @@
 
 ## Go
 
+*   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
+
 *   [opsre/ZenOps](https://github.com/opsre/ZenOps) - 🧘 运维数据智能化查询工具
 
 *   [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool
@@ -460,7 +462,7 @@
 
 *   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
-*   [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+*   [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 *   [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 
@@ -2029,8 +2031,6 @@
 *   [jinfeijie/yapi](https://github.com/jinfeijie/yapi) - Docker for YApi 一键部署YApi
 
 *   [eryajf/Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) - 📝 Obsidian插件周刊
-
-*   [eryajf/Learning-Weekly-old](https://github.com/eryajf/Learning-Weekly-old) - 这里记录我每周工作学习过程中遇到学到的优秀开源项目，优秀文章，以及优秀博客。
 
 ## C++
 
