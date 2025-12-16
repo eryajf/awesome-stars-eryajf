@@ -516,7 +516,7 @@
 
 *   [anhao/go-ernie](https://github.com/anhao/go-ernie) - 文心千帆 GO SDK ，文心一言
 
-*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
+*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.
 
 *   [Pacific73/gorm-cache](https://github.com/Pacific73/gorm-cache) - gorm v2的即插即用、无需修改代码的旁路缓存。An easy-to-use look-aside cache solution for gorm v2 users.
 
