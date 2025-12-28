@@ -60,6 +60,8 @@
 
 ## Go
 
+*   [yanshicheng/kube-nova](https://github.com/yanshicheng/kube-nova) -
+
 *   [opsre/deviops](https://github.com/opsre/deviops) -
 
 *   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
@@ -2285,8 +2287,6 @@
 *   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 
 *   [lanyulei/fiy](https://github.com/lanyulei/fiy) - 配置管理数据库，即CMDB。
-
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 25 stars and 27 forks 🌟
 
 ## MDX
 
