@@ -551,6 +551,8 @@
 
 *   [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.
 
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
 *   [xen0n/go-workwx](https://github.com/xen0n/go-workwx) - a sensible WeCom (企业微信, Wechat Work, Work Weixin) SDK for Go
 
 *   [eryajf/chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) - 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀
@@ -2602,8 +2604,6 @@
 *   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 *   [DargonLee/easy\_pasta](https://github.com/DargonLee/easy_pasta) - EasyPasta is a cross-platform clipboard manager that saves your copy history and simplifies access with shortcuts.
 
