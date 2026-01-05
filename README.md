@@ -153,7 +153,7 @@
 
 *   [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 
-*   [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+*   [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
