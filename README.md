@@ -1613,7 +1613,7 @@
 
 *   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐全、高性能、跨平台的图像压缩工具
 
-*   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) -
+*   [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) - Awesome Selfhosted
 
 *   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 
@@ -1697,7 +1697,7 @@
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
@@ -1887,7 +1887,7 @@
 
 *   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀 AI Prompt Library & Productivity Booster | 3000+ ready-to-use prompts | 12 Languages | AI 提示词管理工具
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
 
 *   [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 
