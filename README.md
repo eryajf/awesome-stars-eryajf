@@ -47,9 +47,10 @@
 *   [Objective-C++](#objective-c-1)
 *   [Perl](#perl)
 *   [PHP](#php)
-*   [Smarty](#smarty)
+*   [Go Template](#go-template)
 *   [Jinja](#jinja)
 *   [Lua](#lua)
+*   [Smarty](#smarty)
 *   [Groovy](#groovy)
 *   [Gherkin](#gherkin)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -1870,7 +1871,7 @@
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
 
@@ -2690,13 +2691,9 @@
 
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 
-## Smarty
+## Go Template
 
 *   [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
-
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
-
-*   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
 ## Jinja
 
@@ -2705,6 +2702,12 @@
 ## Lua
 
 *   [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
+
+## Smarty
+
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
+
+*   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
 ## Groovy
 
