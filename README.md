@@ -174,7 +174,7 @@
 
 ## Go
 
-*   [919927181/rdr](https://github.com/919927181/rdr) - RDR(redis data Reveal)是一个解析redis rdb文件的工具，通过redis内存分析，可以找出bigkey和日益无限制增长的key等。
+*   [919927181/rdr](https://github.com/919927181/rdr) - RDR(redis data Reveal)是一个解析redis rdb文件的工具，通过redis内存分析，可以找出bigkey和日益无限增长的key等。
 
 *   [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 
@@ -428,7 +428,7 @@
 
 *   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON or YAML objects.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
