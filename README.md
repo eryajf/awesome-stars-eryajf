@@ -281,7 +281,7 @@
 
 *   [danger-dream/ebpf-firewall](https://github.com/danger-dream/ebpf-firewall) - eBPF Firewall 是基于 eBPF 技术的高性能网络防火墙系统，具有实时入站流量监控、规则过滤和黑名单管理等功能。主要用于在资源有限的 VPS 中进行入站流量监控和过滤。（因特殊原因后续代码无法继续开源...）
 
-*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+*   [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 
 *   [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution
 
@@ -1089,7 +1089,7 @@
 
 *   [eryajf/xirang](https://github.com/eryajf/xirang) - 简单好用，直接上手的go-web框架
 
-*   [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+*   [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 
 *   [eryajf/care-screenshot](https://github.com/eryajf/care-screenshot) - 给我一个URL，我能将你关心的元素截图发给机器人🤖
 
@@ -1589,7 +1589,7 @@
 
 *   [joeseesun/drawnix-seedream](https://github.com/joeseesun/drawnix-seedream) - Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities
 
-*   [BidingCC/BuildingAI](https://github.com/BidingCC/BuildingAI) - BuildingAI is an enterprise-grade open-source intelligent agent platform designed for AI developers, AI entrepreneurs, and forward-thinking organizations. Through a visual configuration interface (Do It Yourself), you can build native enterprise AI applications without code. The platform offers native capabilities such as intelligent agents, MCP...
+*   [BidingCC/BuildingAI](https://github.com/BidingCC/BuildingAI) - AI时代的WordPress，东半球首个积木式AI应用搭建系统，人人都可免费搭建自己的AI应用系统，例如企业智能体系统、AI漫剧系统、AI论文学术系统、AI客服系统...
 
 *   [zdt1013/ai-git-commiter](https://github.com/zdt1013/ai-git-commiter) - 这是一个基于AI大模型的Git Commit自动生成的VSCode插件。它可以帮助您根据代码变更自动生成高质量的Commit消息，提高开发效率。
 
@@ -1863,7 +1863,7 @@
 
 *   [codence-x/fine-admin](https://github.com/codence-x/fine-admin) - 一个基于React的通用后台管理系统模板，采用vite，pnpm，ts，antd@5.x，pro-components，react-router@6.x，RTK，ahooks，axios等主流技术方案。
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding\_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 *   [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 
@@ -2241,8 +2241,6 @@
 
 *   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
 
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 *   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
@@ -2378,6 +2376,8 @@
 *   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
 
 *   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 
 *   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
 
