@@ -183,7 +183,7 @@
 
 *   [opsre/AutoOps](https://github.com/opsre/AutoOps) -
 
-*   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
+*   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 
 *   [opsre/ZenOps](https://github.com/opsre/ZenOps) - 🧘 通过钉钉、飞书、企微智能机器人用自然语言查询运维资源的工具。
 
@@ -977,7 +977,7 @@
 
 *   [zhaoyunxing92/dingtalk](https://github.com/zhaoyunxing92/dingtalk) - go版本的钉钉开发api
 
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
 *   [chyroc/lark](https://github.com/chyroc/lark) - Feishu(飞书)/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 
