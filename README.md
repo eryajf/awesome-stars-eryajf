@@ -427,7 +427,7 @@
 
 *   [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON or YAML objects.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
