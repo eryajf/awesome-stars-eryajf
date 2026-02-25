@@ -261,7 +261,7 @@
 
 *   [sprout2000/tauview](https://github.com/sprout2000/tauview) - Minimalist image viewer based on Leaflet.js and Tauri.
 
-*   [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
+*   [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client) - Pritunl OpenVPN client
 
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 
@@ -424,8 +424,6 @@
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-
-*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 
 *   [bojieyang/indexnow-action](https://github.com/bojieyang/indexnow-action) - Automatically submits URLs to participating search engines through the IndexNow protocol.
 
@@ -664,6 +662,8 @@
 *   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 
 *   [Rabithua/memos\_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.
 
@@ -1261,7 +1261,7 @@
 
 *   [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) - 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰 本项目同时展示了Go项目打包构建的最佳实践。
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 
 *   [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 
@@ -2503,7 +2503,7 @@
 
 *   [moxi624/mogu\_blog\_v2](https://github.com/moxi624/mogu_blog_v2) - 蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统。Web端使用Vue + Element , 移动端使用uniapp和ColorUI。后端使用Spring cloud + Spring boot + mybatis-plus进行开发，使用 Jwt + Spring Security做登录验证和权限校验，使用ElasticSearch和Solr作为全文检索服务，使用Github Actions完成博客的持续集成，使用ELK收集博客日志，文件支持上传七牛云和Minio，支持Docker Compose脚本一键部署。
 
-*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - Dromara 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
+*   [dromara/MaxKey](https://github.com/dromara/MaxKey) - Dromara MaxKey 🗝️ SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
 
 *   [dromara/Jpom](https://github.com/dromara/Jpom) - 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
 
