@@ -67,7 +67,7 @@
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
-*   [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a next-generation Agent system centered on AI assistants with personality and memory. Each user has a personal assistant that learns your habits and grows over time. Built-in capabilities include Code Agent (coding) and Cowork Agent (knowledge work), with an open extension mechanism for additional roles.
+*   [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile QR pairing or Telegram / Feishu bots, send instructions, and watch each execution step in real time while the Agent keeps working in the background.
 
 *   [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 
