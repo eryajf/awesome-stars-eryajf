@@ -709,7 +709,7 @@
 
 *   [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 
-*   [Duke1616/ecmdb](https://github.com/Duke1616/ecmdb) - CMDB、工单一体化平台
+*   [Duke1616/ecmdb](https://github.com/Duke1616/ecmdb) - 基于 CMDB、工单系统、告警中心和分布式任务调度构建的微服务智能运维平台
 
 *   [eryajf/cdn-refresh](https://github.com/eryajf/cdn-refresh) - 一个刷新多吉云CDN的插件。
 
@@ -879,7 +879,7 @@
 
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
-*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 
 *   [eryajf/langchaingo-ollama-rag](https://github.com/eryajf/langchaingo-ollama-rag) - 学习基于langchaingo结合ollama实现的rag应用流程
 
@@ -2427,7 +2427,7 @@
 
 *   [Furinai/OASys](https://github.com/Furinai/OASys) - 基于 SpringCloud 和 Vue3 的OA系统
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI低代码平台】“低代码+零代码”双模驱动AI智能平台  AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - JeecgBoot 是一款 AI 驱动的低代码开发平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 
 *   [tony2y/RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) - 基RuoYi-vue  + flowable 6.7.2 的工作流管理  右上角点个 star 🌟 持续关注更新哟
 
