@@ -61,6 +61,8 @@
 
 ## TypeScript
 
+*   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
+
 *   [eryajf/obsidian-custom-image-auto-uploader](https://github.com/eryajf/obsidian-custom-image-auto-uploader) - You can batch download images from your notes on 💻 desktop, 📱 iOS, and 🤖 Android platforms, and batch upload and save them to a remote server, home NAS, or cloud storage (such as Alibaba Cloud OSS, Amazon S3, Cloudflare R2, MinIO). Additionally, you can stretch, crop, and resize the images.
 
 *   [openocta/openocta](https://github.com/openocta/openocta) - 一款开源的企业级智能体，专为运维而生
@@ -1149,7 +1151,7 @@
 
 *   [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.
 
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 
 *   [xen0n/go-workwx](https://github.com/xen0n/go-workwx) - a sensible WeCom (企业微信, Wechat Work, Work Weixin) SDK for Go
 
@@ -1570,8 +1572,6 @@
 *   [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 
 *   [eryajf/xirang](https://github.com/eryajf/xirang) - 简单好用，直接上手的go-web框架
-
-*   [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 
 ## Rust
 
