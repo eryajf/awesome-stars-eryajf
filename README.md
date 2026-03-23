@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.
+
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
 *   [eryajf/obsidian-custom-image-auto-uploader](https://github.com/eryajf/obsidian-custom-image-auto-uploader) - You can batch download images from your notes on 💻 desktop, 📱 iOS, and 🤖 Android platforms, and batch upload and save them to a remote server, home NAS, or cloud storage (such as Alibaba Cloud OSS, Amazon S3, Cloudflare R2, MinIO). Additionally, you can stretch, crop, and resize the images.
@@ -670,7 +672,7 @@
 
 *   [opsre/ZenOps](https://github.com/opsre/ZenOps) - 🧘 通过钉钉、飞书、企微智能机器人用自然语言查询运维资源的工具。
 
-*   [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
+*   [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 
 *   [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
 
@@ -1172,7 +1174,7 @@
 
 *   [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 
-*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 *   [medcl/esm](https://github.com/medcl/esm) - An simple Elasticsearch migration tool.
 
@@ -2517,8 +2519,6 @@
 *   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
 
 *   [ixrjog/opscloud4](https://github.com/ixrjog/opscloud4) - 云上运维
-
-*   [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 
 ## Makefile
 
