@@ -53,7 +53,6 @@
 *   [Lua](#lua)
 *   [Smarty](#smarty)
 *   [Groovy](#groovy)
-*   [Gherkin](#gherkin)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Blade](#blade)
 *   [EJS](#ejs)
@@ -61,6 +60,8 @@
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
 
 *   [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.
 
@@ -1574,8 +1575,6 @@
 
 *   [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 
-*   [eryajf/xirang](https://github.com/eryajf/xirang) - 简单好用，直接上手的go-web框架
-
 ## Rust
 
 *   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -2099,6 +2098,8 @@
 *   [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 *   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
@@ -2717,10 +2718,6 @@
 *   [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 
 *   [eryajf/share-library](https://github.com/eryajf/share-library) -
-
-## Gherkin
-
-*   [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Jupyter Notebook
 
