@@ -23,6 +23,7 @@
 *   [Go](#go)
 *   [Rust](#rust)
 *   [templ](#templ)
+*   [PLpgSQL](#plpgsql)
 *   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
@@ -63,7 +64,7 @@
 
 *   [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
 
-*   [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.
+*   [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
@@ -666,8 +667,6 @@
 *   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
 
 *   [yanshicheng/kube-nova](https://github.com/yanshicheng/kube-nova) - 开源 kubernetes 多集群纳管平台，结合 监控告警，微服务治理，全方位审计等提高运维效率。
-
-*   [opsre/AutoOps](https://github.com/opsre/AutoOps) -
 
 *   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 
@@ -1657,6 +1656,10 @@
 
 *   [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code.
 
+## PLpgSQL
+
+*   [opsre/AutoOps](https://github.com/opsre/AutoOps) -
+
 ## C\#
 
 *   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -2313,7 +2316,7 @@
 
 *   [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
 
-*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 *   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
 
