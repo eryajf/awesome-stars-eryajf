@@ -368,7 +368,7 @@
 
 *   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
 
-*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
+*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 让桌面活起来：静态、视频、网页、自定义html、3D、AI 壁纸，且支持通过Bilibili，YouTube链接直接下载在线视频设为壁纸，并集成了会随着 CPU 使用率变化速度的 RunCat 托盘动画。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
 
 *   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
 
