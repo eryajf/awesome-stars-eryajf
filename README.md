@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [amigoer/rocket-leaf](https://github.com/amigoer/rocket-leaf) - 🚀 A lightweight, cross-platform RocketMQ client built with Go and Wails. / 一款基于 Wails 构建的轻量级、跨平台 RocketMQ 管理客户端。
+
 *   [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
 
 *   [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
@@ -664,7 +666,7 @@
 
 *   [919927181/rdr](https://github.com/919927181/rdr) - RDR(redis data Reveal)是一个解析redis rdb文件的工具，通过redis内存分析，可以找出bigkey和哪些key在无限增长等。
 
-*   [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+*   [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 
 *   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
 
@@ -1571,8 +1573,6 @@
 *   [fitv/min](https://github.com/fitv/min) - API skeleton based on Gin
 
 *   [weiwei2012holy/short\_url](https://github.com/weiwei2012holy/short_url) - 开箱即用的短网址服务——GO语言部署版本
-
-*   [nikgalushko/fx](https://github.com/nikgalushko/fx) - Fx is a useful functional programming helpers.
 
 ## Rust
 
