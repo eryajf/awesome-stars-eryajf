@@ -1130,7 +1130,7 @@
 
 *   [anhao/go-ernie](https://github.com/anhao/go-ernie) - 文心千帆 GO SDK ，文心一言
 
-*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.
+*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
 *   [Pacific73/gorm-cache](https://github.com/Pacific73/gorm-cache) - gorm v2的即插即用、无需修改代码的旁路缓存。An easy-to-use look-aside cache solution for gorm v2 users.
 
