@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
+
 *   [amigoer/rocket-leaf](https://github.com/amigoer/rocket-leaf) - 🚀 A lightweight, cross-platform RocketMQ client built with Go and Wails. / 一款基于 Wails 构建的轻量级、跨平台 RocketMQ 管理客户端。
 
 *   [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
@@ -1571,8 +1573,6 @@
 *   [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 
 *   [fitv/min](https://github.com/fitv/min) - API skeleton based on Gin
-
-*   [weiwei2012holy/short\_url](https://github.com/weiwei2012holy/short_url) - 开箱即用的短网址服务——GO语言部署版本
 
 ## Rust
 
