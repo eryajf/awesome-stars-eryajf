@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite 桌面版
+
 *   [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
 
 *   [amigoer/rocket-leaf](https://github.com/amigoer/rocket-leaf) - 🚀 A lightweight, cross-platform RocketMQ client built with Go and Wails. / 一款基于 Wails 构建的轻量级、跨平台 RocketMQ 管理客户端。
@@ -1572,8 +1574,6 @@
 
 *   [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 
-*   [fitv/min](https://github.com/fitv/min) - API skeleton based on Gin
-
 ## Rust
 
 *   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -2624,7 +2624,7 @@
 
 ## Awk
 
-*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
+*   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 
 ## C
 
