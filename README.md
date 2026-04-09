@@ -76,7 +76,7 @@
 
 *   [eryajf/obsidian-custom-image-auto-uploader](https://github.com/eryajf/obsidian-custom-image-auto-uploader) - You can batch download images from your notes on 💻 desktop, 📱 iOS, and 🤖 Android platforms, and batch upload and save them to a remote server, home NAS, or cloud storage (such as Alibaba Cloud OSS, Amazon S3, Cloudflare R2, MinIO). Additionally, you can stretch, crop, and resize the images.
 
-*   [openocta/openocta](https://github.com/openocta/openocta) - 一款开源的企业级智能体，专为运维而生
+*   [openocta/openocta](https://github.com/openocta/openocta) - 开源企业级智能体，专为中国团队打造
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
