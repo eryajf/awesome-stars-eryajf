@@ -62,7 +62,7 @@
 
 ## TypeScript
 
-*   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite 桌面版
+*   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite-desktop，kubernetes desktop，k8s 桌面端管理工具。
 
 *   [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
 
