@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) -  Run multiple AI coding agents across projects (Claude Code and Codex)
+
 *   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite-desktop，kubernetes desktop，k8s 桌面端管理工具。
 
 *   [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
@@ -1571,8 +1573,6 @@
 *   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 
 *   [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-
-*   [mitchellh/go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go (golang).
 
 ## Rust
 
