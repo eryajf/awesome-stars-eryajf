@@ -1554,7 +1554,7 @@
 
 *   [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture
 
 *   [CatchZeng/dingtalk](https://github.com/CatchZeng/dingtalk) - DingTalk(dingding) 是钉钉机器人的 go 实现。支持 Docker、Jenkinsfile、命令行模式，module 模式，加签安全设置，支持链式语法创建消息，支持文本、链接、Markdown、ActionCard、FeedCard消息类型; DingTalk (dingding) is the go implementation of the DingTalk robot. Support Docker, Jenkinsfile, command line mode, module mode, signature security settings, chain syntax to create messages, support text, link, markdown,ActionCard,FeedCard message types.
 
