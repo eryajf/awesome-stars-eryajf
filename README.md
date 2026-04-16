@@ -160,7 +160,7 @@
 
 *   [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) -  Run multiple AI coding agents across projects (Claude Code and Codex)
 
-*   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite-desktop，kubernetes desktop，k8s 桌面端管理工具。
+*   [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop) - kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
 
 *   [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
 
@@ -716,7 +716,7 @@
 
 *   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
 
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 
 *   [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
 
@@ -2030,6 +2030,8 @@
 
 *   [moreKing/web-firewall](https://github.com/moreKing/web-firewall) -
 
+*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
+
 *   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 
 *   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
@@ -2417,8 +2419,6 @@
 *   [aizuda/snail-job](https://github.com/aizuda/snail-job) - 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台
 
 *   [wgzhao/Addax](https://github.com/wgzhao/Addax) - A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
-
-*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
 
 *   [jenkinsci/database-plugin](https://github.com/jenkinsci/database-plugin) -
 
