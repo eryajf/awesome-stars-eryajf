@@ -2430,7 +2430,7 @@
 
 *   [Furinai/OASys](https://github.com/Furinai/OASys) - 基于 SpringCloud 和 Vue3 的OA系统
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
 
 *   [tony2y/RuoYi-flowable](https://github.com/tony2y/RuoYi-flowable) - 基RuoYi-vue  + flowable 6.7.2 的工作流管理  右上角点个 star 🌟 持续关注更新哟
 
