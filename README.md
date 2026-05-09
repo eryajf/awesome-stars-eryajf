@@ -220,8 +220,6 @@
 
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
 *   [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 
 *   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
@@ -1319,6 +1317,8 @@
 *   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
 
 *   [huichen/kunlun](https://github.com/huichen/kunlun) - 昆仑：超快的代码搜索引擎
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 
