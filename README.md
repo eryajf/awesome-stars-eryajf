@@ -18,13 +18,13 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Swift](#swift)
 *   [Rust](#rust)
-*   [Go](#go)
+*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [templ](#templ)
 *   [PLpgSQL](#plpgsql)
 *   [C#](#c)
@@ -61,233 +61,9 @@
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
 
-## Swift
-
-*   [getgantry/gantry](https://github.com/getgantry/gantry) - Native macOS app for managing and monitoring Docker — local and over SSH. Agent-ready: built-in MCP server and App Intents. Free and open source.
-
-*   [ShahzaibAli02/Fanny-MacOs-FanControl](https://github.com/ShahzaibAli02/Fanny-MacOs-FanControl) -
-
-*   [eryajf/agents-hub](https://github.com/eryajf/agents-hub) - A native macOS app for managing reusable API providers and applying Claude Code or Codex profiles to local CLI configuration files.
-
-*   [Sanyam-G/switch](https://github.com/Sanyam-G/switch) - A keyboard-driven window switcher for macOS. Notarized. Free.
-
-*   [C9-Labs/clipmon](https://github.com/C9-Labs/clipmon) - Clipboard mega-manager for Mac, Windows and Linux that can sync with Android and iOS
-
-*   [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
-
-*   [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-
-*   [samirpatil2000/Buffer](https://github.com/samirpatil2000/Buffer) - Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.
-
-*   [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.
-
-*   [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
-
-*   [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
-
-*   [xykong/flux-markdown](https://github.com/xykong/flux-markdown) - Markdown Preview Enhanced for macOS QuickLook
-
-*   [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
-
-*   [tasselx/Keyden](https://github.com/tasselx/Keyden) - Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码
-
-*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [homielab/mountmate](https://github.com/homielab/mountmate) - A simple macOS menu bar app to manage external drives
-
-*   [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
-
-*   [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.
-
-*   [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
-
-*   [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
-
-*   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-
-*   [ThijmenDam/BarTranslate](https://github.com/ThijmenDam/BarTranslate) - 🚀 BarTranslate, a handy (free) menu bar translator widget for macOS.
-
-*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-
-*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
-
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
-
-*   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
-
-*   [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - The battery app your Mac's been dreaming about behind your back.
-
-*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-
-*   [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-
-*   [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
-
-*   [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
-
-*   [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [ZzzM/CalendarX](https://github.com/ZzzM/CalendarX) - A lightweight macOS app for displaying calendar and time
-
-*   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
-
-*   [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
-
-*   [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [dshnkao/SpaceId](https://github.com/dshnkao/SpaceId) - macOS space indicator
-
-*   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
-
-*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
-
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-
-*   [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac) - Monitor for displaying process traffic on Mac Status bar
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
-
-*   [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
-
-*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
-
-*   [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
-
-*   [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-*   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-
-## Rust
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
-
-*   [shirenchuang/agentbro](https://github.com/shirenchuang/agentbro) - 让 Claude Code、Codex、Gemini CLI 等 AI Agent 更好用的桌面工具
-
-*   [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time
-
-*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-
-*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-
-*   [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
-
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-
-*   [kairyou/jenkins-cli](https://github.com/kairyou/jenkins-cli) - Cross-platform CLI tool for triggering Jenkins builds. Written in Rust for high performance.
-
-*   [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
-
-*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-
-*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-
-*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-
-*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-
-*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-
-*   [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
-
-*   [acl-dev/open-coroutine](https://github.com/acl-dev/open-coroutine) - The open-coroutine is a simple, efficient and generic stackfull-coroutine library.
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-*   [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-
-*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
-
-*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
-
-*   [lsk569937453/Spire](https://github.com/lsk569937453/Spire) - The High Performance Proxy/Load Balancer
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-
-*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-
-*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
-
-*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
-
-*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
-
 ## Go
+
+*   [zsio/netsgo](https://github.com/zsio/netsgo) - Self-hosted tunneling and node management platform / 开箱即用的内网穿透与节点管理平台
 
 *   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
@@ -1263,421 +1039,235 @@
 
 *   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 
-## Vue
+## Swift
 
-*   [duhbbx/SkylerX](https://github.com/duhbbx/SkylerX) - SkylerX — 跨平台桌面数据库管理工具 (Electron + Vue3 + TS)
+*   [TY-teo/StayAwake](https://github.com/TY-teo/StayAwake) - Native macOS menu bar app that keeps your MacBook awake for AI coding agents - Claude Code, OpenAI Codex, Cursor - even with the lid closed. Open source (MIT), IOPMAssertion + scoped sudoers rule for password-free pmset, timed auto-off, login item, crash-safe self-heal. Built for overnight agent runs and clamshell mode without an external display.
 
-*   [WangFan-io/SnowAdmin](https://github.com/WangFan-io/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
+*   [getgantry/gantry](https://github.com/getgantry/gantry) - Native macOS app for managing and monitoring Docker — local and over SSH. Agent-ready: built-in MCP server and App Intents. Free and open source.
 
-*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
+*   [ShahzaibAli02/Fanny-MacOs-FanControl](https://github.com/ShahzaibAli02/Fanny-MacOs-FanControl) -
 
-*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+*   [eryajf/agents-hub](https://github.com/eryajf/agents-hub) - A native macOS app for managing reusable API providers and applying Claude Code or Codex profiles to local CLI configuration files.
 
-*   [Kele-Bingtang/teek-design-vue3](https://github.com/Kele-Bingtang/teek-design-vue3) - Teek 是一个基于 Vue3、TypeScript、Vite、ElementPlus 构建的颜值强大、功能丰富、开箱即用的中后台管理系统解决方案。
+*   [Sanyam-G/switch](https://github.com/Sanyam-G/switch) - A keyboard-driven window switcher for macOS. Notarized. Free.
 
-*   [wocwin/t-ui-plus](https://github.com/wocwin/t-ui-plus) - 基于vue3+ts+Element-plus二次封装基础组件文档；vue3基础组件文档
+*   [C9-Labs/clipmon](https://github.com/C9-Labs/clipmon) - Clipboard mega-manager for Mac, Windows and Linux that can sync with Android and iOS
 
-*   [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
+*   [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
 
-*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。
+*   [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
-*   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
+*   [samirpatil2000/Buffer](https://github.com/samirpatil2000/Buffer) - Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick ⇧⌘V shortcut.
 
-*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
+*   [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and mosaic tools.
 
-*   [CassInfra/KubeDoor](https://github.com/CassInfra/KubeDoor) - 花折：基于K8S准入控制机制的微服务管控平台，多K8S统一监控、告警、展示最佳实践
+*   [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
 
-*   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
+*   [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
-*   [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client 💕🎉Kafka-King 是一款现代化、实用的 Kafka GUI 客户端，旨在通过直观的桌面界面简化 Apache Kafka 管理。作为一款跨平台应用程序，它为开发人员和管理员提供了强大的工具，可与 Kafka 集群交互，无需依赖命令行界面或基于 Web 的解决方案。
+*   [xykong/flux-markdown](https://github.com/xykong/flux-markdown) - Markdown Preview Enhanced for macOS QuickLook
 
-*   [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
+*   [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer) - MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules:
 
-*   [moreKing/web-firewall](https://github.com/moreKing/web-firewall) -
+*   [tasselx/Keyden](https://github.com/tasselx/Keyden) - Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码
 
-*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
+*   [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
 
-*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
 
-*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
+*   [homielab/mountmate](https://github.com/homielab/mountmate) - A simple macOS menu bar app to manage external drives
 
-*   [z3by/vuepress-tools](https://github.com/z3by/vuepress-tools) - A curated collection of Awesome vuepress themes and plugins
+*   [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 
-*   [SenQi-666/fastapi-vue-admin](https://github.com/SenQi-666/fastapi-vue-admin) - 基于 fastapi+vue+ts 开发的 RBAC 权限管理系统
+*   [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.
 
-*   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+*   [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
 
-*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
+*   [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
 
-*   [wzc520pyfm/clover-admin-vue](https://github.com/wzc520pyfm/clover-admin-vue) - A admin template, use the latest technology, based on Vue3,Vite3,Typescript,Pinia,Unocss,Element-plus,pnpm \[一个基于Vue3，Vite3，Typescript，Pinia，Unocss，Element-plus，pnpm，使用最新技术栈的的中后台模板]
+*   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 
-*   [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
+*   [ThijmenDam/BarTranslate](https://github.com/ThijmenDam/BarTranslate) - 🚀 BarTranslate, a handy (free) menu bar translator widget for macOS.
 
-*   [lyt-Top/vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
+*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 
-*   [RainManGO/vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 🎉  基于vue3 的管理端模板(Vue3 TS Vuex4  element-plus vue-i18n-next  composition-api)  vue3-admin   vue3-ts-admin
+*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 
-*   [Chanzhaoyu/admin-one-vue](https://github.com/Chanzhaoyu/admin-one-vue) - Free Vue 3.x Tailwind 3.x Vite 4.x TypeScript 4.x Admin Dashboard with dark mode
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 
-*   [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
+*   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 
-*   [continew-org/continew-admin-ui-arco](https://github.com/continew-org/continew-admin-ui-arco) - 基于 Arco Design Pro 前端模板开发的 ContiNew Admin 前端适配项目。
+*   [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - The battery app your Mac's been dreaming about behind your back.
 
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
-*   [WhiteCosmos/Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client) - The open-source, cross-platform API test and design tool.
+*   [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
-*   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
-*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 
-*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please give the author a star to encourage them.
+*   [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 
-*   [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
+*   [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+*   [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
-*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - Vue-Bag-Admin采用Vue3、Vite5、Naive UI、JavaScript、Pinia等等前端最新的技术栈开发，通过npm包引入，它允许开发者在不修改原代码基础上扩展新的功能，使得应用更加模块化和易于维护，一款清新好看的响应式中后台管理系统
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 
-*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
+*   [ZzzM/CalendarX](https://github.com/ZzzM/CalendarX) - A lightweight macOS app for displaying calendar and time
 
-*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
+*   [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 
-*   [xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui) - 一款快捷易用的轻量级kafka可视化管理平台
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
-*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 
-*   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
+*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
 
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 
-*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
+*   [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS
 
-*   [JunChenMoCode/ChatGPT\_JCM](https://github.com/JunChenMoCode/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
+*   [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP.
 
-*   [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
-*   [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
+*   [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 
-*   [pljhonglu/ChatGPT-T](https://github.com/pljhonglu/ChatGPT-T) - chatgpt-tauri base on chatgpt-web
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [dshnkao/SpaceId](https://github.com/dshnkao/SpaceId) - macOS space indicator
 
-*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Update : 网易云音乐Mac版 3.x 已经原生支持上传了，此插件没有意义了，江湖再见～
+*   [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 
-*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+*   [isaced/V2exOS](https://github.com/isaced/V2exOS) - 一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)
 
-*   [QYueWang/vuepress-plugin-flexsearch-pro](https://github.com/QYueWang/vuepress-plugin-flexsearch-pro) - 支持多种语言（包括中文）全局搜索
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
-*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
+*   [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac) - Monitor for displaying process traffic on Mac Status bar
 
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
-*   [manchan4869/CoverVue](https://github.com/manchan4869/CoverVue) - 🛠快速为您的博客文章创建精彩的封面图像。
+*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 
-*   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
+*   [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
 
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 
-*   [noovertime7/gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak) - 一款分布式高性能的备份系统，支持mysql、ElasticSearch备份，多集群任务统一，数据集中存储
+*   [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
 
-*   [xfy520/vue3-menus](https://github.com/xfy520/vue3-menus) - Vue3.0 自定义右键菜单
+*   [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 
-*   [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
-*   [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui) - 🐉 简单好用，不缠不绕，直接上手的go-web框架
+*   [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
-*   [hunter-ji/RedisFish](https://github.com/hunter-ji/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
-*   [quietdw/animated-banner](https://github.com/quietdw/animated-banner) - Bilibili 首页的动态Banner，感觉很炫酷，个人抽空实现了一波。
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
-*   [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) - 一款基于VUE的在线绘制流程图工具
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 
-*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
-*   [u2sb/vuepress-plugin-vssue-global](https://github.com/u2sb/vuepress-plugin-vssue-global) - Vuepress的Vssue全局评论插件
+*   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
-*   [qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x) - 🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉
+## Rust
 
-*   [qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work) - Vue3 和 NaiveUI 的完美结合—Admin Work，拥有漂亮、强大、完善的功能。采用 Vue3 Vite2 Typescript NaiveUI Pinia编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。持续更新，不断完善，一直在前进~~
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
-*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
+*   [shirenchuang/agentbro](https://github.com/shirenchuang/agentbro) - 让 Claude Code、Codex、Gemini CLI 等 AI Agent 更好用的桌面工具
 
-*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
+*   [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time
 
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+*   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 
-*   [opsre/go-ldap-admin-ui](https://github.com/opsre/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
 
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 
-*   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
+*   [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 
-*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+*   [kairyou/jenkins-cli](https://github.com/kairyou/jenkins-cli) - Cross-platform CLI tool for triggering Jenkins builds. Written in Rust for high performance.
 
-*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
+*   [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 
-*   [z3by/vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch) - Next-Generation full text search library for Vuepress
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+*   [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 
-*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
+*   [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 
-## miscellaneous
+*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
-*   [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
-*   [eryajf/awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) - 🦄 汇集优秀的uTools开源插件
+*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 
-*   [Kele-Bingtang/vitepress-theme-teek-docs-template](https://github.com/Kele-Bingtang/vitepress-theme-teek-docs-template) - vitepress theme teek 文档模板，可以快速搭建与官网一样的文档项目
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
-*   [xxjwxc/uber\_go\_guide\_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 
-*   [opsre/.github](https://github.com/opsre/.github) - 全世界运维人员联合起来 | The Operations Personnel Of The World Unite
+*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 
-*   [xxd763795151/rocketmq-monitor](https://github.com/xxd763795151/rocketmq-monitor) - 拿来即用的rocketmq监控、告警配置
+*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 
-*   [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
+*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 
-*   [HuangRunHua/FilerApp](https://github.com/HuangRunHua/FilerApp) - A Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 
-*   [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) - 面向网络小白的基础网络和容器网络的科普
+*   [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 
-*   [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
+*   [acl-dev/open-coroutine](https://github.com/acl-dev/open-coroutine) - The open-coroutine is a simple, efficient and generic stackfull-coroutine library.
 
-*   [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers) - A curated list of awesome Version Managers
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
-*   [OpenGithubs/monthly](https://github.com/OpenGithubs/monthly) - Github精选开源项目月刊,每月30号更新
+*   [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 
-*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
-*   [eryajf/luban](https://github.com/eryajf/luban) - CMDB，K8S容器管理，运维平台，自动化运维发布平台
+*   [ChurchTao/Lanaya](https://github.com/ChurchTao/Lanaya) - Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.
 
-*   [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
+*   [Licoy/fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes
 
-*   [eryajf/Jenkinsfile](https://github.com/eryajf/Jenkinsfile) -
+*   [lsk569937453/Spire](https://github.com/lsk569937453/Spire) - The High Performance Proxy/Load Balancer
 
-*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-*   [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
+*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 
-*   [AdoptOpenJDK/openjdk8-binaries](https://github.com/AdoptOpenJDK/openjdk8-binaries) - The new home for releases and nightlies for all OpenJDK8 variants and platforms
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
-*   [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt) - AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
+*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 
-*   [eryajf/learn-github](https://github.com/eryajf/learn-github) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 4 个。
+*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
 
-*   [wuchangming/chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
+*   [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 
-*   [cursor/cursor](https://github.com/cursor/cursor) -
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
-
-*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
-
-*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
-
-*   [eryajf/FreeSql.Wiki.VuePress](https://github.com/eryajf/FreeSql.Wiki.VuePress) - FreeSql wiki 文档采用 vuepress
-
-*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-
-*   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
-
-*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
-
-*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
-
-*   [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
-
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
-
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
-
-*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
-
-*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
-
-*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 童欧巴的技术周刊，每周发布。🌰
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
-
-*   [qianguyihao/brand-list](https://github.com/qianguyihao/brand-list) - 优质品牌推荐，品质生活选择
-
-*   [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
-
-*   [eryajf/t](https://github.com/eryajf/t) - 个人图床
-
-*   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
-
-*   [eryajf/tu](https://github.com/eryajf/tu) - 图床
-
-*   [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
-
-*   [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [lanyulei/fiy](https://github.com/lanyulei/fiy) - 配置管理数据库，即CMDB。
-
-*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 25 stars and 27 forks 🌟
-
-*   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
-
-*   [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
-
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-
-*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-## Python
-
-*   [physical-superintelligence-lab/Psi0](https://github.com/physical-superintelligence-lab/Psi0) - \[RSS26'] Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoid Intelligence.
-
-*   [opsre/version\_manager](https://github.com/opsre/version_manager) - 一站式版本管理、文件存储与权限控制解决方案
-
-*   [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
-
-*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-
-*   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
-
-*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-
-*   [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - An interface automation testing platform based on HttpRunner + Django + Vue + Element UI, production-ready.
-
-*   [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-
-*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-
-*   [IceEnd/github-immortality](https://github.com/IceEnd/github-immortality) - Dynamically generate stats for your GitHub readme
-
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-
-*   [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
-
-*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-
-*   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
-
-*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-
-*   [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-
-*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
-
-*   [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
-
-*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
-
-*   [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
-
-*   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-
-*   [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个不再迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会尽量更新下去的！
-
-*   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-
-*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
-
-*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
-
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-
-*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
-
-*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
-
-*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
-
-*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
-
-*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny开源智能运维平台
-
-*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、全球一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
-
-*   [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) - 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
+*   [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 
 ## TypeScript
+
+*   [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
 
 *   [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
@@ -2175,6 +1765,420 @@
 
 *   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
 
+## Vue
+
+*   [duhbbx/SkylerX](https://github.com/duhbbx/SkylerX) - SkylerX — 跨平台桌面数据库管理工具 (Electron + Vue3 + TS)
+
+*   [WangFan-io/SnowAdmin](https://github.com/WangFan-io/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
+
+*   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
+
+*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+
+*   [Kele-Bingtang/teek-design-vue3](https://github.com/Kele-Bingtang/teek-design-vue3) - Teek 是一个基于 Vue3、TypeScript、Vite、ElementPlus 构建的颜值强大、功能丰富、开箱即用的中后台管理系统解决方案。
+
+*   [wocwin/t-ui-plus](https://github.com/wocwin/t-ui-plus) - 基于vue3+ts+Element-plus二次封装基础组件文档；vue3基础组件文档
+
+*   [unxsist/jet-pilot](https://github.com/unxsist/jet-pilot) - JET Pilot is an open-source Kubernetes desktop client that focuses on less clutter, speed and good looks.
+
+*   [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。
+
+*   [imxiny/domain-helper](https://github.com/imxiny/domain-helper) - 域名助手 是一款功能强大的域名、SSL证书管理工具，集成在uTools平台中。它能帮助开发者和域名管理员更高效地管理他们的域名资产。
+
+*   [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
+
+*   [CassInfra/KubeDoor](https://github.com/CassInfra/KubeDoor) - 花折：基于K8S准入控制机制的微服务管控平台，多K8S统一监控、告警、展示最佳实践
+
+*   [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
+
+*   [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client 💕🎉Kafka-King 是一款现代化、实用的 Kafka GUI 客户端，旨在通过直观的桌面界面简化 Apache Kafka 管理。作为一款跨平台应用程序，它为开发人员和管理员提供了强大的工具，可与 Kafka 集群交互，无需依赖命令行界面或基于 Web 的解决方案。
+
+*   [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
+
+*   [moreKing/web-firewall](https://github.com/moreKing/web-firewall) -
+
+*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
+
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
+
+*   [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
+
+*   [z3by/vuepress-tools](https://github.com/z3by/vuepress-tools) - A curated collection of Awesome vuepress themes and plugins
+
+*   [SenQi-666/fastapi-vue-admin](https://github.com/SenQi-666/fastapi-vue-admin) - 基于 fastapi+vue+ts 开发的 RBAC 权限管理系统
+
+*   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
+
+*   [wzc520pyfm/clover-admin-vue](https://github.com/wzc520pyfm/clover-admin-vue) - A admin template, use the latest technology, based on Vue3,Vite3,Typescript,Pinia,Unocss,Element-plus,pnpm \[一个基于Vue3，Vite3，Typescript，Pinia，Unocss，Element-plus，pnpm，使用最新技术栈的的中后台模板]
+
+*   [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
+
+*   [lyt-Top/vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
+
+*   [RainManGO/vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 🎉  基于vue3 的管理端模板(Vue3 TS Vuex4  element-plus vue-i18n-next  composition-api)  vue3-admin   vue3-ts-admin
+
+*   [Chanzhaoyu/admin-one-vue](https://github.com/Chanzhaoyu/admin-one-vue) - Free Vue 3.x Tailwind 3.x Vite 4.x TypeScript 4.x Admin Dashboard with dark mode
+
+*   [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
+
+*   [continew-org/continew-admin-ui-arco](https://github.com/continew-org/continew-admin-ui-arco) - 基于 Arco Design Pro 前端模板开发的 ContiNew Admin 前端适配项目。
+
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [WhiteCosmos/Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client) - The open-source, cross-platform API test and design tool.
+
+*   [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
+
+*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+
+*   [xiusin/web-redis-manager](https://github.com/xiusin/web-redis-manager) - A modern redis management tool on the web，if you like it, please give the author a star to encourage them.
+
+*   [xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar) - 快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+
+*   [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - Vue-Bag-Admin采用Vue3、Vite5、Naive UI、JavaScript、Pinia等等前端最新的技术栈开发，通过npm包引入，它允许开发者在不修改原代码基础上扩展新的功能，使得应用更加模块化和易于维护，一款清新好看的响应式中后台管理系统
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+
+*   [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
+
+*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
+
+*   [xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui) - 一款快捷易用的轻量级kafka可视化管理平台
+
+*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+
+*   [pddzl/kubefish](https://github.com/pddzl/kubefish) - kubernetes dashboard
+
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+
+*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
+
+*   [JunChenMoCode/ChatGPT\_JCM](https://github.com/JunChenMoCode/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
+
+*   [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
+
+*   [weekend-project-space/chatgpt-online](https://github.com/weekend-project-space/chatgpt-online) - chatgpt-online，一键部署你的 chatgpt 页面，无需翻墙
+
+*   [pljhonglu/ChatGPT-T](https://github.com/pljhonglu/ChatGPT-T) - chatgpt-tauri base on chatgpt-web
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [ydq/netease-cloud-disk-music-upload](https://github.com/ydq/netease-cloud-disk-music-upload) - Update : 网易云音乐Mac版 3.x 已经原生支持上传了，此插件没有意义了，江湖再见～
+
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [QYueWang/vuepress-plugin-flexsearch-pro](https://github.com/QYueWang/vuepress-plugin-flexsearch-pro) - 支持多种语言（包括中文）全局搜索
+
+*   [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+
+*   [manchan4869/CoverVue](https://github.com/manchan4869/CoverVue) - 🛠快速为您的博客文章创建精彩的封面图像。
+
+*   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [noovertime7/gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak) - 一款分布式高性能的备份系统，支持mysql、ElasticSearch备份，多集群任务统一，数据集中存储
+
+*   [xfy520/vue3-menus](https://github.com/xfy520/vue3-menus) - Vue3.0 自定义右键菜单
+
+*   [yaolunmao/vue-webtopo-svgeditor](https://github.com/yaolunmao/vue-webtopo-svgeditor) - 基于vue3实现的svg可视化web组态编辑器。可无需修改代码动态添加svg组件
+
+*   [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui) - 🐉 简单好用，不缠不绕，直接上手的go-web框架
+
+*   [hunter-ji/RedisFish](https://github.com/hunter-ji/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
+
+*   [quietdw/animated-banner](https://github.com/quietdw/animated-banner) - Bilibili 首页的动态Banner，感觉很炫酷，个人抽空实现了一波。
+
+*   [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) - 一款基于VUE的在线绘制流程图工具
+
+*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
+
+*   [u2sb/vuepress-plugin-vssue-global](https://github.com/u2sb/vuepress-plugin-vssue-global) - Vuepress的Vssue全局评论插件
+
+*   [qingqingxuan/vue-admin-work-x](https://github.com/qingqingxuan/vue-admin-work-x) - 🎉🎉🎉Vue Admin Work X，漂亮、强大、完善。采用 Vue3 Webpack Typescript Element Plus编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉
+
+*   [qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work) - Vue3 和 NaiveUI 的完美结合—Admin Work，拥有漂亮、强大、完善的功能。采用 Vue3 Vite2 Typescript NaiveUI Pinia编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用。持续更新，不断完善，一直在前进~~
+
+*   [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
+
+*   [dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch) - 多合一的开箱即用 vue3 暗黑模式开关组件 | A versatile vue3 dark mode switch component
+
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+
+*   [opsre/go-ldap-admin-ui](https://github.com/opsre/go-ldap-admin-ui) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
+
+*   [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+
+*   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [z3by/vuepress-plugin-flexsearch](https://github.com/z3by/vuepress-plugin-flexsearch) - Next-Generation full text search library for Vuepress
+
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
+
+## miscellaneous
+
+*   [wailsapp/awesome-wails](https://github.com/wailsapp/awesome-wails) - ⭐ A carefully selected list of Wails applications
+
+*   [eryajf/awesome-utools-plugins](https://github.com/eryajf/awesome-utools-plugins) - 🦄 汇集优秀的uTools开源插件
+
+*   [Kele-Bingtang/vitepress-theme-teek-docs-template](https://github.com/Kele-Bingtang/vitepress-theme-teek-docs-template) - vitepress theme teek 文档模板，可以快速搭建与官网一样的文档项目
+
+*   [xxjwxc/uber\_go\_guide\_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
+
+*   [opsre/.github](https://github.com/opsre/.github) - 全世界运维人员联合起来 | The Operations Personnel Of The World Unite
+
+*   [xxd763795151/rocketmq-monitor](https://github.com/xxd763795151/rocketmq-monitor) - 拿来即用的rocketmq监控、告警配置
+
+*   [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
+
+*   [HuangRunHua/FilerApp](https://github.com/HuangRunHua/FilerApp) - A Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system
+
+*   [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) - 面向网络小白的基础网络和容器网络的科普
+
+*   [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
+
+*   [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers) - A curated list of awesome Version Managers
+
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+*   [OpenGithubs/monthly](https://github.com/OpenGithubs/monthly) - Github精选开源项目月刊,每月30号更新
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+
+*   [eryajf/luban](https://github.com/eryajf/luban) - CMDB，K8S容器管理，运维平台，自动化运维发布平台
+
+*   [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
+
+*   [eryajf/Jenkinsfile](https://github.com/eryajf/Jenkinsfile) -
+
+*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
+
+*   [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+
+*   [AdoptOpenJDK/openjdk8-binaries](https://github.com/AdoptOpenJDK/openjdk8-binaries) - The new home for releases and nightlies for all OpenJDK8 variants and platforms
+
+*   [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt) - AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
+
+*   [eryajf/learn-github](https://github.com/eryajf/learn-github) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 4 个。
+
+*   [wuchangming/chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
+
+*   [cursor/cursor](https://github.com/cursor/cursor) -
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
+
+*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
+
+*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
+
+*   [eryajf/FreeSql.Wiki.VuePress](https://github.com/eryajf/FreeSql.Wiki.VuePress) - FreeSql wiki 文档采用 vuepress
+
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南
+
+*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
+
+*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
+
+*   [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
+
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
+
+*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
+
+*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
+
+*   [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 童欧巴的技术周刊，每周发布。🌰
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) - 【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。
+
+*   [qianguyihao/brand-list](https://github.com/qianguyihao/brand-list) - 优质品牌推荐，品质生活选择
+
+*   [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
+
+*   [eryajf/t](https://github.com/eryajf/t) - 个人图床
+
+*   [eryajf/docsify-template](https://github.com/eryajf/docsify-template) - docsify模板
+
+*   [eryajf/tu](https://github.com/eryajf/tu) - 图床
+
+*   [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
+
+*   [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [lanyulei/fiy](https://github.com/lanyulei/fiy) - 配置管理数据库，即CMDB。
+
+*   [eryajf/eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 25 stars and 27 forks 🌟
+
+*   [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家
+
+*   [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
+
+*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
+*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+## Python
+
+*   [physical-superintelligence-lab/Psi0](https://github.com/physical-superintelligence-lab/Psi0) - \[RSS26'] Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoid Intelligence.
+
+*   [opsre/version\_manager](https://github.com/opsre/version_manager) - 一站式版本管理、文件存储与权限控制解决方案
+
+*   [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
+
+*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+
+*   [lework/jenkins-update-center](https://github.com/lework/jenkins-update-center) - Jenkins mirror update center generator
+
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+
+*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+
+*   [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - An interface automation testing platform based on HttpRunner + Django + Vue + Element UI, production-ready.
+
+*   [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
+
+*   [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
+
+*   [IceEnd/github-immortality](https://github.com/IceEnd/github-immortality) - Dynamically generate stats for your GitHub readme
+
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+
+*   [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
+
+*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+
+*   [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
+
+*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+
+*   [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+
+*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
+
+*   [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
+
+*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+
+*   [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
+
+*   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+
+*   [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个不再迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会尽量更新下去的！
+
+*   [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+
+*   [eryajf/studyFiles](https://github.com/eryajf/studyFiles) - 一些经典且高质量的电子书分享
+
+*   [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+
+*   [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) - 每天定时同步 gcr.io 镜像到 hub.docker.com。sync google container registry images to hub.docker.com
+
+*   [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+
+*   [saveweb/review-2021](https://github.com/saveweb/review-2021) - 今年，你写年终总结了吗？
+
+*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [CloudWise-OpenSource/OMP](https://github.com/CloudWise-OpenSource/OMP) - OMP（Operation Management Platform）是云智慧公司自主设计、研发的轻量级、聚合型、智能运维管理平台。是一款为用户提供便捷运维能力和业务管理的综合平台。具备运维一应俱全的功能，目的是提升运维自动化、智能化，提高运维效率，提升业务连续性和安全性。
+
+*   [unixhot/opsany-paas](https://github.com/unixhot/opsany-paas) - OpsAny开源智能运维平台
+
+*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、全球一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
+
+*   [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) - 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI
+
 ## templ
 
 *   [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code.
@@ -2427,8 +2431,6 @@
 
 *   [LuRenJiasWorld/WP-Editor.md](https://github.com/LuRenJiasWorld/WP-Editor.md) - 或许这是一个WordPress中最好，最完美的Markdown编辑器
 
-*   [eryajf/shellabout](https://github.com/eryajf/shellabout) - 一些值得长久珍藏的shell相关文件
-
 ## Dockerfile
 
 *   [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
@@ -2520,8 +2522,6 @@
 *   [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 
 *   [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
-
-*   [goodboy23/shell-script-collection](https://github.com/goodboy23/shell-script-collection) - shell小框架，地址：http://www.linkops.cn/363.htm
 
 ## C++
 
