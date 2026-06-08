@@ -1189,8 +1189,6 @@
 
 *   [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 
-*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-
 *   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
 *   [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
@@ -1770,6 +1768,8 @@
 *   [duhbbx/SkylerX](https://github.com/duhbbx/SkylerX) - SkylerX — 跨平台桌面数据库管理工具 (Electron + Vue3 + TS)
 
 *   [WangFan-io/SnowAdmin](https://github.com/WangFan-io/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
+
+*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。AI驱动功能强大的IDE。
 
 *   [element-plus-x/Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) - Enterprise-level AI component library front-end solution 🤖
 
