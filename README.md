@@ -787,7 +787,7 @@
 
 ## Shell
 
-*   [ReJeCtAll/ExpertTeam-Codex](https://github.com/ReJeCtAll/ExpertTeam-Codex) - 一套可直接安装到 ~/.codex 的专家团配置，面向 Codex CLI / Codex App 桌面版的 Skill 调用方式 提供 3 个专家团与 1 个总路由入口。
+*   [ReJeCtAll/ExpertTeam-Codex](https://github.com/ReJeCtAll/ExpertTeam-Codex) - 一套可直接安装到 ~/.codex 的专家配置，面向 Codex CLI / Codex App 桌面版的 Skill 调用方式 提供 3 个专家团、2 个单专家与 1 个总路由入口。
 
 *   [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) - Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 
