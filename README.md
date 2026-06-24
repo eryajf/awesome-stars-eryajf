@@ -725,7 +725,7 @@
 
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。
 
 *   [dushixiang/kafka-map](https://github.com/dushixiang/kafka-map) - A beautiful, concise and powerful kafka web management tool.
 
@@ -2097,7 +2097,7 @@
 
 *   [moreKing/web-firewall](https://github.com/moreKing/web-firewall) -
 
-*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能化大数据中心/数据中台
+*   [isxcode/spark-yun](https://github.com/isxcode/spark-yun) - Ultra-Lightweight AI-Powered Big Data Center | 至轻云-超轻量级智能数据中心/数据中台
 
 *   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 
